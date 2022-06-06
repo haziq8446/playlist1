@@ -33,10 +33,10 @@ https://live.astradamy.com/tv3/index.m3u8
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (Backup)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroVinmeen" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png Astro Vinmeen
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwklk9dQAzXQba6NiTfDapxQk=rmbe/dash-wv/jitp-linearwm/2105/default_ott.mpd
+http://axcestv.vip:8080/freeview2/axcestv2/453
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -374,6 +374,49 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2407
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+  
+#EXTINF: -1 tvg-id="SONY PIX HD" tvg-name="SONY Pix" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", SONY Pix
+http://axcestv.vip:8080/freeview2/axcestv2/514
+#EXTINF: -1 tvg-id="Movies Now HD" tvg-name="Movies NOW" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Movies NOW
+http://axcestv.vip:8080/freeview2/axcestv2/649
+#EXTINF: -1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", MN+ HD
+http://axcestv.vip:8080/freeview2/axcestv2/650
+#EXTINF: -1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", &Flix HD
+http://axcestv.vip:8080/freeview2/axcestv2/510
+#EXTINF: -1 tvg-id="&Prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", &Prive HD
+http://axcestv.vip:8080/freeview2/axcestv2/511
+#EXTINF: -1 tvg-id="STAR Movies" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Star Movies
+http://axcestv.vip:8080/freeview2/axcestv2/512
+#EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Star Movie Select
+http://axcestv.vip:8080/freeview2/axcestv2/513
+#EXTINF: -1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", SHOWCASE MOVIES
+http://axcestv.vip:8080/freeview2/axcestv2/506
+#EXTINF: -1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Cinemax
+http://axcestv.vip:8080/freeview2/axcestv2/516
+#EXTINF: -1 tvg-id="My Cinema" tvg-name="MyCinema" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", MyCinema
+http://axcestv.vip:8080/freeview2/axcestv2/507
+#EXTINF: -1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", MyCinema Asia
+http://axcestv.vip:8080/freeview2/axcestv2/508
+#EXTINF: -1 tvg-id="My Family" tvg-name="MyFamily Cinema" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", MyFamily Cinema
+http://axcestv.vip:8080/freeview2/axcestv2/509
+#EXTINF: -1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Galaxy
+http://axcestv.vip:8080/freeview2/axcestv2/517
+#EXTINF: -1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Galaxy Premium
+http://axcestv.vip:8080/freeview2/axcestv2/518
+#EXTINF: -1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", HITS Movies
+http://axcestv.vip:8080/freeview2/axcestv2/519
+#EXTINF: -1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", CinemaWorld
+http://axcestv.vip:8080/freeview2/axcestv2/520
+#EXTINF: -1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Thrill
+http://axcestv.vip:8080/freeview2/axcestv2/521
+#EXTINF: -1 tvg-name="IMC" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", IMC
+http://axcestv.vip:8080/freeview2/axcestv2/522
+#EXTINF: -1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Flik
+http://axcestv.vip:8080/freeview2/axcestv2/523
+#EXTINF: -1 tvg-id="Bioskop Indonesia" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", Bioskop Indonesia
+http://axcestv.vip:8080/freeview2/axcestv2/524
+#EXTINF: -1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="MOVIES", KIX
+http://axcestv.vip:8080/freeview2/axcestv2/525 
 
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -670,6 +713,80 @@ https://asrazunifi.ddns.net:8443/dash/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
+  
+#EXTINF: -1 tvg-id="RTM Sports" tvg-name="RTM SUKAN" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", RTM SUKAN
+http://axcestv.vip:8080/freeview2/axcestv2/591
+#EXTINF: -1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Arena
+http://axcestv.vip:8080/freeview2/axcestv2/592
+#EXTINF: -1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Arena 2
+http://axcestv.vip:8080/freeview2/axcestv2/593
+#EXTINF: -1 tvg-id="ASSP1.my" tvg-name="ASSP [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP [A]
+http://axcestv.vip:8080/freeview2/axcestv2/594
+#EXTINF: -1 tvg-id="ASSP1.my" tvg-name="ASSP [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP [B]
+http://axcestv.vip:8080/freeview2/axcestv2/595
+#EXTINF: -1 tvg-id="ASSP2.my" tvg-name="ASSP2 [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP2 [A]
+http://axcestv.vip:8080/freeview2/axcestv2/596
+#EXTINF: -1 tvg-id="ASSP2.my" tvg-name="ASSP2 [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP2 [B]
+http://axcestv.vip:8080/freeview2/axcestv2/597
+#EXTINF: -1 tvg-id="ASSP3.my" tvg-name="ASSP3 [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP3 [A]
+http://axcestv.vip:8080/freeview2/axcestv2/598
+#EXTINF: -1 tvg-id="ASSP3.my" tvg-name="ASSP3 [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP3 [B]
+http://axcestv.vip:8080/freeview2/axcestv2/599
+#EXTINF: -1 tvg-id="ASSP4.my" tvg-name="ASSP4 [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP4 [A]
+http://axcestv.vip:8080/freeview2/axcestv2/600
+#EXTINF: -1 tvg-id="ASSP4.my" tvg-name="ASSP4 [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP4 [B]
+http://axcestv.vip:8080/freeview2/axcestv2/601
+#EXTINF: -1 tvg-id="Assp5" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", ASSP5
+http://axcestv.vip:8080/freeview2/axcestv2/602
+#EXTINF: -1 tvg-name="Sport Premier League" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Sport Premier League
+http://axcestv.vip:8080/freeview2/axcestv2/603
+#EXTINF: -1 tvg-name="Sport Football" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Sport Football
+http://axcestv.vip:8080/freeview2/axcestv2/604
+#EXTINF: -1 tvg-name="SuperSport La Liga" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", SuperSport La Liga
+http://axcestv.vip:8080/freeview2/axcestv2/865
+#EXTINF: -1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", beIN Sports 1 ID
+http://axcestv.vip:8080/freeview2/axcestv2/605
+#EXTINF: -1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", beIN Sports 2 ID
+http://axcestv.vip:8080/freeview2/axcestv2/606
+#EXTINF: -1 tvg-name="beIN Sport 3 " tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", beIN Sport 3
+http://axcestv.vip:8080/freeview2/axcestv2/866
+#EXTINF: -1 tvg-name="Sport tv 1" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Sport tv 1
+http://axcestv.vip:8080/freeview2/axcestv2/607
+#EXTINF: -1 tvg-name="Sport tv 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Sport tv 2
+http://axcestv.vip:8080/freeview2/axcestv2/608
+#EXTINF: -1 tvg-name="Sport tv 3" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Sport tv 3
+http://axcestv.vip:8080/freeview2/axcestv2/609
+#EXTINF: -1 tvg-name="Sport tv 4" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Sport tv 4
+http://axcestv.vip:8080/freeview2/axcestv2/610
+#EXTINF: -1 tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", BT Sport 1
+http://axcestv.vip:8080/freeview2/axcestv2/611
+#EXTINF: -1 tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", BT Sport 2
+http://axcestv.vip:8080/freeview2/axcestv2/612
+#EXTINF: -1 tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Usee Sport 1
+http://axcestv.vip:8080/freeview2/axcestv2/615
+#EXTINF: -1 tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Usee Sport 2
+http://axcestv.vip:8080/freeview2/axcestv2/616
+#EXTINF: -1 tvg-name="MNC Sport 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", MNC Sport 2
+http://axcestv.vip:8080/freeview2/axcestv2/634
+#EXTINF: -1 tvg-name="MNC Sport 1" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", MNC Sport 1
+http://axcestv.vip:8080/freeview2/axcestv2/631
+#EXTINF: -1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", SPOTV
+http://axcestv.vip:8080/freeview2/axcestv2/617
+#EXTINF: -1 tvg-name="Spotv 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Spotv 2
+http://axcestv.vip:8080/freeview2/axcestv2/618
+#EXTINF: -1 tvg-name="WWE" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", WWE
+http://axcestv.vip:8080/freeview2/axcestv2/619
+#EXTINF: -1 tvg-name="Eurosport" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Eurosport
+http://axcestv.vip:8080/freeview2/axcestv2/620
+#EXTINF: -1 tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Rugby TV
+http://axcestv.vip:8080/freeview2/axcestv2/621
+#EXTINF: -1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", NBA TV
+http://axcestv.vip:8080/freeview2/axcestv2/622
+#EXTINF: -1 tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", Fight Sport
+http://axcestv.vip:8080/freeview2/axcestv2/623
+#EXTINF: -1 tvg-name="eGG TV" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", eGG TV
+http://axcestv.vip:8080/freeview2/axcestv2/624
+#EXTINF: -1 tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SPORTS", NBC Golf  
 
 #EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
