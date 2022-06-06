@@ -60,23 +60,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bmOKVBy7VfgxfMIsNDfbuu4=qiNX/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9A1NMd0sbrQlx-fJXZwy0SU=hqsZ/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809",107 Astro Warna (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bmOKVBy7VfgxfMIsNDfbuu4=qiNX/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9A1NMd0sbrQlx-fJXZwy0SU=hqsZ/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bmOKVBy7VfgxfMIsNDfbuu4=qiNX/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9F_7u-PF_JH4hFN8nkatTaA=_BQE/dash-wv/jitp-linearwm/2700/default_ott.mpd
 # https://live.astradamy.com/astro/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bmOKVBy7VfgxfMIsNDfbuu4=qiNX/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9F_7u-PF_JH4hFN8nkatTaA=_BQE/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -168,7 +168,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bmOKVBy7VfgxfMIsNDfbuu4=qiNX/dash-wv/jitp-linearwm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwklJbpB3UcH_rN-bN2Rwc9H4=84Zj/dash-wv/jitp-linearwm/2105/default_ott.mpd
 # https://live.astradamy.com/astro/vinmeen/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
