@@ -461,7 +461,7 @@ http://axcestv.vip:8080/freeview2/axcestv2/509
 #EXTINF: -1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MOVIES", Galaxy
 http://axcestv.vip:8080/freeview2/axcestv2/517
 
-#EXTINF: -1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://yamcode.com/dimas-kay-modifier" group-title="MOVIES", Galaxy Premium
+#EXTINF: -1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" group-title="MOVIES", Galaxy Premium
 http://axcestv.vip:8080/freeview2/axcestv2/518
 
 #EXTINF: -1 tvg-name="IMC" tvg-logo="https://images.useetv.com/tvposter/imc.png" group-title="MOVIES", IMC
