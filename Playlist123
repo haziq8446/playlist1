@@ -929,7 +929,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF: -1 tvg-name="BT Sport 1" tvg-logo="https://archive.org/download/BtSport1/bt%20sport%201.png" group-title="SPORTS", BT Sport 1
 http://axcestv.vip:8080/freeview2/axcestv2/611
 
-#EXTINF: -1 tvg-name="BT Sport 2" tvg-logo="https://www.kindpng.com/picc/m/23-238823_bt-sport-2-logo-hd-png-download.png" group-title="SPORTS", BT Sport 2
+#EXTINF: -1 tvg-name="BT Sport 2 HD" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png" group-title="SPORTS", BT Sport 2 HD
 http://axcestv.vip:8080/freeview2/axcestv2/612
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio Stations" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Logo_world.png/revision/latest/scale-to-width-down/300?cb=20201220062855",KBS World Radio
