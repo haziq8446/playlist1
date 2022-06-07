@@ -1198,6 +1198,9 @@ https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/d8b73a38-09b6-5ad5-9
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/olympic-dream.png",Ejen Ali The Movies 
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/c89479eb-ad03-52ec-9b7f-210b357f6000/default_ott.mpd
 
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/olympic-dream.png",Dekatnya Cinta
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/8c9c1852-cf4b-565f-90df-f8e958a4ae47/default_ott.mpd
+
 #EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.astradamy.com/images/Venom-Let-There-Be-Carnage.png" type="movie",Venom: Let There Be Carnage
 https://onedrive-aqfad.vercel.app/api?path=/VOD/Venom.Let.There.Be.Carnage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 
