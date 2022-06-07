@@ -2644,13 +2644,13 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Tetuan-Ang-Dan-Rahimin/EP20.mp4
 
 #EXTINF:-1 type="series" group-title="Setelah Terlafaznya Akad nikah S2" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAWLW_Series_IVP_LAND_672x378_202261_112331.jpg",Episod 1
-
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Setelah-Terlafaznya-Akad-Nikah-S2/EP01.mp4
 
 #EXTINF:-1 type="series" group-title="Setelah Terlafaznya Akad nikah S2" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAWLW_Series_IVP_LAND_672x378_202261_112331.jpg",Episod 2
-https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/d037560a-6214-5467-af1a-2bae2a55e70f/default_ott.mpd
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Setelah-Terlafaznya-Akad-Nikah-S2/EP02.mp4
 
 #EXTINF:-1 type="series" group-title="Setelah Terlafaznya Akad nikah S2" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAWLW_Series_IVP_LAND_672x378_202261_112331.jpg",Episod 3
-https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/627313dc-8efd-5f7c-a121-686a2a048bb6/default_ott.mpd
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Setelah-Terlafaznya-Akad-Nikah-S2/EP03.mp4
 
 #EXTINF:-1 type="series" group-title="Histeria The Series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBKCO01_series_vod_IVP_LAND_672x378_2022531_14810.jpg",Episod 1
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/256e7abb-fe22-5822-b258-fe5b4f9370a5/default_ott.mpd
