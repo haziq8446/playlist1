@@ -224,6 +224,12 @@ https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkqyW68ScRsmpuqw
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2310
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
+#EXTINF:-1 tvg-id="KTVHD" ch-number="1058" group-title="india" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",1058 KTV HD
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1188268,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+chunklist_w711222064.m3u8?@asfaiptv
+
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5011
