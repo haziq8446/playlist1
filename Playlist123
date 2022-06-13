@@ -1045,7 +1045,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-http://axcestv.vip:8080/freeview2/axcestv2/594
+http://axcestv.vip:8080/FreeSG/axcestv/594
 # https://live.astradamy.com/astro/s1/index.mpd
 
 #EXTINF: -1 tvg-id="AstroSupersport5.my" tvg-name="ASSP5(b)Astro SuperSports 5 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/07/XZTxBeMtA1docKO.jpg" group-title="SPORTS", ASSP5(b)Astro SuperSports 5 HD SPORTS
@@ -1375,40 +1375,40 @@ http://iptv12k.com:35461/8032022060101/452381/2335
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",811 Astro SuperSport HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-http://axcestv.vip:8080/freeview2/axcestv2/595
+http://axcestv.vip:8080/FreeSG/axcestv/595
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport2.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-http://axcestv.vip:8080/freeview2/axcestv2/596
+http://axcestv.vip:8080/FreeSG/axcestv/596
 # https://live.astradamy.com/astro/s2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport2.png",812 Astro SuperSport 2 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-http://axcestv.vip:8080/freeview2/axcestv2/597
+http://axcestv.vip:8080/FreeSG/axcestv/597
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-http://axcestv.vip:8080/freeview2/axcestv2/598
+http://axcestv.vip:8080/FreeSG/axcestv/598
 # https://live.astradamy.com/astro/s3/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",813 Astro SuperSport 3 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-http://axcestv.vip:8080/freeview2/axcestv2/599
+http://axcestv.vip:8080/FreeSG/axcestv/599
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport4.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-http://axcestv.vip:8080/freeview2/axcestv2/600
+http://axcestv.vip:8080/FreeSG/axcestv/600
 # https://live.astradamy.com/astro/s4/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport4.png",814 Astro SuperSport 4 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-http://axcestv.vip:8080/freeview2/axcestv2/601
+http://axcestv.vip:8080/FreeSG/axcestv/601
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
