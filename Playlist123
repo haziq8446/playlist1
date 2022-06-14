@@ -25,6 +25,186 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
+
+#EXTINF: -1 tvg-id="TV1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png" group-title="FREEVIEW", 101 TV1
+http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+#EXTINF: -1 tvg-id="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102.png" group-title="FREEVIEW", 102 TV2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF: -1 tvg-id="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png" group-title="FREEVIEW", 103 TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
+
+#EXTINF: -1 tvg-id="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="FREEVIEW", 111 SUKAN RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF: -1 tvg-id="TV6" tvg-logo="https://telegra.ph/file/04d73bd40aaf937296d26.png" group-title="FREEVIEW", 113 TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF: -1 tvg-id="TVAlhijrah" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="FREEVIEW", 114 TV ALHIJRAH
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF: -1 tvg-id="GoShopRUUMA" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png" group-title="FREEVIEW", 118 GO SHOP RUUMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_primary.mpd
+
+#EXTINF: -1 tvg-id="GoShopGAAYA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png" group-title="FREEVIEW", 120 GO SHOP GAAYA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_primary.mpd
+
+#EXTINF: -1 tvg-id="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="FREEVIEW", 122 TVS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AwesomeTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png" group-title="FREEVIEW", 123 AWESOME TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+
+#EXTINF: -1 tvg-id="OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="FREEVIEW", 146 OKEY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+
+#EXTINF: -1 tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="FREEVIEW", 147 DIDIKTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF: -1 tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="FREEVIEW", 148 8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF: -1 tvg-id="TV9" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png" group-title="FREEVIEW", 149 TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF: -1 tvg-id="BernamaTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="FREEVIEW", 502 BERNAMA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroTutorTVSK" tvg-logo="https://aqfadtv.astradamy.com/logos/TutorTVSK.png" group-title="FREEVIEW", 601 ASTRO TUTOR TV SK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroTutorTVSMK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" group-title="FREEVIEW", 603 ASTRO TUTOR TV SMK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroPrima" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png" group-title="NJOI HD", 105 ASTRO PRIMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroOasis" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png" group-title="NJOI HD", 106 ASTRO OASIS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroRania" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="NJOI HD", ASTRO RANIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroAura" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="NJOI HD", ASTRO AURA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroVaanavil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529" group-title="NJOI HD", 201 ASTRO VAANAVIL
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+#EXTINF: -1 tvg-id="SunTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" group-title="NJOI HD", 211 SUN TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroXiaoTaiYang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png/revision/latest?cb=20191204084625" group-title="NJOI HD", 304 ASTRO XIAO TAI YANG
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
+
+#EXTINF: -1 tvg-id="CCM" tvg-logo="https://aqfadtv.astradamy.com/logos/CCMWhite.png" group-title="NJOI HD", 321 CCM
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+
+#EXTINF: -1 tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title="NJOI HD", 335 CCTV4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+
+#EXTINF: -1 tvg-id="HITSMovies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="NJOI HD", 401 HITS Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+
+#EXTINF: -1 tvg-id="HBO" tvg-logo="http://images.now-tv.com/shares/channelPreview/image/en_hk/color/ch115_170_122" group-title="NJOI HD", 411 HBO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#EXTINF: -1 tvg-id="Cinemax" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="NJOI HD", 412 CINEMAX
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+
+#EXTINF: -1 tvg-id="ShowcaseMovies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="NJOI HD", 413 SHOWCASE MOVIES
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroAwani" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="NJOI HD", 501 ASTRO AWANI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroCeria" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png" group-title="NJOI HD", 611 ASTRO CERIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+
+#EXTINF: -1 tvg-id="Primetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="NJOI HD", 704 PRIMETIME
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
+
+#EXTINF: -1 tvg-id="HITS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" group-title="NJOI HD", 706 HITS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+
+#EXTINF: -1 tvg-id="eGGNetwork" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png" group-title="NJOI HD", 800 EGG NETWORK
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroArena" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png" group-title="NJOI HD", 801 ASTRRO ARENA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroArena2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802.png" group-title="NJOI HD", 802 ASTRO ARENA 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815.png" group-title="NJOI HD", 815 ASTRO SUPERSPORT 5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+
+#EXTINF: -1 tvg-id="beINSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814" group-title="NJOI HD", 817 BEIN SPORTS 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
+
+#EXTINF: -1 tvg-id="beINSports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="NJOI HD", 818 BEIN SPORTS HD AstGO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF: -1 tvg-id="beINSports3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242" group-title="NJOI HD", 819 BEIN SPORTS 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF: -1 tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="RADIO PERCUMA", HITZ
+https://astro1.rastream.com/hitz
+#EXTINF: -1 tvg-id="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="RADIO PERCUMA", MY
+https://astro1.rastream.com/myfm
+#EXTINF: -1 tvg-id="LITE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="RADIO PERCUMA", LITE
+http://aqfadunifi.ddns.net:8080/lite.m3u8
+#EXTINF: -1 tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="RADIO PERCUMA", MIX
+https://astro2.rastream.com/mix
+#EXTINF: -1 tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO PERCUMA", ERA
+https://astro2.rastream.com/era
+#EXTINF: -1 tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO PERCUMA", SINAR
+https://astro2.rastream.com/sinar
+#EXTINF: -1 tvg-id="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" group-title="RADIO PERCUMA", MELODY
+https://astro3.rastream.com/melody
+#EXTINF: -1 tvg-id="RAAGA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="RADIO PERCUMA", RAAGA
+https://astro3.rastream.com/raaga
+#EXTINF: -1 tvg-id="ROCK" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png" group-title="RADIO PERCUMA", SYOK CLASSIC ROCK
+https://astro4.rastream.com/rock
+#EXTINF: -1 tvg-id="GOLD" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokGold2021.png" group-title="RADIO PERCUMA", SYOK GOLD
+https://astro4.rastream.com/gold
+#EXTINF: -1 tvg-id="OPUS" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOpus2021.png" group-title="RADIO PERCUMA", SYOK OPUS
+https://astro4.rastream.com/opus
+#EXTINF: -1 tvg-id="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="RADIO PERCUMA", GEGAR
+https://astro3.rastream.com/gegar
+#EXTINF: -1 tvg-id="INDIA" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokIndiaBeat.png" group-title="RADIO PERCUMA", SYOK INDIA BEAT
+https://astro4.rastream.com/india
+#EXTINF: -1 tvg-id="JAZZ" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokJazz2021.png" group-title="RADIO PERCUMA", SYOK JAZZ
+https://astro4.rastream.com/jazz
+#EXTINF: -1 tvg-id="OSAI" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png" group-title="RADIO PERCUMA", SYOK OSAI
+https://astro4.rastream.com/osai
+#EXTINF: -1 tvg-id="BAYU" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokBayu2021.png" group-title="RADIO PERCUMA", SYOK BAYU
+https://astro4.rastream.com/bayu
+#EXTINF: -1 tvg-id="KENYALANG" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokKenyalang2021.png" group-title="RADIO PERCUMA", SYOK KENYALANG
+https://astro4.rastream.com/kenyalang
+#EXTINF: -1 tvg-id="NASFM" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png" group-title="RADIO PERCUMA", NASIONAL FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+#EXTINF: -1 tvg-id="VFM" tvg-logo="https://i.postimg.cc/4dW9q6P1/Sabah-VFM-New.png" group-title="RADIO PERCUMA", VFM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+#EXTINF: -1 tvg-id="WAIFM" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png" group-title="RADIO PERCUMA", WAI FM
+https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF: -1 tvg-id="TRAXXFM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="RADIO PERCUMA", TRAXX FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+#EXTINF: -1 tvg-id="MINNALFM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="RADIO PERCUMA", MINNAL FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+#EXTINF: -1 tvg-id="AIFM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png" group-title="RADIO PERCUMA", AI FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+#EXTINF: -1 tvg-id="ASYIKFM" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png" group-title="RADIO PERCUMA", ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+#EXTINF: -1 tvg-id="ZAYAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="RADIO PERCUMA", ZAYAN
+http://aqfadunifi.ddns.net:8080/zayan.m3u8
+#EXTINF: -1 tvg-id="GOXUAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="RADIO PERCUMA", GOXUAN
+http://aqfadunifi.ddns.net:8080/goxuan.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 https://live.astradamy.com/tv3/index.m3u8
 
