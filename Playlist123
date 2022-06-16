@@ -222,8 +222,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkiWj_aV2t1DJTqGZxiDcxs0=KPZI/dash-wv/jitp-linearwm/2105/default_ott.mpd
 # https://live.astradamy.com/astro/vinmeen/index.mpd
 
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
-# https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
+http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/45967c85b79bfe9f24b42a89392c6750/8/8eb6e520-a3ba-4787-a158-c01294b4a76d.m3u8
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
