@@ -236,11 +236,8 @@ http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2734
 #EXTINF: -1 tvg-name="IN: Ktv HD" group-title="indian" tvg-logo="https://sc.dish.com/shared/images/station-logos/K%20TV.png" group-title="INDIA OTHERS(D-Z)", IN: Ktv HD
 http://iptv12k.com:35461/8032022060101/452381/2282
 
-#EXTINF: -1 tvg-name="IN: STAR MOVIES FHD" group-title="Movies", IN: STAR MOVIES FHD
-http://iptv.nonland.net:8080/cctv1333/sawz1625/44610
-
-#EXTINF: -1 tvg-name="IN: And Pictures SD" group-title="Movies", IN: And Pictures SD
-http://iptv.nonland.net:8080/cctv1333/sawz1625/21508
+#EXTINF:-1 tvg-id="Andprive HD" ch-number="512" group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
+http://stariptv.org:8080/nour2020/123456/99337
 
 #EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya" group-title="indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Malaysia(MY)", ASTRO Adithya
 http://iptv12k.com:35461/8032022060101/452381/659
@@ -248,14 +245,8 @@ http://iptv12k.com:35461/8032022060101/452381/659
 #EXTINF: -1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV" group-title="indian" tvg-logo="http://www.cgtoday.com/news_images/chutti_logo_22_dec_10.jpg" group-title="Malaysia(MY)", Chutti TV
 http://iptv12k.com:35461/8032022060101/452381/658
 
-#EXTINF: -1 tvg-id="UTVMovies.in" tvg-name="UTV movies" group-title="indian" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Malaysia(MY)", UTV movies
-http://iptv12k.com:35461/8032022060101/452381/657
-
 #EXTINF:-1 tvg-id="KTVHD (Backup)" ch-number="6" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",KTV HD (Backup)
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2734
-
-#EXTINF: -1 tvg-name="IN: ETV UK" group-title="indian" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/etv-world.png" group-title="INDIA OTHERS(D-Z)", IN: ETV UK
-http://iptv12k.com:35461/8032022060101/452381/2269
 
 #EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
 http://iptv12k.com:35461/8032022060101/452381/4274
@@ -272,83 +263,8 @@ http://iptv12k.com:35461/8032022060101/452381/1861
 #EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" group-title="indian" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | ADITYA TV
 http://iptv12k.com:35461/8032022060101/452381/1860
 
-#EXTINF: -1 tvg-name="IN : Tamil | CAPTAIN NEWS" group-title="indian" group-title="indian" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN : Tamil | CAPTAIN NEWS
-http://iptv12k.com:35461/8032022060101/452381/1859
- 
-#EXTINF: -1 tvg-name="IN : Tamil | DD PODHIGAI" group-title="indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="INDIA TAMIL", IN : Tamil | DD PODHIGAI
-http://iptv12k.com:35461/8032022060101/452381/1858
-
-#EXTINF: -1 tvg-name="IN : Tamil | EET TV" group-title="indian" tvg-logo="https://eettv.com/wp-content/uploads/2020/02/logo-5.png" group-title="INDIA TAMIL", IN : Tamil | EET TV
-http://iptv12k.com:35461/8032022060101/452381/1857
-
-#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="IN : Tamil | JAYA MAX USA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MAX USA
-http://iptv12k.com:35461/8032022060101/452381/1855
-
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA MOVIES" group-title="indian" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-movies-final.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MOVIES
-http://iptv12k.com:35461/8032022060101/452381/1854
-
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA PLUS" group-title="indian"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Jaya-plus.png" group-title="INDIA TAMIL", IN : Tamil | JAYA PLUS
-http://iptv12k.com:35461/8032022060101/452381/1853
-
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV" group-title="indian" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" group-title="INDIA TAMIL", IN : Tamil | JAYA TV
-http://iptv12k.com:35461/8032022060101/452381/1852
-
 #EXTINF: -1 tvg-name="IN : Tamil | KTV US" group-title="indian" tvg-logo="https://img1.wsimg.com/isteam/ip/5e5fca93-5352-4a39-bcdf-8b817712c45f/005%20Youtube%20Profile%20logo-new3.png" group-title="INDIA TAMIL", IN : Tamil | KTV US
 http://iptv12k.com:35461/8032022060101/452381/1850
-
-#EXTINF: -1 tvg-name="IN : Tamil | NEWS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | NEWS 7
-http://iptv12k.com:35461/8032022060101/452381/1849
-
-#EXTINF: -1 tvg-name="IN : Tamil | POLIMER NEWS" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA TAMIL", IN : Tamil | POLIMER NEWS
-http://iptv12k.com:35461/8032022060101/452381/1848
-
-#EXTINF: -1 tvg-name="IN : Tamil | POLIMER TV"group-title="indian"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL", IN : Tamil | POLIMER TV
-http://iptv12k.com:35461/8032022060101/452381/1847
-
-#EXTINF: -1 tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHIYA THALAIMURAI
-http://iptv12k.com:35461/8032022060101/452381/1846
-
-#EXTINF: -1 tvg-name="IN : Tamil | PUTHUYUGAM TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHUYUGAM TV
-http://iptv12k.com:35461/8032022060101/452381/1845
-
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS
-http://iptv12k.com:35461/8032022060101/452381/1844
-
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS US
-http://iptv12k.com:35461/8032022060101/452381/1843
-
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX
-http://iptv12k.com:35461/8032022060101/452381/1842
-
-#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV
-http://iptv12k.com:35461/8032022060101/452381/1841
-
-#EXTINF: -1 tvg-name="IN : Tamil | STAR VIJAY india" group-title="indian" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA TAMIL", IN : Tamil | STAR VIJAY india
-http://iptv12k.com:35461/8032022060101/452381/1839
-
-#EXTINF: -1 tvg-name="IN : Tamil | SUN LIFE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png" group-title="INDIA TAMIL", IN : Tamil | SUN LIFE
-http://iptv12k.com:35461/8032022060101/452381/1838
-
-#EXTINF: -1 tvg-name="IN : Tamil | SUN MUSIC" group-title="indian" tvg-logO="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN MUSIC
-http://iptv12k.com:35461/8032022060101/452381/1837
-
-#EXTINF: -1 tvg-name="IN : Tamil | SUN NEWS" group-title="indian" tvg-logo="https://img.favpng.com/6/25/2/television-channel-captain-news-tamil-sun-tv-png-favpng-rA1S4974KsWGL517TbzXajGq0.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN NEWS
-http://iptv12k.com:35461/8032022060101/452381/1836
-
-#EXTINF: -1 tvg-name="IN : Tamil | VASANTH TV" group-title="indian" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/vasanth-TV.png" group-title="INDIA TAMIL", IN : Tamil | VASANTH TV
-http://iptv12k.com:35461/8032022060101/452381/1835
-
-#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR" group-title="indian" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR
-http://iptv12k.com:35461/8032022060101/452381/1834
-
-#EXTINF: -1 tvg-name="IN : Tamil | WIN TV" group-title="indian" group-title="indian" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Win_Television_Logo.png" group-title="INDIA TAMIL", IN : Tamil | WIN TV
-http://iptv12k.com:35461/8032022060101/452381/1833
-
-#EXTINF: -1 tvg-name="IN: GTV tamil" group-title="indian" tvg-logo="https://s3.amazonaws.com/uk-tm/UK00002656643.jpg" group-title="INDIA TAMIL", IN: GTV tamil
-http://iptv12k.com:35461/8032022060101/452381/1830
-
-#EXTINF: -1 tvg-name="IN: Kalaignar TV" group-title="indian" group-title="indian" tvg-logo="https://pbs.twimg.com/profile_images/331304698/kalaignar_tv_400x400.jpg" group-title="INDIA OTHERS(D-Z)", IN: Kalaignar TV
-http://iptv12k.com:35461/8032022060101/452381/2257
 
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
