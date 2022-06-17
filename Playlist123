@@ -222,7 +222,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkiWj_aV2t1DJTqGZxiDcxs0=KPZI/dash-wv/jitp-linearwm/2105/default_ott.mpd
 # https://live.astradamy.com/astro/vinmeen/index.mpd
 
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
+#EXTINF:-1 tvg-id="AstroVellithirai"group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
 http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/45967c85b79bfe9f24b42a89392c6750/8/8eb6e520-a3ba-4787-a158-c01294b4a76d.m3u8
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
@@ -233,10 +233,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #EXTINF:-1 tvg-id="KTVHD" ch-number="5" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",5 KTV HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2734
 
-#EXTINF: -1 tvg-name="IN: Ktv HD" group-title="indian" tvg-logo="https://sc.dish.com/shared/images/station-logos/K%20TV.png" group-title="INDIA OTHERS(D-Z)", IN: Ktv HD
+#EXTINF: -1 tvg-name="IN: Ktv HD" group-title="indian" tvg-logo="https://sc.dish.com/shared/images/station-logos/K%20TV.png" group-title="Indian", IN: Ktv HD
 http://iptv12k.com:35461/8032022060101/452381/2282
 
-#EXTINF:-1 tvg-id="Andprive HD" ch-number="512" group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
+#EXTINF: -1 tvg-name="IN:Yupp Thirai" group-title="indian" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/0a24c3c8c10b6a7074bb7ddd3d8a288f.png" group-title="Indian", IN:Yupp Thirai
+http://axcestv.vip:8080/FreeSG/axcestv/588
+
+#EXTINF:-1 tvg-id="Andprive HD"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
 http://stariptv.org:8080/nour2020/123456/99337
 
 #EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya" group-title="indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Malaysia(MY)", ASTRO Adithya
