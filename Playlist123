@@ -239,8 +239,11 @@ http://iptv12k.com:35461/8032022060101/452381/2282
 #EXTINF: -1 tvg-name="IN:Yupp Thirai" group-title="indian" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/0a24c3c8c10b6a7074bb7ddd3d8a288f.png" group-title="Indian", IN:Yupp Thirai
 http://axcestv.vip:8080/FreeSG/axcestv/588
 
-#EXTINF:-1 tvg-id="Andprive HD"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
+#EXTINF:-1 tvg-id="Andpicture HD Backup"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
 http://stariptv.org:8080/nour2020/123456/99337
+
+#EXTINF:-1 tvg-id="Andpicture HD"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD Backup
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/16958
 
 #EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya" group-title="indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Malaysia(MY)", ASTRO Adithya
 http://iptv12k.com:35461/8032022060101/452381/659
@@ -250,6 +253,9 @@ http://iptv12k.com:35461/8032022060101/452381/658
 
 #EXTINF:-1 tvg-id="KTVHD (Backup)" ch-number="6" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",KTV HD (Backup)
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2734
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717" group-title="indian" KTV HD 
+http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/5560
 
 #EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
 http://iptv12k.com:35461/8032022060101/452381/4274
@@ -550,7 +556,6 @@ https://live.astradamy.com/hbogo/cinemax/index.m3u8
 #EXTINF: -1 tvg-name="IN: Star world HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="INDIA OTHERS(D-Z)", IN: Star world HD
 http://iptv12k.com:35461/8032022060101/452381/2332
 
-
 #EXTINF: -1 tvg-id="HBO.id" tvg-name="SIN-HBO MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="MOVIES", SIN-HBO MOVIE
 http://iptv12k.com:35461/8032022060101/452381/1893
 
@@ -587,38 +592,8 @@ http://iptv12k.com:35461/8032022060101/452381/1883
 #EXTINF: -1 tvg-name="Cinemax HD MOVIE" tvg-logo="https://itsmiyagi.site:443/images/9d44a8b4dfee561ae093a8827310163f.png" group-title="MOVIES", Cinemax HD MOVIE
 http://iptv12k.com:35461/8032022060101/452381/1882
 
-#EXTINF: -1 tvg-name="Cinema World HD MOVIE" tvg-logo="https://itsmiyagi.site:443/images/d5bd04b0765510168b519198219e154e.png" group-title="MOVIES", Cinema World HD MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1881
-
-#EXTINF: -1 tvg-name="SIN-Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="MOVIES", SIN-Warner TV MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1880
-
 #EXTINF: -1 tvg-name="Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="MOVIES", Warner TV MOVIE
 http://iptv12k.com:35461/8032022060101/452381/1879
-
-#EXTINF: -1 tvg-name="SIN-Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/05/yIpXYmD8OTK7L5Z.jpg" group-title="MOVIES", SIN-Hits MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1878
-
-#EXTINF: -1 tvg-name="SIN-Hits MOVIE1" tvg-logo="https://i.loli.net/2021/10/05/yIpXYmD8OTK7L5Z.jpg" group-title="MOVIES", SIN-Hits MOVIE1
-http://iptv12k.com:35461/8032022060101/452381/1877
-
-#EXTINF: -1 tvg-id="KIX.id" tvg-name="SIN-Kix MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES", SIN-Kix MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1876
-
-#EXTINF: -1 tvg-name="SIN-Celestial Movies MOVIE" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title="MOVIES", SIN-Celestial Movies MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1875
-
-#EXTINF: -1 tvg-name="SIN-Celestial Movies MOVIE1" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title="MOVIES", SIN-Celestial Movies MOVIE1
-http://iptv12k.com:35461/8032022060101/452381/1874
-
-#EXTINF: -1 tvg-name="SIN-CCM MOVIE1" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="MOVIES", SIN-CCM MOVIE1
-http://iptv12k.com:35461/8032022060101/452381/1873
-
-#EXTINF: -1 tvg-name="SIN-CCM MOVIE" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="MOVIES", SIN-CCM MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1872
-
-#EXTINF: -1 tvg-name="IN: SONY PIX HD" group-title="Movies", IN: SONY PIX HD
-http://iptv.nonland.net:8080/cctv1333/sawz1625/44795
 
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
