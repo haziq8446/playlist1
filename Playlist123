@@ -40,6 +40,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPhttps://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bpIH4oy_B56-NN1F7sq38SM=M2cv/dash-wv/jitp-linearwm/1004/default_ott.mpdROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 
+#EXTINF: -1 tvg-id="116" tvg-name="[MY] Hypp Sensasi HD" tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg" group-title="[VIP] MALAYSIA", [MY] Hypp Sensasi HD
+https://ktiptv.cf:443/7605/7605/656644
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,58 +224,49 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkiWj_aV2t1DJTqGZxiDcxs0=KPZI/dash-wv/jitp-linearwm/2105/default_ott.mpd
 # https://live.astradamy.com/astro/vinmeen/index.mpd
 
-#EXTINF:-1 tvg-id="AstroVellithirai"group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
-http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/45967c85b79bfe9f24b42a89392c6750/8/8eb6e520-a3ba-4787-a158-c01294b4a76d.m3u8
+#EXTINF:-1 tvg-id="AstroVellithirai"group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
+https://ktiptv.cf:443/7605/7605/25959
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2310
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
-#EXTINF:-1 tvg-id="KTVHD" ch-number="5" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",5 KTV HD
+#EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",5 KTV HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2734
 
-#EXTINF: -1 tvg-name="IN: Ktv HD" group-title="indian" tvg-logo="https://sc.dish.com/shared/images/station-logos/K%20TV.png" group-title="Indian", IN: Ktv HD
-http://iptv12k.com:35461/8032022060101/452381/2282
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717" group-title="Indian", KTV HD IN
+http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/5560
 
 #EXTINF: -1 tvg-name="IN:Yupp Thirai" group-title="indian" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/0a24c3c8c10b6a7074bb7ddd3d8a288f.png" group-title="Indian", IN:Yupp Thirai
 http://axcestv.vip:8080/FreeSG/axcestv/588
+
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/3.jpg" group-title="Indian", Zee Cinema FHD IN
+http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/4002
+
+#EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/02/zee-tv-vector-logo.png" group-title="Indian", Zee TV IN
+http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/4000
 
 #EXTINF:-1 tvg-id="Andpicture HD Backup"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
 http://stariptv.org:8080/nour2020/123456/99337
 
 #EXTINF:-1 tvg-id="Andpicture HD"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD Backup
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/16958
+http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/10622
 
-#EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya" group-title="indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="Malaysia(MY)", ASTRO Adithya
-http://iptv12k.com:35461/8032022060101/452381/659
-
-#EXTINF: -1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV" group-title="indian" tvg-logo="http://www.cgtoday.com/news_images/chutti_logo_22_dec_10.jpg" group-title="Malaysia(MY)", Chutti TV
-http://iptv12k.com:35461/8032022060101/452381/658
-
-#EXTINF:-1 tvg-id="KTVHD (Backup)" ch-number="6" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",KTV HD (Backup)
+#EXTINF:-1 tvg-id="KTVHD (Backup)" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",KTV HD (Backup)
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2734
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717" group-title="indian" KTV HD 
 http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/5560
 
-#EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
-http://iptv12k.com:35461/8032022060101/452381/4274
+#EXTINF: -1 tvg-id="KTV HD "tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/640x360_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg" group-title="Indian", [MY] KTV HD
+https://ktiptv.cf:443/7605/7605/26029
 
-#EXTINF: -1 tvg-id="SunTV.in" tvg-name="IN:  Tamil: Sun tv HD Tamil" group-title="indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA TAMIL", IN:  Tamil: Sun tv HD Tamil
-http://iptv12k.com:35461/8032022060101/452381/1863
+#EXTINF: -1 tvg-name="[IN] Sun TV HD" group-title="India", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
+https://ktiptv.cf:443/7605/7605/540594
 
-#EXTINF: -1 tvg-name="IN: Star Vijay" group-title="indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN: Star Vijay
-http://iptv12k.com:35461/8032022060101/452381/1862
-
-#EXTINF: -1 tvg-name="IN : Tamil | VIJAY HD" group-title="indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN : Tamil | VIJAY HD
-http://iptv12k.com:35461/8032022060101/452381/1861
-
-#EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" group-title="indian" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | ADITYA TV
-http://iptv12k.com:35461/8032022060101/452381/1860
-
-#EXTINF: -1 tvg-name="IN : Tamil | KTV US" group-title="indian" tvg-logo="https://img1.wsimg.com/isteam/ip/5e5fca93-5352-4a39-bcdf-8b817712c45f/005%20Youtube%20Profile%20logo-new3.png" group-title="INDIA TAMIL", IN : Tamil | KTV US
-http://iptv12k.com:35461/8032022060101/452381/1850
+#EXTINF: -1 tvg-name="[IN] KTV HD" group-title=" [VIP] India", [IN] KTV HD
+https://ktiptv.cf:443/7605/7605/540674
 
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -594,6 +587,17 @@ http://iptv12k.com:35461/8032022060101/452381/1882
 
 #EXTINF: -1 tvg-name="Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="MOVIES", Warner TV MOVIE
 http://iptv12k.com:35461/8032022060101/452381/1879
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Fox_Action_Movies_Logo_in_white.png/revision/latest/scale-to-width-down/144?cb=20200818023447" group-title="Movies",FOX Action Movies
+http://iptv12k.com:35461/80201051217/424567/612
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUyHnbk6oPVa1dXLWPQUtrMQDTAzuc1pbc4A&amp;usqp=CAU" group-title="Movies",FOX Family Movies
+http://iptv12k.com:35461/80201051217/424567/611
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD" tvg-logo="https://itsmiyagi.site:443/images/0e1a11b47f5eaaa41ea336f6cb2fa4c1.png" group-title="Movies",FOX Movies HD
+http://iptv12k.com:35461/80201051217/424567/610
+
 
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -922,329 +926,71 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 http://axcestv.vip:8080/FreeSG/axcestv/594
 # https://live.astradamy.com/astro/s1/index.mpd
 
-#EXTINF: -1 tvg-id="AstroSupersport5.my" tvg-name="ASSP5(b)Astro SuperSports 5 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/07/XZTxBeMtA1docKO.jpg" group-title="SPORTS", ASSP5(b)Astro SuperSports 5 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7981
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 501 AU" tvg-logo="https://media.info/i/lf/0/1489224113/6550.png" group-title="Sports",[AU] Fox Sports 501 AU
+http://iptv12k.com:35461/80201051217/424567/3391
 
-#EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-name="ASSP1(a) Astro Supersports Premier League 1 HD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", ASSP1(a) Astro Supersports Premier League 1 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7990
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 502 AU" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="Sports",[AU] Fox Sports 502 AU
+http://iptv12k.com:35461/80201051217/424567/3390
 
-#EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-name="ASSP1(b) Astro Supersports Premier League 1 HD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", ASSP1(b) Astro Supersports Premier League 1 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7989
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 503 AU" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6551.1489224386.png" group-title="Sports",[AU] Fox Sports 503 AU
+http://iptv12k.com:35461/80201051217/424567/3389
 
-#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(a) Astro Supersports Premier League 2 HD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORTS", ASSP2(a) Astro Supersports Premier League 2 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7988
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 504 AU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cesta_II._triedy_%C4%8D%C3%ADslo_504.svg/1200px-Cesta_II._triedy_%C4%8D%C3%ADslo_504.svg.png" group-title="Sports",[AU] Fox Sports 504 AU
+http://iptv12k.com:35461/80201051217/424567/3388
 
-#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(b) Astro Supersports Premier League 2 HD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORTS", ASSP2(b) Astro Supersports Premier League 2 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7987
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 505 AU" tvg-logo="https://media.info/i/lf/0/1489224687/6552.png" group-title="Sports",[AU] Fox Sports 505 AU
+http://iptv12k.com:35461/80201051217/424567/3387
 
-#EXTINF: -1 tvg-name="ASSP3(a)Astro Supersports Premier League 3 HDSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS", ASSP3(a)Astro Supersports Premier League 3 HDSPORTS
-http://iptv12k.com:35461/8032022060101/452381/7986
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 506 AU" tvg-logo="https://media.info/i/lf/0/1489225082/6553.png" group-title="Sports",[AU] Fox Sports 506 AU
+http://iptv12k.com:35461/80201051217/424567/3386
 
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(b)Astro Supersports Premier League 3 HDSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS", ASSP3(b)Astro Supersports Premier League 3 HDSPORTS
-http://iptv12k.com:35461/8032022060101/452381/7985
+#EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 507 AU" tvg-logo="https://icdb.tv/images/3f7c952ca7c01ee0173f4f4713a7d0cc.jpg" group-title="Sports",[AU] Fox Sports 507 AU
+http://iptv12k.com:35461/80201051217/424567/3385
 
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(a)Astro Supersports Premier 4 HD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS", ASSP4(a)Astro Supersports Premier 4 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7984
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport 1 SD" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="Sports",UK: Sky Sport 1 SD
+http://iptv12k.com:35461/80201051217/424567/2352
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/2000px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="Sports",UK: Sky Sport Arena HD
+http://iptv12k.com:35461/80201051217/424567/2351
 
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(b)Astro Supersports Premier 4 HD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS", ASSP4(b)Astro Supersports Premier 4 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7983
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",UK: Sky Sport F1 HD
+http://iptv12k.com:35461/80201051217/424567/2350
 
-#EXTINF: -1 tvg-id="AstroSupersport5.my" tvg-name="ASSP5(a)Astro SuperSports 5 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/07/XZTxBeMtA1docKO.jpg" group-title="SPORTS", ASSP5(a)Astro SuperSports 5 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/7982
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/1280px-Sky_Sport_Football_HD_-_Logo_2018.svg.png" group-title="Sports",UK: Sky Sport Football HD
+http://iptv12k.com:35461/80201051217/424567/2349
 
-#EXTINF: -1 tvg-name="USA1: Golf Channel" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="SPORTS", USA1: Golf Channel
-http://iptv12k.com:35461/8032022060101/452381/5817
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News(a)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmqGYxOCPQpcS39TMDmFc93yEh2Pcd4BxfE8-ILog7k-1L3wA" group-title="Sports",UK: Sky Sports News(a)
+http://iptv12k.com:35461/80201051217/424567/2348
 
-#EXTINF: -1 tvg-name="US: Supersport Football" group-title="SPORTS", US: Supersport Football
-http://iptv12k.com:35461/8032022060101/452381/5670
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK.png" group-title="Sports",UK: SKY SPORTS ACTION HD
+http://iptv12k.com:35461/80201051217/424567/2346
 
-#EXTINF: -1 tvg-name="UK: SKY SPORTS FOOTBALL" group-title="SPORTS", UK: SKY SPORTS FOOTBALL
-http://iptv12k.com:35461/8032022060101/452381/5404
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Sports",UK: SKY SPORTS CRICKET HD
+http://iptv12k.com:35461/80201051217/424567/2344
 
-#EXTINF: -1 tvg-name="UK: SKY SPORT F1" group-title="SPORTS", UK: SKY SPORT F1
-http://iptv12k.com:35461/8032022060101/452381/5362
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="Sports",UK: SKY SPORTS GOLF HD
+http://iptv12k.com:35461/80201051217/424567/2342
 
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(c)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS", ASSP3(c)Astro Supersports Premier League 3
-http://iptv12k.com:35461/8032022060101/452381/5221
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="Sports",UK: SKY SPORTS MAIN EVENT
+http://iptv12k.com:35461/80201051217/424567/2341
 
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(d)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS", ASSP3(d)Astro Supersports Premier League 3
-http://iptv12k.com:35461/8032022060101/452381/5220
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="Sports",UK: SKY SPORTS MAIN EVENT HD
+http://iptv12k.com:35461/80201051217/424567/2340
 
-#EXTINF: -1 tvg-name="AF: SuperSport Grandstand  SPORTS" tvg-logo="https://i.imgur.com/wIqnnDP.png" group-title="SPORTS", AF: SuperSport Grandstand  SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5007
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.moddingway.com/screenshots/files/226106/big.jpg" group-title="Sports",UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptv12k.com:35461/80201051217/424567/2337
 
-#EXTINF: -1 tvg-name="AF: SuperSport PSL SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/psl.png" group-title="SPORTS", AF: SuperSport PSL SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5006
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Two" tvg-logo="https://trello-attachments.s3.amazonaws.com/5995a5da548fe8c14624d367/5d400361d48ff25b56be9640/2d51416c01b43f276716253be0cd1526/image.png" group-title="Sports",UK: Sky Two
+http://iptv12k.com:35461/80201051217/424567/2335
 
-#EXTINF: -1 tvg-name="AF: SuperSport Premier League SPORTS" group-title="SPORTS", AF: SuperSport Premier League SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5005
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/733/259/png-transparent-fox-sports-1-fox-sports-2-fox-sports-networks-fox-material-television-blue-animals.png" group-title="Sports",Fox Sports 1
+http://iptv12k.com:35461/80201051217/424567/650
 
-#EXTINF: -1 tvg-name="AF: SuperSport La Liga	 SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/stations/a297.png" group-title="SPORTS", AF: SuperSport La Liga	 SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5004
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Sports",Fox Sports 2
+http://iptv12k.com:35461/80201051217/424567/649
 
-#EXTINF: -1 tvg-name="AF: SuperSport Football SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/349359871/Football_400x400.jpg" group-title="SPORTS", AF: SuperSport Football SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5003
-
-#EXTINF: -1 tvg-name="AF: SuperSport Action SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action-live.png" group-title="SPORTS", AF: SuperSport Action SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5002
-
-#EXTINF: -1 tvg-name="AF: SuperSport Rugby  SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png" group-title="SPORTS", AF: SuperSport Rugby  SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5001
-
-#EXTINF: -1 tvg-name="AF: SuperSport Cricket  SPORTS" tvg-logo="https://i.pinimg.com/236x/64/c4/1d/64c41d5abcb5596d75562560ae8a446e--logo-ideas-world-cup-.jpg" group-title="SPORTS", AF: SuperSport Cricket  SPORTS
-http://iptv12k.com:35461/8032022060101/452381/5000
-
-#EXTINF: -1 tvg-name="AF: SuperSport Variety 1  SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1-live.png" group-title="SPORTS", AF: SuperSport Variety 1  SPORTS
-http://iptv12k.com:35461/8032022060101/452381/4999
-
-#EXTINF: -1 tvg-name="AF: SuperSport Variety 2 SPORTS" tvg-logo="https://www.dstvafrica.com/media/10997/ss_variety_2_africa_hd_227.jpg" group-title="SPORTS", AF: SuperSport Variety 2 SPORTS
-http://iptv12k.com:35461/8032022060101/452381/4998
-
-#EXTINF: -1 tvg-name="AF: SuperSport Variety 3 SPORTS" tvg-logo="https://img.favpng.com/20/6/20/supersport-lyngsat-logo-south-africa-dstv-png-favpng-xhNZsQz00ieCi2MwLxmAAYNKK.jpg" group-title="SPORTS", AF: SuperSport Variety 3 SPORTS
-http://iptv12k.com:35461/8032022060101/452381/4997
-
-#EXTINF: -1 tvg-name="AF: SuperSport Variety 4 SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/stations/a294.png" group-title="SPORTS", AF: SuperSport Variety 4 SPORTS
-http://iptv12k.com:35461/8032022060101/452381/4996
-
-#EXTINF: -1 tvg-name="TH: Truesports 2 HD SPORT" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_Truesport2.jpg" group-title="SPORTS", TH: Truesports 2 HD SPORT
-http://iptv12k.com:35461/8032022060101/452381/4995
-
-#EXTINF: -1 tvg-name="TH: Truesports 3 HD	 SPORT" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="SPORTS", TH: Truesports 3 HD	 SPORT
-http://iptv12k.com:35461/8032022060101/452381/4994
-
-#EXTINF: -1 tvg-name="TH: Truesports 4 HD SPORT" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113135253true-sport-4.png" group-title="SPORTS", TH: Truesports 4 HD SPORT
-http://iptv12k.com:35461/8032022060101/452381/4993
-
-#EXTINF: -1 tvg-name="TH: Truesports 5 HD SPORT" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-5-1074.png" group-title="SPORTS", TH: Truesports 5 HD SPORT
-http://iptv12k.com:35461/8032022060101/452381/4992
-
-#EXTINF: -1 tvg-name="TH: Truesports 7 HD SPORT" tvg-logo="https://i.pinimg.com/originals/6b/b3/2d/6bb32d5d9af1b48b8d9d1d9b87041ae5.png" group-title="SPORTS", TH: Truesports 7 HD SPORT
-http://iptv12k.com:35461/8032022060101/452381/4991
-
-#EXTINF: -1 tvg-name="SUPERSPORT BLITZ" tvg-logo="https://pbs.twimg.com/profile_images/1300741850635079680/K7OqnbRz_400x400.jpg" group-title="SPORTS", SUPERSPORT BLITZ
-http://iptv12k.com:35461/8032022060101/452381/4843
-
-#EXTINF: -1 tvg-name="BEIN SPORT" tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png" group-title="SPORTS", BEIN SPORT
-http://iptv12k.com:35461/8032022060101/452381/4800
-
-#EXTINF: -1 tvg-name="BEIN MAX" tvg-logo="https://2.bp.blogspot.com/-YtsjpCb193M/WyJOBA0sYXI/AAAAAAAACec/sany_f9GrCok9NUE8fzItj4iBsQDG9txACLcBGAs/w1200-h630-p-k-no-nu/Bein%2BSports%2BMax%2B1HD%2BLive.png" group-title="SPORTS", BEIN MAX
-http://iptv12k.com:35461/8032022060101/452381/4799
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports News AU" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png" group-title="SPORTS", [AU] Fox Sports News AU
-http://iptv12k.com:35461/8032022060101/452381/3392
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 501 AU" tvg-logo="https://media.info/i/lf/0/1489224113/6550.png" group-title="SPORTS", [AU] Fox Sports 501 AU
-http://iptv12k.com:35461/8032022060101/452381/3391
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 502 AU" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS", [AU] Fox Sports 502 AU
-http://iptv12k.com:35461/8032022060101/452381/3390
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 503 AU" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6551.1489224386.png" group-title="SPORTS", [AU] Fox Sports 503 AU
-http://iptv12k.com:35461/8032022060101/452381/3389
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 504 AU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cesta_II._triedy_%C4%8D%C3%ADslo_504.svg/1200px-Cesta_II._triedy_%C4%8D%C3%ADslo_504.svg.png" group-title="SPORTS", [AU] Fox Sports 504 AU
-http://iptv12k.com:35461/8032022060101/452381/3388
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 505 AU" tvg-logo="https://media.info/i/lf/0/1489224687/6552.png" group-title="SPORTS", [AU] Fox Sports 505 AU
-http://iptv12k.com:35461/8032022060101/452381/3387
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 506 AU" tvg-logo="https://media.info/i/lf/0/1489225082/6553.png" group-title="SPORTS", [AU] Fox Sports 506 AU
-http://iptv12k.com:35461/8032022060101/452381/3386
-
-#EXTINF: -1 tvg-name="[AU] Fox Sports 507 AU" tvg-logo="https://icdb.tv/images/3f7c952ca7c01ee0173f4f4713a7d0cc.jpg" group-title="SPORTS", [AU] Fox Sports 507 AU
-http://iptv12k.com:35461/8032022060101/452381/3385
-
-#EXTINF: -1 tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="SPORTS", UK: SKY SPORTS GOLF HD
-http://iptv12k.com:35461/8032022060101/452381/2342
-
-#EXTINF: -1 tvg-name="IN: Star Sports2-SD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="SPORTS", IN: Star Sports2-SD
-http://iptv12k.com:35461/8032022060101/452381/2333
-
-#EXTINF: -1 tvg-name="IN:  Star sports select 1 i" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="SPORTS", IN:  Star sports select 1 i
-http://iptv12k.com:35461/8032022060101/452381/2316
-
-#EXTINF: -1 tvg-name="IN:  Star sports HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="SPORTS", IN:  Star sports HD1
-http://iptv12k.com:35461/8032022060101/452381/2315
-
-#EXTINF: -1 tvg-id="MUTV.uk" tvg-name="UK: MUTV 8k" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS", UK: MUTV 8k
-http://iptv12k.com:35461/8032022060101/452381/1954
-
-#EXTINF: -1 tvg-name="IN: STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="SPORTS", IN: STAR SPORTS 1 HD
-http://iptv12k.com:35461/8032022060101/452381/1951
-
-#EXTINF: -1 tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="SPORTS", IN: STAR SPORTS 2 HD
-http://iptv12k.com:35461/8032022060101/452381/1950
-
-#EXTINF: -1 tvg-name="IN: Star sports  SELECT 1" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-1-logo-300x300.jpg" group-title="SPORTS", IN: Star sports  SELECT 1
-http://iptv12k.com:35461/8032022060101/452381/1946
-
-#EXTINF: -1 tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="SPORTS", IN: STAR SPORTS SELECT 2 HD
-http://iptv12k.com:35461/8032022060101/452381/1945
-
-#EXTINF: -1 tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", IN:  Sony Six SD
-http://iptv12k.com:35461/8032022060101/452381/1937
-
-#EXTINF: -1 tvg-name="US: NBC Golf" tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="SPORTS", US: NBC Golf
-http://iptv12k.com:35461/8032022060101/452381/1724
-
-#EXTINF: -1 tvg-name="US: Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="SPORTS", US: Fox Sports 1 HD
-http://iptv12k.com:35461/8032022060101/452381/1633
-
-#EXTINF: -1 tvg-name="US: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS", US: Fox Sports 2 HD
-http://iptv12k.com:35461/8032022060101/452381/1632
-
-#EXTINF: -1 tvg-name="[TW] NBCgolf" tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="SPORTS", [TW] NBCgolf
-http://iptv12k.com:35461/8032022060101/452381/1228
-
-#EXTINF: -1 tvg-name="WWE Network SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="SPORTS", WWE Network SPORTS
-http://iptv12k.com:35461/8032022060101/452381/993
-
-#EXTINF: -1 tvg-id="AstroCricket.my" tvg-name="ASTRO Cricket SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS", ASTRO Cricket SPORTS
-http://iptv12k.com:35461/8032022060101/452381/992
-
-#EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-name="]ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", ]ASSP1(c) Astro Supersports Premier League 1 HD
-http://iptv12k.com:35461/8032022060101/452381/972
-
-#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORTS", ASSP2(c) Astro Supersports Premier League 2
-http://iptv12k.com:35461/8032022060101/452381/971
-
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(e)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS", ASSP3(e)Astro Supersports Premier League 3
-http://iptv12k.com:35461/8032022060101/452381/970
-
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS", ASSP4(c)Astro Supersports Premier 4
-http://iptv12k.com:35461/8032022060101/452381/969
-
-#EXTINF: -1 tvg-name="SpoTV SPORTS" tvg-logo="https://i.loli.net/2021/10/03/eTmMUZYXkIRts1D.png" group-title="SPORTS", SpoTV SPORTS
-http://iptv12k.com:35461/8032022060101/452381/967
-
-#EXTINF: -1 tvg-id="AstroArena.my" tvg-name="ASTRO Arena(b) SPORTS" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/Astro-Arena.jpg" group-title="SPORTS", ASTRO Arena(b) SPORTS
-http://iptv12k.com:35461/8032022060101/452381/966
-
-#EXTINF: -1 tvg-id="AstroArena2.my" tvg-name="My-Astro Arena 2SPORTS" tvg-logo="https://i.ytimg.com/vi/UXCymQ-7RN8/maxresdefault.jpg" group-title="SPORTS", My-Astro Arena 2SPORTS
-http://iptv12k.com:35461/8032022060101/452381/965
-
-#EXTINF: -1 tvg-name="SG-BeIN Sports HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/EGa1YShtmPfiWOv.png" group-title="SPORTS", SG-BeIN Sports HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/964
-
-#EXTINF: -1 tvg-name="SG-BeIN Sports HD 2 SPORTS" tvg-logo="https://i.loli.net/2021/10/02/AJHbWkfwNSj3Imc.png" group-title="SPORTS", SG-BeIN Sports HD 2 SPORTS
-http://iptv12k.com:35461/8032022060101/452381/963
-
-#EXTINF: -1 tvg-name="SG-beIN Sports Max 2 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="SPORTS", SG-beIN Sports Max 2 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/961
-
-#EXTINF: -1 tvg-name="SG-beIN Sports Max 3 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="SPORTS", SG-beIN Sports Max 3 HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/960
-
-#EXTINF: -1 tvg-name="SIN-Fight Sports SPORTS" tvg-logo="https://i.loli.net/2021/10/03/jZyTsSi4eg9oAaq.png" group-title="SPORTS", SIN-Fight Sports SPORTS
-http://iptv12k.com:35461/8032022060101/452381/946
-
-#EXTINF: -1 tvg-id="eGGNetwork.my" tvg-name="SIN-EGG Network SPORTS" tvg-logo="https://i.loli.net/2021/10/03/EzU9lfuwGnWPVQt.jpg" group-title="SPORTS", SIN-EGG Network SPORTS
-http://iptv12k.com:35461/8032022060101/452381/944
-
-#EXTINF: -1 tvg-id="RugbyPass.my" tvg-name="Rugby Pass TV SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/rugbypass-tv.png" group-title="SPORTS", Rugby Pass TV SPORTS
-http://iptv12k.com:35461/8032022060101/452381/943
-
-#EXTINF: -1 tvg-name="SG-NBA TV HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/ndZi7DgrWHCFvVq.png" group-title="SPORTS", SG-NBA TV HD SPORTS
-http://iptv12k.com:35461/8032022060101/452381/942
-
-#EXTINF: -1 tvg-id="GolfChannel.my" tvg-name="Golf Channel HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="SPORTS", Golf Channel HD
-http://iptv12k.com:35461/8032022060101/452381/651
-
-#EXTINF: -1 tvg-name="Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/733/259/png-transparent-fox-sports-1-fox-sports-2-fox-sports-networks-fox-material-television-blue-animals.png" group-title="SPORTS", Fox Sports 1
-http://iptv12k.com:35461/8032022060101/452381/650
-
-#EXTINF: -1 tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS", Fox Sports 2
-http://iptv12k.com:35461/8032022060101/452381/649
-
-#EXTINF: -1 tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS", Fox Sports 3
-http://iptv12k.com:35461/8032022060101/452381/648
-
-#EXTINF: -1 tvg-name="SIN-Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS", SIN-Fox Sports 2
-http://iptv12k.com:35461/8032022060101/452381/316
-
-#EXTINF: -1 tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT(UK)", UK: MUTV
-http://iptv12k.com:35461/8032022060101/452381/2385
-
-#EXTINF: -1 tvg-name="UK: MUTV Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT(UK)", UK: MUTV Backup
-http://iptv12k.com:35461/8032022060101/452381/2384
-
-#EXTINF: -1 tvg-name="UK: Boxnation" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png" group-title="SPORT(UK)", UK: Boxnation
-http://iptv12k.com:35461/8032022060101/452381/2382
-
-#EXTINF: -1 tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="SPORT(UK)", UK: BT Sport 1 backup
-http://iptv12k.com:35461/8032022060101/452381/2381
-
-#EXTINF: -1 tvg-name="UK: BT Sport 1 HD" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg" group-title="SPORT(UK)", UK: BT Sport 1 HD
-http://iptv12k.com:35461/8032022060101/452381/2380
-
-#EXTINF: -1 tvg-name="UK: BT Sport 3 HD" tvg-logo="https://1.bp.blogspot.com/-NT0JpdM8_Ko/XPexW-fri_I/AAAAAAAAAxE/2_i5Ev0r1BQjPmFB0u-fOs0H2GmDWdb_wCLcBGAs/w1200-h630-p-k-no-nu/bt-sport-3-bt-sport-3-live-bt-sport-3-live-stream-bt-sport-3-live-streaming-bt-sport-3-hd-bt-sport-3-channel%255B1%255D-min.png" group-title="SPORT(UK)", UK: BT Sport 3 HD
-http://iptv12k.com:35461/8032022060101/452381/2378
-
-#EXTINF: -1 tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORT(UK)", UK: BT Sport 3 SD
-http://iptv12k.com:35461/8032022060101/452381/2377
-
-#EXTINF: -1 tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="SPORT(UK)", UK: BT Sport ESPN
-http://iptv12k.com:35461/8032022060101/452381/2376
-
-#EXTINF: -1 tvg-name="UK: BT Sports 2 SD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1540.1565312726.png" group-title="SPORT(UK)", UK: BT Sports 2 SD
-http://iptv12k.com:35461/8032022060101/452381/2372
-
-#EXTINF: -1 tvg-name="UK: Chelsea FC" tvg-logo="https://media.info/i/lf/300/1489269064/1163.png" group-title="SPORT(UK)", UK: Chelsea FC
-http://iptv12k.com:35461/8032022060101/452381/2371
-
-#EXTINF: -1 tvg-name="UK: Eir Sports2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="SPORT(UK)", UK: Eir Sports2
-http://iptv12k.com:35461/8032022060101/452381/2368
-
-#EXTINF: -1 tvg-name="UK: Eurosport 1" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="SPORT(UK)", UK: Eurosport 1
-http://iptv12k.com:35461/8032022060101/452381/2366
-
-#EXTINF: -1 tvg-name="UK: EUROSPORT 1 HD" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="SPORT(UK)", UK: EUROSPORT 1 HD
-http://iptv12k.com:35461/8032022060101/452381/2365
-
-#EXTINF: -1 tvg-name="UK: EUROSPORT 2 HD" tvg-logo="https://i.pinimg.com/originals/0f/ac/c0/0facc086b37c043d236a11f3c49f2f3c.png" group-title="SPORT(UK)", UK: EUROSPORT 2 HD
-http://iptv12k.com:35461/8032022060101/452381/2363
-
-#EXTINF: -1 tvg-name="UK: LFC TV HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/21/thumb_20605_default_news_size_5.jpeg" group-title="SPORT(UK)", UK: LFC TV HD
-http://iptv12k.com:35461/8032022060101/452381/2360
-
-#EXTINF: -1 tvg-name="UK: Mototrs TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/1280px-Motors_TV_logo.svg.png" group-title="SPORT(UK)", UK: Mototrs TV
-http://iptv12k.com:35461/8032022060101/452381/2357
-
-#EXTINF: -1 tvg-name="UK: Premier Sports HD" tvg-logo="https://media.irishpost.co.uk/uploads/2017/05/premier-logo-hd-copy.jpg" group-title="SPORT(UK)", UK: Premier Sports HD
-http://iptv12k.com:35461/8032022060101/452381/2356
-
-#EXTINF: -1 tvg-name="UK: Racing UK" tvg-logo="https://i.ytimg.com/vi/x-XgfFWA-pk/maxresdefault.jpg" group-title="SPORT(UK)", UK: Racing UK
-http://iptv12k.com:35461/8032022060101/452381/2354
-
-#EXTINF: -1 tvg-name="UK: Sky Sport 1 SD" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="SPORT(UK)", UK: Sky Sport 1 SD
-http://iptv12k.com:35461/8032022060101/452381/2352
-
-#EXTINF: -1 tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/2000px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="SPORT(UK)", UK: Sky Sport Arena HD
-http://iptv12k.com:35461/8032022060101/452381/2351
-
-#EXTINF: -1 tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SPORT(UK)", UK: Sky Sport F1 HD
-http://iptv12k.com:35461/8032022060101/452381/2350
-#EXTINF: -1 tvg-name="UK: Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/1280px-Sky_Sport_Football_HD_-_Logo_2018.svg.png" group-title="SPORT(UK)", UK: Sky Sport Football HD
-http://iptv12k.com:35461/8032022060101/452381/2349
-
-#EXTINF: -1 tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK.png" group-title="SPORT(UK)", UK: SKY SPORTS ACTION HD
-http://iptv12k.com:35461/8032022060101/452381/2346
-
-#EXTINF: -1 tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="SPORT(UK)", UK: SKY SPORTS CRICKET HD
-http://iptv12k.com:35461/8032022060101/452381/2344
-
-#EXTINF: -1 tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SPORT(UK)", UK: SKY SPORTS MAIN EVENT
-http://iptv12k.com:35461/8032022060101/452381/2341
-
-#EXTINF: -1 tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SPORT(UK)", UK: SKY SPORTS MAIN EVENT HD
-http://iptv12k.com:35461/8032022060101/452381/2340
-
-#EXTINF: -1 tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.moddingway.com/screenshots/files/226106/big.jpg" group-title="SPORT(UK)", UK: SKY SPORTS PREMIER LEAGUE HD
-http://iptv12k.com:35461/8032022060101/452381/2337
-
-#EXTINF: -1 tvg-name="UK: Sky Two" tvg-logo="https://trello-attachments.s3.amazonaws.com/5995a5da548fe8c14624d367/5d400361d48ff25b56be9640/2d51416c01b43f276716253be0cd1526/image.png" group-title="SPORT(UK)", UK: Sky Two
-http://iptv12k.com:35461/8032022060101/452381/2335
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sports",Fox Sports 3
+http://iptv12k.com:35461/80201051217/424567/648
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",811 Astro SuperSport HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1620,9 +1366,6 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Last-Man-Down.png",Last Man Down
 https://onedrive-aqfad.vercel.app/api?path=/VOD/Last.Man.Down.2021.720p.BRRip-OMG.mp4&raw=true&type=file.mp4
-
-#EXTINF: -1 type= "movie" group-title= "VOD" tvg-name="Saka MySejahtera TV Movie 2021 1h 33m Director Azhari Mohd Zain Writer Epy Kodiang Stars Zahiril AdzimAziz M. OsmanFadhli Masoot" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1MDQ3NWEtOTVjZC00NGFmLThiNDctY2MzYmE2Nzc2MzFkXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg" group-title="Malay/Indo Movie", Saka MySejahtera TV Movie 2021 1h 33m Director Azhari Mohd Zain Writer Epy Kodiang Stars Zahiril AdzimAziz M. OsmanFadhli Masoot
-http://iptv12k.com:35461/movie/8032022060101/452381/6693.mp4
 
 #EXTINF: -1 tvg-name="Twenty One Gms (2022) Malayalam Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/twenty-one-grams-et00324665-14-03-2022-04-07-48.jpg" group-title="INDIA", Twenty One Gms (2022) Malayalam Subs Indo
 http://iptv12k.com:35461/movie/8032022060101/452381/8265.mp4
@@ -3088,6 +2831,9 @@ http://iptv12k.com:35461/movie/8032022060101/452381/1052.mp4
 #EXTINF: -1 tvg-name="Misteri Mona Kuserumu Kembali 2021  MAY 14," tvg-logo="https://1.bp.blogspot.com/-zsHgc1n9PC0/YJ_NLmRm-iI/AAAAAAAALp8/fW8VJ2BKi9gKCZVkIdLxyWfLe0BeEeNGwCLcBGAsYHQ/s16000/Misteri%2BMona%2BKuserumu%2BKembali.jpg" group-title="Astro First Movie", [untitled]
 http://iptv12k.com:35461/movie/8032022060101/452381/1051.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Bunga dan Kayu TV Movie 2022 1h 39m Director Wan Hafiz Writers Fairul Nizam AblahModee Stars Mk K. CliqueAzira ShafinazElly Arifin" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_JYQEY_IVP_LAND_672x378_202251_74048.jpg" group-title="Astro First Movie",Bunga dan Kayu 
+http://iptv12k.com:35461/movie/80201051217/424567/8147.mp4
+
 #EXTINF: -1 tvg-name="Rompak Raya TV Movie 2021" tvg-logo="https://1.bp.blogspot.com/-ZisbmSXkwPA/YKDYBwvbyyI/AAAAAAAALlQ/QgGlltzA5w0rjmnwZ0O2o2Ktr3xV10AdQCLcBGAsYHQ/s750/Rompak%2BRaya.jpg" group-title="Astro First Movie", Rompak Raya TV Movie 2021
 http://iptv12k.com:35461/movie/8032022060101/452381/1050.mp4
 
@@ -3760,6 +3506,90 @@ https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.De
 
 #EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 10
 https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP10.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E01" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E01
+http://iptv12k.com:35461/series/80201051217/424567/4434.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E02" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E02
+http://iptv12k.com:35461/series/80201051217/424567/4435.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E03" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E03
+http://iptv12k.com:35461/series/80201051217/424567/4437.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E04" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E04
+http://iptv12k.com:35461/series/80201051217/424567/4438.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E05" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E05
+http://iptv12k.com:35461/series/80201051217/424567/4439.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E06" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E06
+http://iptv12k.com:35461/series/80201051217/424567/4440.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E07" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E07
+http://iptv12k.com:35461/series/80201051217/424567/4445.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E08" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E08
+http://iptv12k.com:35461/series/80201051217/424567/4446.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E09" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E09
+http://iptv12k.com:35461/series/80201051217/424567/4447.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E10" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E10
+http://iptv12k.com:35461/series/80201051217/424567/4448.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E11" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E11
+http://iptv12k.com:35461/series/80201051217/424567/4449.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E12" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E12
+http://iptv12k.com:35461/series/80201051217/424567/4450.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E13" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E13
+http://iptv12k.com:35461/series/80201051217/424567/4451.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E14" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E14
+http://iptv12k.com:35461/series/80201051217/424567/4452.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E15" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E15
+http://iptv12k.com:35461/series/80201051217/424567/4453.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E16" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E16
+http://iptv12k.com:35461/series/80201051217/424567/4454.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E17" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E17
+http://iptv12k.com:35461/series/80201051217/424567/4456.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E18" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E18
+http://iptv12k.com:35461/series/80201051217/424567/4457.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E19" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E19
+http://iptv12k.com:35461/series/80201051217/424567/4455.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E20" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E20
+http://iptv12k.com:35461/series/80201051217/424567/4459.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E21" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E21
+http://iptv12k.com:35461/series/80201051217/424567/4460.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E22" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E22
+http://iptv12k.com:35461/series/80201051217/424567/4461.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E23" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E23
+http://iptv12k.com:35461/series/80201051217/424567/4462.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E24" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E24
+http://iptv12k.com:35461/series/80201051217/424567/4463.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E25" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E25
+http://iptv12k.com:35461/series/80201051217/424567/4464.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E26" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E26
+http://iptv12k.com:35461/series/80201051217/424567/4465.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E27" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E27
+http://iptv12k.com:35461/series/80201051217/424567/4466.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kisah Cinta Kita 2021 S01 E28" tvg-logo="https://1.bp.blogspot.com/-1XYief1GJDQ/YZ-utZ77wWI/AAAAAAAAL90/O01IOxCp8S4HgJhzS00T4_jr50MRfdZiQCLcBGAsYHQ/s1350/Kisah%2BCinta%2BKita.jpg" group-title="MALAYSIA",Kisah Cinta Kita 2021 S01 E28
+http://iptv12k.com:35461/series/80201051217/424567/4467.mp4
 
 #EXTINF:-1 type="series" group-title="Cukup Derita Itu" group-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png" tvg-logo="https://aqfadtv.astradamy.com/images/CukupDeritaItu.png",Episod 11
 https://onedrive.astradamy.com/api?path=/TVSeries/Cukup.Derita.Itu.2021/Cukup.Derita.Itu.2021.EP11.1080p.WEB_DL.AAC.H.264_OMG.mp4&raw=true&type=file.mp4
