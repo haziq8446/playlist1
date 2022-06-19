@@ -223,7 +223,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkmYEUobkQ20UEviZPIjOqlQ=2pXV/dash-wv/jitp-linearwm/2105/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41-RX_xWqqaBOgsGdcIus1fGu08OU5VJ0oNcl39b3Yt4s=dSWs/dash-wv/jitp-linearwm/2105/default_ott.mpd
 # https://live.astradamy.com/astro/vinmeen/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai"group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
