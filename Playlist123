@@ -270,6 +270,9 @@ https://ktiptv.cf:443/7605/7605/540594
 #EXTINF: -1 tvg-name="[IN] KTV HD" group-title=" [VIP] India", [IN] KTV HD
 https://ktiptv.cf:443/7605/7605/540674
 
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL",IN : Tamil | POLIMER TV
+http://iptv12k.com:35461/80201051217/424567/1847
+
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5011
@@ -561,7 +564,7 @@ http://iptv12k.com:35461/8032022060101/452381/596
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Cinemax" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax (HBO GO Feed)
-https://live.astradamy.com/hbogo/cinemax/index.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #EXTINF: -1 tvg-name="IN: Star world HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="INDIA OTHERS(D-Z)", IN: Star world HD
 http://iptv12k.com:35461/8032022060101/452381/2332
@@ -589,9 +592,6 @@ http://iptv12k.com:35461/8032022060101/452381/1887
 
 #EXTINF: -1 tvg-id="HBOSignature.id" tvg-name="HBO SignatureMOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="MOVIES", HBO SignatureMOVIE
 http://iptv12k.com:35461/8032022060101/452381/1886
-
-#EXTINF: -1 tvg-name="Cinemax HD MOVIE" tvg-logo="https://itsmiyagi.site:443/images/9d44a8b4dfee561ae093a8827310163f.png" group-title="MOVIES", Cinemax HD MOVIE
-http://iptv12k.com:35461/8032022060101/452381/1882
 
 #EXTINF: -1 tvg-name="Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="MOVIES", Warner TV MOVIE
 http://iptv12k.com:35461/8032022060101/452381/1879
@@ -3061,6 +3061,1010 @@ http://iptv12k.com:35461/movie/80201051217/424567/5931.mp4
 http://iptv12k.com:35461/movie/80201051217/424567/5930.mp4
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/Kha3nak-Serangan-Pocong-Poster.png",Khaenak : Serangan Pocong
 https://onedrive.astradamy.com/api?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4&raw=true&type=file.mp4
+
+
+#EXTM3U 
+#EXTINF: -1 tvg-name="Trikona (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBhYzdkOGYtNTI3NC00OTY2LWIwZDItN2MyMGI2MGJhYTQ2XkEyXkFqcGdeQXVyNDc4NDU5OTg@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Trikona (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8420.mkv
+#EXTINF: -1 tvg-name="Sher Shivraj (2022) Marathi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE1NGEzYjAtNWY3OC00NWE4LTgyNjMtZGY1MDA0YjNiMThiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg" group-title="INDIA", Sher Shivraj (2022) Marathi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8418.mp4
+#EXTINF: -1 tvg-name="Kinnerasani (2022) Telugu Subs Indo" tvg-logo="https://image.tmdb.org/t/p/w500/mKorqgV9F9dzTo3TT0fsV29RdM7.jpg" group-title="INDIA", Kinnerasani (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8417.mp4
+#EXTINF: -1 tvg-name="Jayamma Panchayathi (2022) Telugu Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jayamma-panchayathi-et00321507-04-05-2022-05-01-12.jpg" group-title="INDIA", Jayamma Panchayathi (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8416.mkv
+#EXTINF: -1 tvg-name="Avatara Purusha_ Part 1 (2022) Kannada Subs Indo" tvg-logo="https://static.toiimg.com/thumb/msid-91126182,width-219,height-317,imgsize-53072/91126182.jpg" group-title="INDIA", Avatara Purusha_ Part 1 (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8413.mkv
+#EXTINF: -1 tvg-name="Pathrosinte Padappukal (2022) Malayalam Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/pathrosinte-padappukal-et00324659-14-03-2022-01-36-02.jpg" group-title="INDIA", Pathrosinte Padappukal (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8393.mp4
+#EXTINF: -1 tvg-name="CBI 5 The Brain (2022) Malayalam Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/CBI_5_The_Brain_1.jpg/220px-CBI_5_The_Brain_1.jpg" group-title="INDIA", CBI 5 The Brain (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8390.mp4
+#EXTINF: -1 tvg-name="Ardh (2022) Hindi Subs Indo" tvg-logo="https://i.imgur.com/3xnkFlN.jpg" group-title="INDIA", Ardh (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8389.mp4
+#EXTINF: -1 tvg-name="Sarkaru Vaari Paata (2022) Telugu Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Sarkaru_Vaari_Paata.jpg" group-title="INDIA", Sarkaru Vaari Paata (2022) Telugu Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8382.mp4
+#EXTINF: -1 tvg-name="Attack_ Part 1 (2022) Hindi Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Attack_film_poster.jpg/220px-Attack_film_poster.jpg" group-title="INDIA", Attack_ Part 1 (2022) Hindi Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8376.mp4
+#EXTINF: -1 tvg-name="Twenty One Gms (2022) Malayalam Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/twenty-one-grams-et00324665-14-03-2022-04-07-48.jpg" group-title="INDIA", Twenty One Gms (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8265.mp4
+#EXTINF: -1 tvg-name="Red (2021) Telugu Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Red_2020_Poster.jpg/220px-Red_2020_Poster.jpg" group-title="INDIA", Red (2021) Telugu Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8260.mp4
+#EXTINF: -1 tvg-name="No Way Out (2022) Malayalam Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzczM2VjMGYtZjdmOS00MWE4LTkxNjgtYmIxMTBhMjdhN2ZlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", No Way Out (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8258.mp4
+#EXTINF: -1 tvg-name="Jayeshbhai Jordaar (2022) Hindi Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Jayeshbhai_Jordaar.jpg/220px-Jayeshbhai_Jordaar.jpg" group-title="INDIA", Jayeshbhai Jordaar (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8253.mp4
+#EXTINF: -1 tvg-name="Ini Oru Murai 2022" tvg-logo="https://c.saavncdn.com/053/Thirukoil-Darisanam-1988-500x500.jpg" group-title="INDIA", Ini Oru Murai 2022
+http://iptv12k.com:35461/movie/80201051217/424567/8251.mp4
+#EXTINF: -1 tvg-name="Hawala Rise Of A Gangster (2020) Kannada Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVmOTJmNmEtMjI2OS00MjhiLWI5MTgtZGUwNTYwZTdiYjhlXkEyXkFqcGdeQXVyMTIyMjIwMDAw._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Hawala Rise Of A Gangster (2020) Kannada Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8250.mp4
+#EXTINF: -1 tvg-name="Don (2022) Tamil Subs Malay" tvg-logo="https://tamilpedia.net/movies/uploads/large/don.jpg" group-title="INDIA", Don (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8249.mp4
+#EXTINF: -1 tvg-name="Chandramukhi (2022) Marathi Subs Indo" tvg-logo="http://popcornsg.s3.amazonaws.com/movies/650/9787-38152-Chandramjpg" group-title="INDIA", Chandramukhi (2022) Marathi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8248.mp4
+#EXTINF: -1 tvg-name="Body God (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmMDU1NDEtMWNhNS00NDkwLWE1ZTQtZTE3N2M5YjIxNWI5XkEyXkFqcGdeQXVyODY1NzgzMDQ@._V1_QL75_UX190_CR0,8,190,281_.jpg" group-title="INDIA", Body God (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8247.mp4
+#EXTINF: -1 tvg-name="Ayngaran (2022) Tamil Subs Indo" tvg-logo="http://popcornsg.s3.amazonaws.com/gallery/1653955559-ayngaran.jpg" group-title="INDIA", Ayngaran (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8246.mp4
+#EXTINF: -1 tvg-name="Attack 2022 2h 1m Director Lakshya Raj Anand Writers John Abraham(story)Lakshya Raj AnandSumit Batheja(dialogue) Stars Rakul Preet SinghJohn AbrahamJacqueline Fernandez" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZkODczYmEtNjU3YS00ZmI5LTg1M2YtMjUxNmJiZDcxZmZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="INDIA", Attack 2022 2h 1m Director Lakshya Raj Anand Writers John Abraham(story)Lakshya Raj AnandSumit Batheja(dialogue) Stars Rakul Preet SinghJohn AbrahamJacqueline Fernandez
+http://iptv12k.com:35461/movie/80201051217/424567/8236.mp4
+#EXTINF: -1 tvg-name="Jungle Cry (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBkYjQ2MjQtNGQ3My00OTk1LWIzZGMtMjIwMDZlNGMwYzA2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg" group-title="INDIA", Jungle Cry (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8229.mp4
+#EXTINF: -1 tvg-name="Koogle Kuttappa (2022) Tamil Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Koogle_Kuttappa_film_poster.jpg/220px-Koogle_Kuttappa_film_poster.jpg" group-title="INDIA", Koogle Kuttappa (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8222.mp4
+#EXTINF: -1 tvg-name="Yutha Satham (2022) Tamil Subs Indo" tvg-logo="https://www.tamil2lyrics.com/wp-content/uploads/2022/03/Yutha-Satham.jpg" group-title="INDIA", Yutha Satham (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8211.mp4
+#EXTINF: -1 tvg-name="Veerapandiyapuram (2022) Tamil Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/veerapandiyapuram-et00322377-17-02-2022-10-30-43.jpg" group-title="INDIA", Veerapandiyapuram (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8210.mp4
+#EXTINF: -1 tvg-name="Sarkar (2018) Tamil Subs Malay By Cocobutter" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MWY0NzYtNGI1Mi00OWU3LTg2NjctYzQwNzdhMTI3MjU5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="INDIA", Sarkar (2018) Tamil Subs Malay By Cocobutter
+http://iptv12k.com:35461/movie/80201051217/424567/8209.mp4
+#EXTINF: -1 tvg-name="Rocky (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ4MWU5NGQtMjM4OC00OGI5LTgwOTktMjMxMGJlY2I0ZWFkXkEyXkFqcGdeQXVyOTAyODE5ODg@._V1_.jpg" group-title="INDIA", Rocky (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8208.mp4
+#EXTINF: -1 tvg-name="Rhino (2021) Subs Indo" tvg-logo="https://moviesreview101.files.wordpress.com/2022/05/rhino_key_art-blue-finch-film-releasing.jpg" group-title="INDIA", Rhino (2021) Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8207.mp4
+#EXTINF: -1 tvg-name="Pothanur Thabal Nilayam (2022) Tamil Subs Indo" tvg-logo="https://i.ytimg.com/vi/HSR4vrtfv0g/maxresdefault.jpg" group-title="INDIA", Pothanur Thabal Nilayam (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8206.mp4
+#EXTINF: -1 tvg-name="Pen_Vilai_Verum_999_Rubai_Mattume_2022_Tamil_Subs_Indo" tvg-logo="https://i.ytimg.com/vi/Yemjpn04PJ8/maxresdefault.jpg" group-title="INDIA", Pen_Vilai_Verum_999_Rubai_Mattume_2022_Tamil_Subs_Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8205.mp4
+#EXTINF: -1 tvg-name="Payanigal Gavanikkavum (2022) Tamil Subs Indo" tvg-logo="https://www.newsbugz.com/wp-content/uploads/2022/04/PAYANIGAL-GAVANIKKAVUM-1.jpg" group-title="INDIA", Payanigal Gavanikkavum (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8204.mp4
+#EXTINF: -1 tvg-name="Oh My Dog (2022) Tamil Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Oh_My_Dog_film_poster.jpg" group-title="INDIA", Oh My Dog (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8203.mp4
+#EXTINF: -1 tvg-name="Naai Sekar (2022) Tamil Subs Malay" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/naaisekarreturns-20211008171701-20451.jpg" group-title="INDIA", Naai Sekar (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8201.mp4
+#EXTINF: -1 tvg-name="Valimai (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBmZTA3MWMtOTFkMy00MjI4LTk4ZjEtZmQ1YjI4MzJhMzA4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="INDIA", Valimai (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8200.mp4
+#EXTINF: -1 tvg-name="Muni (2007) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZkMmU0ZWYtNGE3My00YzhlLWE3ZjctMmM0NGY0NWVhZDM0L2ltYWdlXkEyXkFqcGdeQXVyNzAwNjgyMDU@._V1_.jpg" group-title="INDIA", Muni (2007) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8199.mp4
+#EXTINF: -1 tvg-name="Manmadha Leelai (2022) Tamil Subs Indo" tvg-logo="https://i.ytimg.com/vi/Hw5c_Fe2LW4/maxresdefault.jpg" group-title="INDIA", Manmadha Leelai (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8198.mp4
+#EXTINF: -1 tvg-name="Kanchana_ Muni 2 (2011) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjZmMyZTQtMjBhZS00NmE2LWJlYTItOTkzMjJiNzg5MTY3XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg" group-title="INDIA", Kanchana_ Muni 2 (2011) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8197.mp4
+#EXTINF: -1 tvg-name="Kanchana 2_ Muni 3 (2015) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhmMzVjNmMtMjI3Ni00ZTczLWExNWEtYTVkMzk5NzAzZDQ1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg" group-title="INDIA", Kanchana 2_ Muni 3 (2015) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8196.mp4
+#EXTINF: -1 tvg-name="Kaadan (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgyNmFhZWUtMzcwYy00M2EwLWEzYWMtZjdmYTZlNzEyZDM1XkEyXkFqcGdeQXVyMTE0NDk0MzM0._V1_.jpg" group-title="INDIA", Kaadan (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8195.mp4
+#EXTINF: -1 tvg-name="Idiot (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJjYThmYWQtMWUyMi00Njc1LTk2YTctMjNiYjE5MjIwYWRkXkEyXkFqcGdeQXVyNzQxOTkxNTM@._V1_.jpg" group-title="INDIA", Idiot (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8192.mp4
+#EXTINF: -1 tvg-name="Etharkkum Thunindhavan (2022) Tamil Subs Indo" tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/9275-0-Etharkkujpg" group-title="INDIA", Etharkkum Thunindhavan (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8190.mp4
+#EXTINF: -1 tvg-name="Enthiran (2010) BluRay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Enthiran_poster.jpg/220px-Enthiran_poster.jpg" group-title="INDIA", Enthiran (2010) BluRay
+http://iptv12k.com:35461/movie/80201051217/424567/8189.mp4
+#EXTINF: -1 tvg-name="ENTHIRAN_2_0_2019_TAMIL_Genre__Action,_Thriller,_Sci_Fi_Hardsub" tvg-logo="http://www.firstpost.com/wp-content/uploads/2016/11/crop-2.0-825.jpg" group-title="INDIA", _Sci_Fi_Hardsub
+http://iptv12k.com:35461/movie/80201051217/424567/8188.mp4
+#EXTINF: -1 tvg-name="Dear Sathya (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzk5YzM3YTMtZTEwYS00MWI3LTljMTYtMDA0ODA2OGNiMjA5XkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg" group-title="INDIA", Dear Sathya (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8187.mp4
+#EXTINF: -1 tvg-name="Beast (2022) [PreDVD] Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Beast_2022_Indian_poster.jpg" group-title="INDIA", Beast (2022) [PreDVD] Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/8185.mkv
+#EXTINF: -1 tvg-name="Beast (2022) Tamil Subs English" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZiZTRkMzgtNDhkZC00MzE0LWE4MzAtZDYwYzA1OTM2MDdkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Beast (2022) Tamil Subs English
+http://iptv12k.com:35461/movie/80201051217/424567/8184.mkv
+#EXTINF: -1 tvg-name="Astakarmma (2022) Tamil Subs Indo" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/ashtakarma-20201212224321-19736.jpg" group-title="INDIA", Astakarmma (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8183.mp4
+#EXTINF: -1 tvg-name="Yaaro (2022) Tamil Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/yaaro-et00321742-02-02-2022-11-25-35.jpg" group-title="INDIA", Yaaro (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8182.mp4
+#EXTINF: -1 tvg-name="Writer (2022) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZlYzlmYTEtODFlNi00OGExLWExZmUtY2MxYWI5NzczYzZhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Writer (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8181.mp4
+#EXTINF: -1 tvg-name="Writer (2021) Tamil Subs Indo 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBiNDFhMDItNWY4Ny00ZjRhLTk3YWQtYzFhMDZhZWQwOWY2XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="INDIA", Writer (2021) Tamil Subs Indo 1
+http://iptv12k.com:35461/movie/80201051217/424567/8180.mkv
+#EXTINF: -1 tvg-name="Vanam (2021) Tamil Subs Malay" tvg-logo="https://i.ytimg.com/vi/58sZNr-pKUQ/maxresdefault.jpg" group-title="INDIA", Vanam (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8179.mp4
+#EXTINF: -1 tvg-name="Valiyor Silar (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzliNGY1OWEtMzhiNy00M2U0LTk2M2UtODVhM2JhMTA0Zjk4XkEyXkFqcGdeQXVyMTA4MDEwMTQw._V1_.jpg" group-title="INDIA", Valiyor Silar (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8178.mp4
+#EXTINF: -1 tvg-name="Theethum Nandrum (2021) Tamil Subs Malay" tvg-logo="https://static.toiimg.com/thumb/msid-81043446,width-219,height-317,imgsize-108848/81043446.jpg" group-title="INDIA", Theethum Nandrum (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8177.mp4
+#EXTINF: -1 tvg-name="Theerpugal Virkapadum (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E5YWZjYzktMjRjZC00YzIxLWJkZDEtMGY2NDUzYTBlMjZmXkEyXkFqcGdeQXVyMzMxMDUzNTk@._V1_.jpg" group-title="INDIA", Theerpugal Virkapadum (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8176.mkv
+#EXTINF: -1 tvg-name="Theal (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFmZWQ3YzYtY2E1Mi00OGQwLWI0NmEtODkxMjY5ZjBlZTBiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="INDIA", Theal (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8175.mp4
+#EXTINF: -1 tvg-name="Thalli Pogathey (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVkNTM3M2ItM2EyYi00NTA1LTgzNmMtMDUzZTgwNzE4YWNmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Thalli Pogathey (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8174.mp4
+#EXTINF: -1 tvg-name="Sila Nerangalil Sila Manidhargal (2022) Subs Indo" tvg-logo="https://i.ytimg.com/vi/OW-iZ-6GntA/maxresdefault.jpg" group-title="INDIA", Sila Nerangalil Sila Manidhargal (2022) Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8173.mp4
+#EXTINF: -1 tvg-name="Sangathalaivan (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQxZmE0MTAtMjIyYi00NzBiLWE5ZWMtYjZjZTBlYzIzNDcxXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Sangathalaivan (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8172.mkv
+#EXTINF: -1 tvg-name="Raajavamsam (2021) Tamil Subs Indo" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/192001-193000/192239.jpg" group-title="INDIA", Raajavamsam (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8171.mkv
+#EXTINF: -1 tvg-name="Paramapadham Vilayattu (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhhMTk4ZjMtZjgzYi00YWUzLWIyYTMtMTU3MzhmNzdhNGYwXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg" group-title="INDIA", Paramapadham Vilayattu (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8170.mkv
+#EXTINF: -1 tvg-name="Pandrikku Nandri Solli (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmZDY2NjEtZDE0Mi00ZWVkLWEyMzUtZmNjMmMwOWYyM2VlXkEyXkFqcGdeQXVyNTUwNTE1MDg@._V1_.jpg" group-title="INDIA", Pandrikku Nandri Solli (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8169.mkv
+#EXTINF: -1 tvg-name="Oomai Sennaai (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhjNzA3NGMtMzNjOC00NGRlLWI1ODQtNGE1MDM1MGJkOGZmXkEyXkFqcGdeQXVyMTQ3NDM3MjU1._V1_UY1200_CR165,0,630,1200_AL_.jpg" group-title="INDIA", Oomai Sennaai (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8168.mp4
+#EXTINF: -1 tvg-name="Namma Oorukku Ennadhan Achu (2021) Tamil Subs Malay" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71gSyiEyscL._RI_.jpg" group-title="INDIA", Namma Oorukku Ennadhan Achu (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8167.mp4
+#EXTINF: -1 tvg-name="Mr. Peyii (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYwYWJjMmUtODk2Ni00ZTQ0LTlkNDItZDY0OWNmMGFmOTAzXkEyXkFqcGdeQXVyMTQ3MDYxNDM2._V1_.jpg" group-title="INDIA", Mr. Peyii (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8166.mp4
+#EXTINF: -1 tvg-name="Mahaan (2022) Tamil Subs Malay" tvg-logo="https://www.themoviedb.org/t/p/w500/rHcwUUy3gRVUEUepYOd7xkesiNf.jpg" group-title="INDIA", Mahaan (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8165.mp4
+#EXTINF: -1 tvg-name="Maaran (2022) Tamil Subs Indo" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/maaran-20210728110348-19172.jpg" group-title="INDIA", Maaran (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8164.mkv
+#EXTINF: -1 tvg-name="Kombu Vatcha Singamda (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFhZDMyYTUtMmI5Mi00YjgwLWJiNWQtNzJlMmJiMjQ4NjE2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UX140_CR0,6,140,207_.jpg" group-title="INDIA", Kombu Vatcha Singamda (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8163.mkv
+#EXTINF: -1 tvg-name="Kadaisi Vivasayi (2022) Tamil Subs Indo" tvg-logo="http://popcornsg.s3.amazonaws.com/gallery/1644451564-kadaisi-.jpg" group-title="INDIA", Kadaisi Vivasayi (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8162.mp4
+#EXTINF: -1 tvg-name="Irudhi Pakkam (2021) Tamil Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Irudhi_Pakkam.jpg/220px-Irudhi_Pakkam.jpg" group-title="INDIA", Irudhi Pakkam (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8161.mp4
+#EXTINF: -1 tvg-name="FIR (2022) Tamil Muxed Subs English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/FIR_2022_poster.jpg" group-title="INDIA", FIR (2022) Tamil Muxed Subs English
+http://iptv12k.com:35461/movie/80201051217/424567/8160.mkv
+#EXTINF: -1 tvg-name="Etharkkum Thunindhavan (2022) [PreDVD] Tamil" tvg-logo="https://media.elcinema.com/uploads/_315x420_02db4fa612b26a8422b90dfab36ac156d6bd81196e8e24d85fd8522056d6dab8.jpg" group-title="INDIA", Etharkkum Thunindhavan (2022) [PreDVD] Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/8159.mkv
+#EXTINF: -1 tvg-name="Enna Solla Pogirai (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y0ODBhYjctNzZiYi00ODIwLWJiMmYtM2ZlNjUwZDlkYjQ3XkEyXkFqcGdeQXVyMTQyOTU3OTMw._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Enna Solla Pogirai (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8158.mp4
+#EXTINF: -1 tvg-name="Carbon (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFhZDMyYTUtMmI5Mi00YjgwLWJiNWQtNzJlMmJiMjQ4NjE2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Carbon (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8157.mkv
+#EXTINF: -1 tvg-name="Calls (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE3ODljYmUtMjRmMy00NTRmLTk2MTEtMTU1YzRmYjc4YTFjXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg" group-title="INDIA", Calls (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8156.mkv
+#EXTINF: -1 tvg-name="Blood Money (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM3MzE4NjAtZjQ0MC00YmFmLThmMzctMGU2ODE1ZGQ0NjA5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Blood Money (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8155.mp4
+#EXTINF: -1 tvg-name="Bachelor (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ5YTc1NTYtOWZlNy00MWRiLWI5YTMtMTJkODg2ZDZjMTZmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="INDIA", Bachelor (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8154.mp4
+#EXTINF: -1 tvg-name="Atrangi Re Galatta Kalyanam(2021) Subs Indo" tvg-logo="https://www.galatta.com/assets/review/atrangi-re-movie-review-og.jpg" group-title="INDIA", Atrangi Re Galatta Kalyanam(2021) Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8153.mp4
+#EXTINF: -1 tvg-name="Anandham Vilayadum Veedu (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiZWJmYTAtYWIyOC00YzA1LWE4ODEtZTRhM2UxMjYzZDA5XkEyXkFqcGdeQXVyNDk0NzQ2NzU@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Anandham Vilayadum Veedu (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8152.mkv
+#EXTINF: -1 tvg-name="Alpha Adimai (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmMDlmYmYtNzRmYS00MjBkLThlYzAtMmNmZjY5MGZlOTRlXkEyXkFqcGdeQXVyMTIyMTE0NTk3._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Alpha Adimai (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8151.mkv
+#EXTINF: -1 tvg-name="AGP Schizophrenia (2022) Tamil Subs Indo" tvg-logo="https://www.newsintv.com/wp-content/uploads/2022/01/AGP-Schizophrenia-cast-budget-release-date.jpg" group-title="INDIA", AGP Schizophrenia (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8150.mp4
+#EXTINF: -1 tvg-name="4 Sorry (2021) Tamil Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/4-sorry-et00316869-29-10-2021-11-29-49.jpg" group-title="INDIA", 4 Sorry (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8149.mp4
+#EXTINF: -1 tvg-name="3_33  (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYyNGVhNWQtMDAxYS00ZDY5LWEzY2UtMTc3MjNhZjA4ZjI4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", 3_33  (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8148.mp4
+#EXTINF: -1 tvg-name="Visithiran (2022) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUzNjNjNjQtNTdhOC00YjlhLWJlMWItNTIxYzQ1MTUyZjRkXkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg" group-title="INDIA", Visithiran (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8133.mp4
+#EXTINF: -1 tvg-name="Runway 34 (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YzNjU4MTYtMzY5OS00ODg0LTkxMTUtNjg0YjRkYzI5ZWJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Runway 34 (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8126.mp4
+#EXTINF: -1 tvg-name="Katha Kanchiki Manam Intiki (2022) Telugu Subs Indo" tvg-logo="https://cdn.123telugu.com/content/wp-content/uploads/2022/04/KathaKanchikiManamIntiki-re.jpg" group-title="INDIA", Katha Kanchiki Manam Intiki (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8125.mp4
+#EXTINF: -1 tvg-name="Kaathuvaakula Rendu Kaadhal (2022) Tamil Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Kaathuvaakula_Rendu_Kaadhal_%282022_film%29_poster.jpg/220px-Kaathuvaakula_Rendu_Kaadhal_%282022_film%29_poster.jpg" group-title="INDIA", Kaathuvaakula Rendu Kaadhal (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8124.mp4
+#EXTINF: -1 tvg-name="Heropanti 2 (2022) Hindi Subs Indo" tvg-logo="https://pics.filmaffinity.com/Heropanti_2-590589678-mmed.jpg" group-title="INDIA", Heropanti 2 (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8123.mp4
+#EXTINF: -1 tvg-name="By Two Love (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZlNDc4MGMtYWQ1ZC00MzkyLWI4YjgtODc2M2RjNDM5MjU3XkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="INDIA", By Two Love (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8117.mp4
+#EXTINF: -1 tvg-name="Upacharapoorvam_Gunda_Jayan_2022_Malayalam_Subs_Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFiZmZhYjctNzZiNC00OGMyLWE0NDYtZjIwYTRkZWY3MThmXkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1_.jpg" group-title="INDIA", Upacharapoorvam_Gunda_Jayan_2022_Malayalam_Subs_Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8112.mp4
+#EXTINF: -1 tvg-name="Bhala Thandhanana (2022) Telugu Subs Indo" tvg-logo="https://cdn.gulte.com/wp-content/uploads/2022/05/IndianClicks_Disney_Hotstar_Bhala_Thandhanana_Movie_NA_Gulte_1200x900_05192022_1_2.jpg" group-title="INDIA", Bhala Thandhanana (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8101.mp4
+#EXTINF: -1 tvg-name="Aviyal (2022) Malayalam Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ5YzA2MzQtN2ZjMi00YjY3LTlhMWEtMWZhZjJjZmY4NGE2XkEyXkFqcGdeQXVyMTUxNDE1MjYy._V1_.jpg" group-title="INDIA", Aviyal (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8100.mp4
+#EXTINF: -1 tvg-name="Zee Thirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Zee_Thirai.jpg" group-title="INDIA", Zee Thirai
+http://iptv12k.com:35461/80201051217/424567/8072
+#EXTINF: -1 tvg-name="Zombivli (2022) Marathi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBiZjY4MDctNzIwMy00NWQyLTg0YTAtZDAyOTU3MDA1NjQ3XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg" group-title="INDIA", Zombivli (2022) Marathi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8065.mp4
+#EXTINF: -1 tvg-name="Sarkaru Vaari Paata (2022) Telugu Subs Indo" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/198001-199000/198254.jpg" group-title="INDIA", Sarkaru Vaari Paata (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8062.mp4
+#EXTINF: -1 tvg-name="Hostel (2022) Tamil Subs Indo" tvg-logo="https://tamilgun.asia/wp-content/uploads/2022/05/Hostel-2022-HQ-DVDScr-Tamil-Full-Movie-Watch-Online.jpg" group-title="INDIA", Hostel (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8056.mp4
+#EXTINF: -1 tvg-name="Kopi Pahit (2022) 2" tvg-logo="https://static.digit.in/OTT/v2/images/kopi-pahit-764555.jpg" group-title="INDIA", Kopi Pahit (2022) 2
+http://iptv12k.com:35461/movie/80201051217/424567/8049.mp4
+#EXTINF: -1 tvg-name="Jersey (2022) Hindi Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/jersey-et00118049-11-04-2022-12-53-49.jpg" group-title="INDIA", Jersey (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8048.mp4
+#EXTINF: -1 tvg-name="Acharya (2022) Telugu Subs Indo" tvg-logo="https://images.fandango.com/ImageRenderer/400/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/227580/ACHARYA-poster-05.jpg" group-title="INDIA", Acharya (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8045.mp4
+#EXTINF: -1 tvg-name="12th Man (2022) Malayalam Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk5NjNlYTMtN2E1YS00MTk3LWI2NjgtOWU3NmI2ZDgxMTEwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR24,0,190,281_.jpg" group-title="INDIA", 12th Man (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8043.mp4
+#EXTINF: -1 tvg-name="Son Of India (2022) Telugu Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Son_Of_India.jpg" group-title="INDIA", Son Of India (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8034.mp4
+#EXTINF: -1 tvg-name="Ruposh (2022) Urdu [Pakistani] Subs Indo" tvg-logo="https://moviewatchonline.com.pk/wp-content/uploads/2022/01/ruposh-2022-urdu-movie-720p-hdrip-881mb-download-1.jpg" group-title="INDIA", Ruposh (2022) Urdu [Pakistani] Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8033.mp4
+#EXTINF: -1 tvg-name="ORUTHEE (2022) MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM2NTZmY2EtYmU3NC00OGJjLTkwYjEtNDNjNDBkNzU0YmRjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", ORUTHEE (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/8021.mp4
+#EXTINF: -1 tvg-name="365 Days_ This Day (2022) Subs Malay" tvg-logo="https://images.moviefit.me/t/o/728845-365-days-this-day.jpg" group-title="INDIA", 365 Days_ This Day (2022) Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8015.mp4
+#EXTINF: -1 tvg-name="THE KASHMIR FILES (2022) HINDI" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUxYjA0NDYtM2UwNS00MzgyLTkxZTktNTFiZGU3MzIxNTI2XkEyXkFqcGdeQXVyOTE2NDU1NDM@._V1_.jpg" group-title="INDIA", THE KASHMIR FILES (2022) HINDI
+http://iptv12k.com:35461/movie/80201051217/424567/8001.mp4
+#EXTINF: -1 tvg-name="Puzhu (2022) Malayalam Subs Malay" tvg-logo="https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2022/5/6/puzhu-new.jpg" group-title="INDIA", Puzhu (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7999.mp4
+#EXTINF: -1 tvg-name="KOORMAN (2022) TAMIL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5MmE3NTMtZTcyMS00YTdmLTk0OWYtYzAzYTc0OGExNmU1XkEyXkFqcGdeQXVyNjc3OTEwNjk@._V1_.jpg" group-title="INDIA", KOORMAN (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/7996.mp4
+#EXTINF: -1 tvg-name="KALLAN D'SOUZA (2022) MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTliYjJhYTMtOTZlMi00NmYxLThmYmEtODU1YTdkNjViNTU5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", KALLAN D'SOUZA (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/7995.mp4
+#EXTINF: -1 tvg-name="KALLAN (2022) TAMIL" tvg-logo="https://isaimini.pw/assets/movies/poster/movie_poster_117.jpg" group-title="INDIA", KALLAN (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/7994.mp4
+#EXTINF: -1 tvg-name="Thar (2022) Hindi Subs Indo" tvg-logo="https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/04/12/254303-new-36.jpg" group-title="INDIA", Thar (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7840.mp4
+#EXTINF: -1 tvg-name="Saani Kaayidham (2022) Tamil Subs Malay" tvg-logo="https://www.bigenter.info/wp-content/uploads/2022/05/Saani-Kaayidham-Movie-Download.jpg" group-title="INDIA", Saani Kaayidham (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7838.mp4
+#EXTINF: -1 tvg-name="RRR (2022) Telugu [Hindi Dub] Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyNDNkMzMtNWVjOC00ZTdjLTg1YTAtODMzMjMzZjJlNzEzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="INDIA", RRR (2022) Telugu [Hindi Dub] Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7837.mp4
+#EXTINF: -1 tvg-name="Our Father 2022 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjYzI3MWItODYxYS00ZmNmLWEyN2YtNDQ1NjhjNTcwYzc4XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Our Father 2022 720p
+http://iptv12k.com:35461/movie/80201051217/424567/7836.mp4
+#EXTINF: -1 tvg-name="Man Of The Match (2022) Kannada Subs Indo" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/manofthematch-20220503063025-20935.jpg" group-title="INDIA", Man Of The Match (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7835.mp4
+#EXTINF: -1 tvg-name="KGF Chapter 2 Tamil_Dub_Subs_Malay" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg" group-title="INDIA", KGF Chapter 2 Tamil_Dub_Subs_Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7834.mp4
+#EXTINF: -1 tvg-name="Jhund (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxYzU4YmQtYmVkOC00Y2RkLTkwZmMtYjQ4NzczZTI5MjczXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_.jpg" group-title="INDIA", Jhund (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7833.mp4
+#EXTINF: -1 tvg-name="Fourwalls (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ1MTMzOTItNDFmMC00NTRkLTk4OTItM2Q2N2Q3OGYwNjBkXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg" group-title="INDIA", Fourwalls (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7832.mp4
+#EXTINF: -1 tvg-name="Beast (2022) Tamil Subs Indo" tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/beast-2022/large_beast-poster.jpg" group-title="INDIA", Beast (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7828.mp4
+#EXTINF: -1 tvg-name="Thar 2022 TV-MA 1h 48m Director Raj Singh Chaudhary Writers Raj Singh Chaudhary(screenplay &amp; dialogue)Anurag Kashyap(dialogue) Stars Anil KapoorHarshvardhan KapoorFatima Sana Shaikh" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/udl5mtiskljqflwr_1649520698.jpeg" group-title="INDIA", Thar 2022 TV-MA 1h 48m Director Raj Singh Chaudhary Writers Raj Singh Chaudhary(screenplay &amp; dialogue)Anurag Kashyap(dialogue) Stars Anil KapoorHarshvardhan KapoorFatima Sana Shaikh
+http://iptv12k.com:35461/movie/80201051217/424567/7823.mkv
+#EXTINF: -1 tvg-name="Veyil (2022) Malayalam Subs Indo2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0YzRlNTAtODRlYy00ODdkLWE4OTEtZmQxOTE0MTA4NTIyXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="INDIA", Veyil (2022) Malayalam Subs Indo2
+http://iptv12k.com:35461/movie/80201051217/424567/7094.mp4
+#EXTINF: -1 tvg-name="Selfie (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q2NjMyNzYtZjIxNS00Njg2LThlODItZWZlMjU0YmJlODEzXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Selfie (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7093.mp4
+#EXTINF: -1 tvg-name="Kuttram Kuttrame (2022) Tamil Subs Malay" tvg-logo="https://moviesdamob.co/Poster/Tamil/Movie/Kuttram-Kuttrame-2022.jpg" group-title="INDIA", Kuttram Kuttrame (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7091.mp4
+#EXTINF: -1 tvg-name="Haterz (2022) Punjabi Subs Indo" tvg-logo="https://i.ytimg.com/vi/zUmTyBli2_Y/maxresdefault.jpg" group-title="INDIA", Haterz (2022) Punjabi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7088.mp4
+#EXTINF: -1 tvg-name="Bloody Mary (2022) Telugu Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Bloody_Mary_2022_poster.jpeg" group-title="INDIA", Bloody Mary (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7086.mp4
+#EXTINF: -1 tvg-name="Bachchhan Paandey (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFlY2EwODktZDA5YS00NmU1LWJhYzQtYmUyZmZjYjcwMzY0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_UY1200_CR101,0,630,1200_AL_.jpg" group-title="INDIA", Bachchhan Paandey (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7085.mp4
+#EXTINF: -1 tvg-name="Yaksha_Ruthless_Operations_2022_KOREAN_720p_NF_WEBRip_x264_malaysub" group-title="INDIA", Yaksha_Ruthless_Operations_2022_KOREAN_720p_NF_WEBRip_x264_malaysub
+http://iptv12k.com:35461/movie/80201051217/424567/7061.mp4
+#EXTINF: -1 tvg-name="Taanakkaran (2022) Tamil Subs Indo" tvg-logo="https://img.youtube.com/vi/NwgAsAE5Wwg/0.jpg" group-title="INDIA", Taanakkaran (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7060.mp4
+#EXTINF: -1 tvg-name="Stand Up Rahul (2022) Telugu Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/standup-rahul-et00312672-15-03-2022-06-02-42.jpg" group-title="INDIA", Stand Up Rahul (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7059.mp4
+#EXTINF: -1 tvg-name="Old Monk (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBhYTc5NDQtNDhiNi00Yzk3LTg3ZDQtZDdlZjk3ZWZiNDA5XkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Old Monk (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7058.mp4
+#EXTINF: -1 tvg-name="Night Drive (2022) Malayalam Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYyOTc0ZWEtODgwYy00M2NlLTgwMTEtNDJmODcyNjViMzQ0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg" group-title="INDIA", Night Drive (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7057.mp4
+#EXTINF: -1 tvg-name="How I Fell in Love with a Gangster (2022) idian indo sub" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RiZGJkZjQtYTYyZi00ZTQ2LTg3MTUtZTk5OGQ5NjEyMzYzXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UX1000_.jpg" group-title="INDIA", How I Fell in Love with a Gangster (2022) idian indo sub
+http://iptv12k.com:35461/movie/80201051217/424567/7056.mp4
+#EXTINF: -1 tvg-name="Dasvi (2022) Hindi Subs Indo" group-title="INDIA", Dasvi (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7054.mp4
+#EXTINF: -1 tvg-name="ETHARKKUM THUNINDHAVAN (2022) TAMIL indo Director Silver Chung Stars Nia AtashaAyez Shaukat Fonseka FaridPekin Ibrahim" tvg-logo="https://i.ytimg.com/vi/cKrz-kWoaSI/maxresdefault.jpg" group-title="INDIA", ETHARKKUM THUNINDHAVAN (2022) TAMIL indo Director Silver Chung Stars Nia AtashaAyez Shaukat Fonseka FaridPekin Ibrahim
+http://iptv12k.com:35461/movie/80201051217/424567/6898.mkv
+#EXTINF: -1 tvg-name="YUTHA SATHAM (2022) TAMIL" tvg-logo="https://i.ytimg.com/vi/MhfZ-JbhGM8/maxresdefault.jpg" group-title="INDIA", YUTHA SATHAM (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/6807.mp4
+#EXTINF: -1 tvg-name="RRR (2022) Telugu Tamil" tvg-logo="https://filmdaily.co/wp-content/uploads/2022/01/rrr-lede.jpg" group-title="INDIA", RRR (2022) Telugu Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/6778.mkv
+#EXTINF: -1 tvg-name="RADHE SHYAM (2022) TELUGU" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/radheshyam-20200710104229-18715.jpg" group-title="INDIA", RADHE SHYAM (2022) TELUGU
+http://iptv12k.com:35461/movie/80201051217/424567/6777.mkv
+#EXTINF: -1 tvg-name="BHEESHMA PARVAM (2022) MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Bheeshma.Parvam.jpg" group-title="INDIA", BHEESHMA PARVAM (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6775.mp4
+#EXTINF: -1 tvg-name="Sharmaji Namkeen (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2MxNjVlNjMtOGExMi00NWRjLThhYzQtNDY4OWZkMzcwNjhiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Sharmaji Namkeen (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6774.mp4
+#EXTINF: -1 tvg-name="Pada (2022) Malayalam Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhM2E2YWItNjgxZC00OWRiLWEwNWYtOWE5ZWU0YjQxYTFlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Pada (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/6699.mp4
+#EXTINF: -1 tvg-name="Sathyam Mathrame Bodhippikkoo 2022 2h 6m Malayalam_Subs_Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTczMjM5NGMtYTM1MS00YTMwLThlNDEtMWZmMTc5ODRhNzcyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", Sathyam Mathrame Bodhippikkoo 2022 2h 6m Malayalam_Subs_Malay
+http://iptv12k.com:35461/movie/80201051217/424567/6612.mp4
+#EXTINF: -1 tvg-name="Udumb (2021) Malayalam Subs Indo inida" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRmNGEyOGQtMDRlNC00Yjk4LTg0ZDMtNzVlMDg1N2M1ODlmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", Udumb (2021) Malayalam Subs Indo inida
+http://iptv12k.com:35461/movie/80201051217/424567/6606.mkv
+#EXTINF: -1 tvg-name="Bheemla Nayak (2022) Telugu Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNjMWJiMmQtOWY2OS00YzQ2LWFjZjEtNDVkMTE2ZTNkYTZkXkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_.jpg" group-title="INDIA", Bheemla Nayak (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6604.mp4
+#EXTINF: -1 tvg-name="Achcham Madam Naanam Payirppu (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QxMmY0YTItMzcwOS00MjczLWIzNWMtNDg5N2JiMzhiMGMxXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg" group-title="INDIA", Achcham Madam Naanam Payirppu (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6603.mkv
+#EXTINF: -1 tvg-name="Super Machi (2022) Telugu Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwZjhmMWUtMGNiYS00YzM1LTg0NzYtNjI2YTI1MzVjNWU3XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Super Machi (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6585.mp4
+#EXTINF: -1 tvg-name="AANA (2021) KANNADA" tvg-logo="https://i.ytimg.com/vi/f67BcTgKu9k/maxresdefault.jpg" group-title="INDIA", AANA (2021) KANNADA
+http://iptv12k.com:35461/movie/80201051217/424567/6546.mkv
+#EXTINF: -1 tvg-name="PSIKOPAT (2022) MALAY" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgWFRQYGBYYGBoaGRwYGRgYHBgYGBgZGRgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHBISHDQkISMxMTQxMTQxNDQ1NDUxNzQ0NDY3NTQ0MTE0PzE/ND80PzQ0PzQxNT01MTE0MTQ0NT0xMf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj/xABJEAACAQIEAwUFBAYGBwkAAAABAgADEQQSITEFQWEGIlFxkQcTMoGhFEJSsRUjwdHh8CQzYpKywjVTc3SC0vEWFzRFY3KTorP/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACERAQEBAQACAgIDAQAAAAAAAAABEQIhMQMSQVEiYbEE/9oADAMBAAIRAxEAPwDxmEIQCOUXMbHqNflAaRBZKF0GttzIRAnc2AtfXyMiHWWaSA94uEHLdj6DWNfCsO9a68jtm8gdTAr3iQtFW3OAkAYGECZcQw5yyta4lCKDDUqatblIuUcTeMgpIQhDIhCEAgIQhSxIQg0QhCDThC0QGPEjU8mwixYXEcIRTK5ktJFbWNUxsBYkW8BASWcPXYMCHyna5JsB130lciKqk7CBdqupAQZd7s+W2vQ72kFWgATlYMBzsRfxsDImUjQi3nH06zLtte9iIEMJdTEBu65sORUbHqBy8pXrJlYjTTw1HrAihCEAgYT0fsl7LzjsKmJXFCnnLDKaZa2Riu+YX2+sGvOITveKezLFUsXSwyMKi1gStUDKoCW94WFyRluNL63E0uO+yCvh6D1addazIMxQUyhKj4ipLEEga26QPMIT0ninZFP0Xgq1MUxVxFSkl8rKxaoHHecuRa4Gy8plD2b437V9k/Ve99174nOcgTNk1bLvflbxgcXCeg9jfZ2cW+I99WFOlh6jU2ZLNeonxWLaBQNbmWO13s2XCihUoV/eUa1VKRZgpKs5srDLoy6H0gebQnr1T2JVACVxqE2NgaRAJ5AnObeczPZ92ATE1cVTxgdThyq2RgDnJbNc2NxZR6wPNITvOLez6s3EMRhMEoZaSo4zsoOR0Q3ud+8xHyi/90vE/wDVU/8A5UgcHHgxkcJGuadeEbcxYa1HFESErmUCSLSJiUxLdIRUXuE8HWqQDfXwnWj2bFkz06o1FirD6gyPsbQDNfwnqmCTKo2mNr0c8SuB4Z7LabKDVdww0YAix8Mp5zosB7PMFS+4XPi5zenhOspyzTSWOn05jjMf2HwtQg+7AIGXlYjX8p452m7PVMHUysDlJJRvEXtY22M+laiicz2y4EmKw7KR3lBKnmDvp6Ss9fHLNj52jnYMbnTTfe5i1EZWIO6kg+YOsegDclHmbA/uleZWhJaluXzG/ofCRQCe99ieFNi+Aph0qmizs9nW5K5cQW2DA62tvzngk9fw9Qf9lmGYZsx0uL/+L8N4HZ8U4xQocQwFCpWXOtOrTN+TOtNaeY65SxU2vMrtH2Y4hQXF4jCY4t71nqNQamtspzFlR2Y6hSbWAvaeUdhaWEq4xEx1zScFblmUZzYIWYEEDcXnslLhmE4Thsa4r3p1gSqsQxUlGVEU3LMTmAufCBjYn/Q/CP8Ae8J+dSdl2kZcImMx17v9mVEHgULlPV6g/uzhKuPpNwvhVNaqNUXF4UsgdS4sz3uoNxuJ3fEaq4jEYnh9Q92phFdPHvtUp1CPI+7Pzgef+zJyeD8RJNyTVJJ3JNAXJMu4v/QvC/8AecL/AI3mV7M+K4ajSxnD8bUFFndwzOwVSMvuqiBzswIvrvL/AGq4zgUo4HAYSsKwTE0GDK6uFVWPxMNLktt4CB6Di+DMcbTxpxBVKVJkalrla+bvk5rC2Y8uU5ng3Elp4fiWOo3dXxTGmVUkuqimgKjcjMW+QnF+3SqDjKOVgR7i3dN/vtcaTW4L25w/D+E0FoslbED4qRLKVLszOSQOX7YDPa1xHEYHG08RhqhptXw+RiApv7t721B17yzT9qvaXFYOlg2w9Yo1RXLkKpzELTIJzA/iPrOb9qvaDC47C4SpSqoayk56YuWQVEBYG42DIBL/ALbxehw+34X/AMFKB46ZLSpkmWKGEvvL9OkB4S41IpfZoTRuIRiufhCOtpIwfTMtUDKayei8t9JPb0HsKbtPU6RAAnk/YSoA+vSet0VuoM5z29Xxp6by5QeU6dhaWaYM07deYWoZn42pZWPgDLtXxMz8TZgRyOn0/jCX1j504+4OIqldAXOkzDN/tnw33GLqIBoe8upNwedz5HTlM3H8OelYOACVRrA3I94udQ3gStj8xK8V9qQMSLEhBCEICrEhCBLTqFWDKSGBuCDYgg3BBHOWzxrE5/efaK3vMuXP718+XfLmve3SZ8IE1aszsWdizMSSzEsxJ3LE6k9ZFeJCARbxyITtLdLAk7yriClRLdBN7F4/EVwgr13qin8Ac3C3ABy+Gw9JDSwJl1cJaWRZFNUMX3c0Fwpj2w9tZr2rMyRJczLCMHKHlFA0jZIBceX7ZzYIYZjAQtKjZ4Lx1qDAlcy35aGe0dme01LE0zkYXA1U6Ms8Go01Ktc5Sut9Tm2AUAbW1N7y52bruuIpqjFczqpsfEzNjpx1ZX0FX4giBS7hQfGcXx32nFHZMHS94QbF2BygjQ2UbjqSJ13EezlOqi5yxIGlmI5dJ5Xx7gBWpURqgR1VWpU17iOcxDpmbQsFAObYkw7d9dYloUsdxFyK+OWnfUIGBN9rCmhFh5mdn2ZwGOw7BK9ZMRh7WVrkOmUd3QjvA7WJNpz+B7PlsJ3yUxBZAlNqnvwFVVDljY+5LOWcFdVuN9p3nCsK6UkWpcsqgEs2ckjxf73md5Kzzzvl5v7SaCfbcMKnwN8ZzZe5nF+9y56znO2GIFapUrhWVatQe7DCxNGlTVEYD8JGWx6T0H2gYJXr4QkXa1RVGW4Z7A00PK19T0vOI9oi06ddMNTX+oRVc+LMqEgeQA9TLGO+c1xsJKyb+V/raRSuYhCEAhCEAhCORCdoDZPRw5aXsHw0sdZ0GB4X0lkakZOE4d0mxhuH9JuYXhoHKalHh/SWRWAmBtraPp4Msb20m/iMLqqDdzb5c5oJw21gBN5E1y4wfSYvFqmpRd52vGKYpUmc89B5zhmFzc7ytRme4PWE0cghIrjZNRFw3lIY4ORtpOTkcktHD85TUzRw9TSSrJLVeouUaS32YH9KoH/1U/OQYo2mj2PpZsVRvydT9RJfTXM/k+kSQQPKYWP7P06lX3pXvEWuLX8jfcTcY2UeUKZBBtLMx6slilhuHIg7v5AW9ImLqsu1FnNtCGQKfU5v/rNBdJUxFTQ+EUxydJHqcUp++Nxh8M9bIo7tIswRct9Wb4tT02ni/GMea+Iq1z992YX/AA37o9LCdtxHtv7itjTTUmtVy0qb6WSmikE9Tck2nnKLeV5ertBb90ZHuLaXvGQwIQhAIRVW8u4XC33gxFQwxabeB4fblJcHhpr0UAmsaiXB4QDlNzC0BM2ibS7RrytY2KCCaVGmJiUcTNCjittZYlizhKQfEt4Ig9WP8Jr+6EwOB4j9diSeRT0IM3KdcesVLHMdtW+BBtbMfyE49qI8J0vbGv8ArwOWRfzMxaeY/cb+6f3TUb59Kf2UQmlkb8D/AN1v3QlV5cDEhCcHEok9B7GV45TaKLOIUnWavZHHrTxVMubJmAJ/DroT0mK9YmOwi3YXFwCCQBe4G8mLvnX01X4pTSmratcd0ICxb/2gbyRVOj2tcC45jz6zy3sn2kYIyhWCK1gpUgqCeRHgLn5GdlwztZSqaA63GnQ7c416ueo6dnuJg9pcYKVFyWtoQPG55A+M0lxIYXG2us839pPFwKWQaszFbeBAFzC99ZHlmJe7MdwWJHlcyMi1pKoGUnS97Ac/MSEmV4ysI2Pc31jIBCEIEiGaGGqdJmAyxSrWhueY3qOKI+7LtPGH8P1mJh8RLlLESyjWTHt+D6yReIvyT8/3SlSxB8Zcp1pdXU6Y6qfhp+W808LiXF1e2ZTY221AIt6zNV7yWjYbC0aNbheLy4ioPxoCOpS38ZupiwBvYfunGVahR0cfdNj1U7zWNW+l9P5/YZbTFXtJjEd0dHDkLZgL/da/+b6TsOF8QR0VhdhYWIG1pyOJwCFGyLZhqLc7cvT6zMweKen8DlfKbnpLHq32gfiMJ5n+kq/+tf1hKmPL4QhODIhCEBZq8Co1GqKaT5Hv3T5/mJky5hUcWamxBvpY2N4We3rvCuGYpwXfEqn+zphS553B0+nOXa/Y5KhFVq5D+KIiBjzzDXXynP8AY2hxB2Ir1XSmpFgcrF730BGw6ztcdjVpJysASbbC2pvMO8vOIsTikw9CxfbujmbnQafX1niXaPiRr1SSbhSVW2xAO86bjXGWxJZKd8iqzVXtcKo1NjyNrCcETeWOffW+BfTzjZItrG/h6GRzTmcNogEVLX1gDbaA2EIQCEIQHq5Es0sVaU4QutyhiusvU8T1nMK5EsJijCzy6yliOst06s5WhjZp4fGQ3G8GBFjsZLQxGVbNuu3UTKpYrrLIqAy6L36RtspPzlF3JYnLYE7eEu0nUjl6SRhcWMs6Kzrwl37MIS/ZMeYQhCYcxCEIBLOHxBUjoQfSVpZw9EE6yVY9AwfbBUY3YWKjQaAGw3I5aRftlbiP6qiClLN+tqWOXKDdUB2L6gzP4FwLDOyswLEEHLckN0Ino+FpKiAIoReQAsB6SbHWc2+3GdqqNLCYI0qahc9k6tzLMfvE/SeYzsfaAzvVzE9xAFUee5/KcdLHPr2IQj1QnYXtvKybEgYQCEIoMBISQppe48tj/GNAudBAbCBhAIQhAcGlilibSrCGp1WxRxs0MPjZzAMnpYgiRqdOvoYqaNKreclh8XNOjjJVdD7yEyP0hCFcOYQhDiJPRUEW5yMUydhfygpIN+YgXaPDmbadz2U7Kq+rjrrzEy+zyZ8ptp9Ous9L4U4tpp5fsma7c8yn4Xs9TQ3QW5aX5agTTfCWXXaWqbgamY/aXj9PC0mdyCfuLcBmbkFHh15Rjrcked+01kTIi/E3ePl4/S087mjxnib4iq1WoQWY8tlA2VegmeJY8tu0+mhOoBNvAXluk5ytkW1luTfkCD85BTqAG1jlPINb6yathmVVqDVWB18CDqrfmPESorV0CnQ3kUs5wQQdPA21Gm3lK7CAkckbHqIC1AORNuu8WmpuCDY/wvOhwHZuvXo0Wpqje+xJoIczZswTMbqRYIBc3vyOktP2JIJH6S4buQf6UB9CukLZjlaxJNyLE66fzpIZ02J7JVRUo00xGErvXfIgoVxUs2mr6d0a7zM45warhKzUKy5XXwuQwIuGU21U+MIzITcbsxiRhPtpp2w5YKGJsTc2DBfw30vJuz3ZLE4xHeiq5UNhnbLnexb3dP8AE9he0DnYTW4Lwx61f3QplnyuSpbIRkRma5bYjKdOkhx/DKlFaTOLLWQVEIIN0LFbm2xup0hc8az4QtCESK5Es08URvKUIa1o/boTPiQfYQhCGSg2k4IbQ2B5H/m/fK8BA3OC46vQzlFLqLBlILKCTuwGo0BsROy4X2/oIgapScNcqQhVtgDcZiCAb/SYfYDGWxKrvnRkYeIAzIfMMLfMdZ6G1Omg/q03OoVTfre0lb53NlYPEPaSGT+jUGZ7kE1CO7po2VSbjzI2nnPFOJ1MQ5qVWLMdyTcDoo+6vQTpO2WOQXSmApb4sug08ROboj3ae8sC2awuLhTYm58W2t4QdW0U8EFANVsgOoFiXNjbReQ6m23yL2xlKwX3bsBa13y6c9FFrn90oM5YksSSdyTeSWUG2Xlpe/1lYXQaL6AlDyzgMu4tdlAI0vqfCOak6JlYE02sdO+pte5BGxAJ9JSrmmRdbqbDTlfnFwmNekboxHiNwehWBJUQMV2JuLkcxtrbSR4nD99go7oBI6gG15f/AEijrerQUkC2dO6176E9YjJhG1D1U+LQgNbQldepsIGcuEYg2F8oJYX1ABte0YvLzFvnNCvToKLpUZ25AqLHTUn1PpKDmxA10tofWB1nC+PU6eEwtIVWpVaeO987qpbJTKqpcfjO/d52tznYt2swh/8AM6P/ABcLv62nkI18Ab+W8dSBubb6geA8SelvzgeoYntPgBXwb++p1alLEB3rU8I2GCUAhHu2TUucxzXG2sysDx/A4qmKXEmYDDuz4eoiszVKRYscM9gSAdLE2t4i2vnzC2kQQPQcT2mXG0MXSY+7NRsMmGpKpKUsPQZyQthlXKpudRflM3jfaVf1NLDKUo4Y3o94gmoDc13ta7kjnsNJz5qZKYUfE4ux/sXsF9Rf0lIye3XxzPHt6Hw3jeGOLpY53CPVo4hcQMhAFcUSquthbv5htzvfeU+Jph8VhMK4xao+HoLQakyPfOHdswb4QCGGvSc7Vo3FKlsbFmPgGsdfJQJDVc1WWmgso0UbebMfE2vJut3iS+fPrx/boK3ZbDCmWHEMNmVWawdmLMovlChefjecewmhhRlSo3MjIPNtz6A+okNPDgDM5sp2A+JvIch1iVjublzNVCIksV6qkWVQov4kn5kyvNOdmCEIQghCEAhCEC7wvGtQqpVX4kYHe1xzF+oJE9B412gREOQ6MAR1DDNtuNxPMZfruzonMqMnzButvk1vlGLLgqVczNVbxso8W3HyG8t4khaCKw+K7jWxJJ39BzlHEC2VByH1OpP89JHisQWI8FAUW00EIgvHkljzMjmmiCimZgM7Cyi+qAg6kdbwM6B30iCL8tYCsx25Rt5PTw5NiSqjxY/s3kpSkv32Y9BpAgomxBO0axzN5n/pHVa19hIYEpuv83iowA6/MfWNJuLn+bRKa3IEBrQEWo9zeGXS8CxVdWVde8BlI5EDYg/sknDaIZrt8KjM3kOXzOnzlITUAIpqiglqhzNb8IJCjyvc+kzXX4/N2/hCMUTULEXzXBANtDpYGWEX3aOR8R7vlm3UdbA3Mg0p6KczncjUL0XxPWX6OGACZrhVBd+pNsv7B6yV3+Pm239/4bUpqiKX1VQbD8bnU36DQE9Osya9ZnJZjr+Q5ADkJo4mt7ykTbVGvbwVv4gesyDLzP2x/wBFmyc+sJCEJp5hCEIBCEIBC0UCPqk3seQt6QI5q8IfKXOmtF1W/wCKwIyf2hoRMqXKmHdV/sgBt9O9YXA8dh8oEmNpnOzAgBgHtrs4DAbb6yiqkmw3mnxCtlYqyqe7TF+dkUHQ9dvkJmodR5iBawdDXMwGVbnUgXKgm30iCqrMzPtY2FzqSLKL+AOvyjWcKbFVJBbxN7/PlykJfoIEqsBqcrdDJKWMZVKqFFyeVz8jIVqafCp+UQt/ZH1EBMjMSbEnnCpRK2vz2PIxM45C3kTF951PrAjIiR7tcD5xt4Ck7RsCYQHWvtJK9MKbA3ta/n4SNTbWSta+tz9fn6WgQiatKplQe8Y2OyjQsOp5LMxt5asGsS4WwAsQSdBbQAdJK6cdZ6XMJiu9cKERRc2FyRyGY63J0lOvjWa4JNmOY+fL5RK1cZciiy3uSd2PInoOQ6yoZJGuvluZq/w1xmKHZwV+Z+E+tpTqoQSCNQbHzEQGX65Wr3wwDn4gdAT+IHbXmJfyzv25z8xmwk9cKLBTe255E9B4SCVizBCEIQQhCBJSFz6fU2/bCqbs3mfziU9x5j84jbmA2alY2YgG7aA3G4UCwOmo7oPPaZimaGHJLZyO6rZmF77ZmtbfZSL7bQG8aYGs9uWnpp+6U0exv+clxb5mY+JvryB2HpIF3gPVe6T4Eeet4ltPP6SyiX94ASLDMFGxCkXv5KSflI7WI1Jvbp5WgKqH7vIa6/zaNI5XG556R5dhmAuCd9R85LSxYFJk11ItqLDW5JFrn1hEWTWxCi55306xj0xoLqb8wdB0jmcka3JHib/T0jWPnfa0CN1tGSespsDrYlrE87Wvp85BCiEIQCPZr230jI5fO0APrGx4X9kaRaAkI5d4rLY/ztAZCEIBCEIUQhCELCEIAIrQhASaNP8Aqn/2g/8AzqwhAq434z5L/hEghCBYT4v+H/LGn7sIQBd4xecIQhz84i7/AM+EIQB9ljG3hCFJCEIBCEIDl2PlB4QgIvLzj6v3fKEIEcIQgEIQkWFhCEK//9k=" group-title="INDIA", PSIKOPAT (2022) MALAY
+http://iptv12k.com:35461/movie/80201051217/424567/6543.mp4
+#EXTINF: -1 tvg-name="Garis Waktu 2022 Indonesian" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwZGEyYmMtYTY0Yi00YTRlLWI5YzAtN2Q3ZjkxYjllNWQyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="INDIA", Garis Waktu 2022 Indonesian
+http://iptv12k.com:35461/movie/80201051217/424567/6542.mp4
+#EXTINF: -1 tvg-name="VIDHI [THE VERDICT] (2021) MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2MzYWVjMTUtNDU4Yy00ZDk2LTkxMTYtNWQyMGIwNjkxNWM0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", VIDHI [THE VERDICT] (2021) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6535.mkv
+#EXTINF: -1 tvg-name="THE BUNKER GAME [BUNKIER STRACHU] (2022) ENGLISH" group-title="INDIA", THE BUNKER GAME [BUNKIER STRACHU] (2022) ENGLISH
+http://iptv12k.com:35461/movie/80201051217/424567/6531.mkv
+#EXTINF: -1 tvg-name="SEBASTIAN P.C. 524 (2022) TELUGU" tvg-logo="https://i2.extraimage.info/pix/2022/03/07/ce0f9914db8d30ac0317d8e5e46f14b5.jpg" group-title="INDIA", SEBASTIAN P.C. 524 (2022) TELUGU
+http://iptv12k.com:35461/movie/80201051217/424567/6529.mp4
+#EXTINF: -1 tvg-name="SALUTE (2022) MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Salute_Malayalam_Poster.jpg/220px-Salute_Malayalam_Poster.jpg" group-title="INDIA", SALUTE (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6528.mp4
+#EXTINF: -1 tvg-name="NENU LENI NA PREMA KATHA (2021) TELUGU" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkyYjUzYjAtZmMxZi00NGY3LTllZGEtOGQ1OTllYzYwYjMwXkEyXkFqcGdeQXVyMTM2NDUxNzM3._V1_.jpg" group-title="INDIA", NENU LENI NA PREMA KATHA (2021) TELUGU
+http://iptv12k.com:35461/movie/80201051217/424567/6525.mkv
+#EXTINF: -1 tvg-name="NAAI SEKAR (2022) TAMIL" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU0YmRhZDktOWY2My00MTk5LTlhZjQtZjU4MWE0MjZjN2JhXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", NAAI SEKAR (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/6524.mkv
+#EXTINF: -1 tvg-name="LOVE MOCKTAIL 2 (2022) KANNADA" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/lovemocktail2-20210622121159-19358.jpg" group-title="INDIA", LOVE MOCKTAIL 2 (2022) KANNADA
+http://iptv12k.com:35461/movie/80201051217/424567/6522.mp4
+#EXTINF: -1 tvg-name="LALITHAM SUNDARAM (2022) MALAYALAM" group-title="INDIA", LALITHAM SUNDARAM (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6521.mkv
+#EXTINF: -1 tvg-name="JALSA (2022) HINDI" tvg-logo="https://i.ytimg.com/vi/T8GaE3fi3OU/maxresdefault.jpg" group-title="INDIA", JALSA (2022) HINDI
+http://iptv12k.com:35461/movie/80201051217/424567/6520.mp4
+#EXTINF: -1 tvg-name="Star vijay IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA", Star vijay IN
+http://iptv12k.com:35461/80201051217/424567/6151
+#EXTINF: -1 tvg-id="StarBharat.in" tvg-name="STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="INDIA", STAR BHARAT HD
+http://iptv12k.com:35461/80201051217/424567/5216
+#EXTINF: -1 tvg-name="SUN TV MY2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA", SUN TV MY2
+http://iptv12k.com:35461/80201051217/424567/5059
+#EXTINF: -1 tvg-name="Shyam Singha Roy 2022 2h 35m Director Rahul Sankrityan Writer Satyadev Janga(original story) Stars NaniSai PallaviKrithi Shetty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Shyam_singa_roy_poster.jpg/220px-Shyam_singa_roy_poster.jpg" group-title="INDIA", Shyam Singha Roy 2022 2h 35m Director Rahul Sankrityan Writer Satyadev Janga(original story) Stars NaniSai PallaviKrithi Shetty
+http://iptv12k.com:35461/movie/80201051217/424567/4846.mkv
+#EXTINF: -1 tvg-name="Plan Panni Pannanum 2021 2h 14m" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Plan_Panni_Pannanum_Poster.jpeg/220px-Plan_Panni_Pannanum_Poster.jpeg" group-title="INDIA", Plan Panni Pannanum 2021 2h 14m
+http://iptv12k.com:35461/movie/80201051217/424567/4834.mkv
+#EXTINF: -1 tvg-name="ʀᴀᴊᴀᴠᴀᴍsᴀᴍ 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Borrder_film.jpg" group-title="INDIA", ʀᴀᴊᴀᴠᴀᴍsᴀᴍ 2021
+http://iptv12k.com:35461/movie/80201051217/424567/4833.mkv
+#EXTINF: -1 tvg-name="Vanam 2021 2h 4m Director Srikantan Anand Writers Srikantan Anand(screenplay)Issac Basil(screenplay)Gnanakaravel(lyricist) Stars Azhagam PerumalVela RamamoorthyAnu Sithara" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Vanam_2021_film_poster.jpg/220px-Vanam_2021_film_poster.jpg" group-title="INDIA", Vanam 2021 2h 4m Director Srikantan Anand Writers Srikantan Anand(screenplay)Issac Basil(screenplay)Gnanakaravel(lyricist) Stars Azhagam PerumalVela RamamoorthyAnu Sithara
+http://iptv12k.com:35461/movie/80201051217/424567/4832.mkv
+#EXTINF: -1 tvg-name="Thalli Pogathey 2021 2h 3m  Director R. Kannan Stars Atharvaa MuraliAnupama ParameswaranAmitash Pradhan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVkNTM3M2ItM2EyYi00NTA1LTgzNmMtMDUzZTgwNzE4YWNmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="INDIA", Thalli Pogathey 2021 2h 3m  Director R. Kannan Stars Atharvaa MuraliAnupama ParameswaranAmitash Pradhan
+http://iptv12k.com:35461/movie/80201051217/424567/4831.mkv
+#EXTINF: -1 tvg-name="Murungaikai Chips 2021 2h 20m ESub Director Sreejar Stars Yogi BabuBhagyarajShanthnu Bhagyaraj" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ4MTI2ZjItODdhMC00Y2RjLWIxNjktYmE3ZWE5ZjBlNDRmXkEyXkFqcGdeQXVyMTIzMTMxNzc4._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Murungaikai Chips 2021 2h 20m ESub Director Sreejar Stars Yogi BabuBhagyarajShanthnu Bhagyaraj
+http://iptv12k.com:35461/movie/80201051217/424567/4830.mkv
+#EXTINF: -1 tvg-name="Moonu Muppathi Moonu (2021) Tamil  ESub 3:33 2021 2h 13m Director Nambikkai Chandru Writer Nambikkai Chandru Stars Mime GopiSandy MasterGautham Vasudev Menon" tvg-logo="https://i.ytimg.com/vi/2foT-H2Pbdk/maxresdefault.jpg" group-title="INDIA", Moonu Muppathi Moonu (2021) Tamil  ESub 3:33 2021 2h 13m Director Nambikkai Chandru Writer Nambikkai Chandru Stars Mime GopiSandy MasterGautham Vasudev Menon
+http://iptv12k.com:35461/movie/80201051217/424567/4829.mkv
+#EXTINF: -1 tvg-name="Minnal Murali 2021 TV-14 2h 38m  Director Basil Joseph Writers Arun AnirudhanJustin Mathew Stars Tovino ThomasGuru SomasundaramAju Varghese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Minnal_Murali.jpg" group-title="INDIA", Minnal Murali 2021 TV-14 2h 38m  Director Basil Joseph Writers Arun AnirudhanJustin Mathew Stars Tovino ThomasGuru SomasundaramAju Varghese
+http://iptv12k.com:35461/movie/80201051217/424567/4828.mkv
+#EXTINF: -1 tvg-name="MemesTamizh Pushpa The Rise (2021) Tamil" tvg-logo="https://i.ytimg.com/vi/SD_nCk2YtjQ/maxresdefault.jpg" group-title="INDIA", MemesTamizh Pushpa The Rise (2021) Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/4827.mkv
+#EXTINF: -1 tvg-name="MemesTamizh Bachelor (2021) Tamil" group-title="INDIA", MemesTamizh Bachelor (2021) Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/4826.mkv
+#EXTINF: -1 tvg-name="Maanaadu 2021 PG-13 2h 27m ESub Maanaadu 2021 PG-13 2h 27m" tvg-logo="https://static.toiimg.com/thumb/msid-73322306,width-219,height-317,imgsize-76910/73322306.jpg" group-title="INDIA", Maanaadu 2021 PG-13 2h 27m ESub Maanaadu 2021 PG-13 2h 27m
+http://iptv12k.com:35461/movie/80201051217/424567/4825.mkv
+#EXTINF: -1 tvg-name="Anti Indian 2021 2h 20m Anti_Indian_2021_Tamil" tvg-logo="https://static.toiimg.com/thumb/msid-88166012,width-219,height-317,imgsize-15040/88166012.jpg" group-title="INDIA", Anti Indian 2021 2h 20m Anti_Indian_2021_Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/4823.mkv
+#EXTINF: -1 tvg-name="Raaz 3: The Third Dimension 2012 R 2h 19m Malay_Hardsub_Director Vikram Bhatt Writer Shagufta Rafique Stars Bipasha BasuEmraan HashmiEsha Gupta" tvg-logo="https://media1.fdncms.com/clevescene/imager/raaz-3-the-third-dimension/u/zoom/3050478/139782h1.jpg" group-title="INDIA", Raaz 3: The Third Dimension 2012 R 2h 19m Malay_Hardsub_Director Vikram Bhatt Writer Shagufta Rafique Stars Bipasha BasuEmraan HashmiEsha Gupta
+http://iptv12k.com:35461/movie/80201051217/424567/4574.mp4
+#EXTINF: -1 tvg-name="6Raaz (2002) Hindi Bluray Malay Hardsub Director Vikram Bhatt Writers Mahesh BhattGirish Dhamija(dialogue) Stars Dino MoreaBipasha BasuMalini Sharma" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Raaz_2002_film.jpg" group-title="INDIA", 6Raaz (2002) Hindi Bluray Malay Hardsub Director Vikram Bhatt Writers Mahesh BhattGirish Dhamija(dialogue) Stars Dino MoreaBipasha BasuMalini Sharma
+http://iptv12k.com:35461/movie/80201051217/424567/4572.mp4
+#EXTINF: -1 tvg-name="Kalank 2019 Not Rated 2h 46m Malay_Hardsub_Director Abhishek Varman Writers Shibani Bathija(story)Hussain Dalal(dialogue)Abhishek Varman(screenplay) Stars Varun DhawanAlia BhattMadhuri Dixit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Kalank_Poster.jpg" group-title="INDIA", Kalank 2019 Not Rated 2h 46m Malay_Hardsub_Director Abhishek Varman Writers Shibani Bathija(story)Hussain Dalal(dialogue)Abhishek Varman(screenplay) Stars Varun DhawanAlia BhattMadhuri Dix...
+http://iptv12k.com:35461/movie/80201051217/424567/4568.mp4
+#EXTINF: -1 tvg-name="Ittefaq 2017 Not Rated 1h 45m Malay_Hardsub_Director Abhay Chopra Writers Abhay ChopraShreyas JainNikhil Mehrotra Stars Sidharth MalhotraSonakshi SinhaAkshaye Khanna" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Ittefaq_%282017%29.jpg" group-title="INDIA", Ittefaq 2017 Not Rated 1h 45m Malay_Hardsub_Director Abhay Chopra Writers Abhay ChopraShreyas JainNikhil Mehrotra Stars Sidharth MalhotraSonakshi SinhaAkshaye Khanna
+http://iptv12k.com:35461/movie/80201051217/424567/4566.mp4
+#EXTINF: -1 tvg-name="Doctor 2021 2h 28m Malay_Hardsub_Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/doctor-20200217110951-19018.jpg" group-title="INDIA", Doctor 2021 2h 28m Malay_Hardsub_Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan
+http://iptv12k.com:35461/movie/80201051217/424567/4564.mp4
+#EXTINF: -1 tvg-name="Dhamaka 2021 TV-14 1h 43m Malay_Hardsub_Director Ram Madhvani Writers Ram MadhvaniPuneet Sharma Stars Kartik AaryanMohammed MansoorMrunal Thakur" tvg-logo="https://www.letsott.com/assets/uploads/posts/DhaamaakOTT-min.jpg" group-title="INDIA", Dhamaka 2021 TV-14 1h 43m Malay_Hardsub_Director Ram Madhvani Writers Ram MadhvaniPuneet Sharma Stars Kartik AaryanMohammed MansoorMrunal Thakur
+http://iptv12k.com:35461/movie/80201051217/424567/4563.mp4
+#EXTINF: -1 tvg-name="Laabam 2021 2h 24m tamil  农夫起革命-米尔语中字 Directors S.P. JhananathanAalayamani Writers Aalayamani(screenplay)S.P. Jhananathan(dialogue) Stars Vijay SethupathiShruti HaasanJagapathi Babu" tvg-logo="https://pbs.twimg.com/media/EuWiBnJVEAQKNmB.jpg" group-title="INDIA", Laabam 2021 2h 24m tamil  农夫起革命-米尔语中字 Directors S.P. JhananathanAalayamani Writers Aalayamani(screenplay)S.P. Jhananathan(dialogue) Stars Vijay SethupathiShruti HaasanJagapathi B...
+http://iptv12k.com:35461/movie/80201051217/424567/4192.mp4
+#EXTINF: -1 tvg-name="Soorarai Pottru 2020 TV-MA 2h 33m Malay_Hardsub_@CeritaSarikataMelayu" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjYmM0ZWEtNTFjNi00MWZjLTk3OTItMmFjMDAzZWU1ZDVjXkEyXkFqcGdeQXVyMTI2Mzk1ODg0._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Soorarai Pottru 2020 TV-MA 2h 33m Malay_Hardsub_@CeritaSarikataMelayu
+http://iptv12k.com:35461/movie/80201051217/424567/4169.mp4
+#EXTINF: -1 tvg-name="Doctor (2021) Tamil Malay Hardsub Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/doctor-20200217110951-19018.jpg" group-title="INDIA", Doctor (2021) Tamil Malay Hardsub Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan
+http://iptv12k.com:35461/movie/80201051217/424567/4167.mp4
+#EXTINF: -1 tvg-name="Jai Bhim 2021 2h 44m Director T.J. Gnanavel Writer T.J. Gnanavel Stars SuriyaLijo Mol JoseManikandan" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/jaibhim-20210723171210-19609.jpg" group-title="INDIA", Jai Bhim 2021 2h 44m Director T.J. Gnanavel Writer T.J. Gnanavel Stars SuriyaLijo Mol JoseManikandan
+http://iptv12k.com:35461/movie/80201051217/424567/4164.mp4
+#EXTINF: -1 tvg-name="Meenakshi Sundareshwar 2021 TV-14 2h 20m Vivek Soni Writers Vivek SoniAarsh Vora Stars Sukhesh AroraPurnendu BhattacharyaKomal Chhabria" tvg-logo="https://i.ytimg.com/vi/yJQqmcHmiDM/maxresdefault.jpg" group-title="INDIA", Meenakshi Sundareshwar 2021 TV-14 2h 20m Vivek Soni Writers Vivek SoniAarsh Vora Stars Sukhesh AroraPurnendu BhattacharyaKomal Chhabria
+http://iptv12k.com:35461/movie/80201051217/424567/4143.mkv
+#EXTINF: -1 tvg-name="Sanak 2021 1h 56min  Director Kanishk Varma Writer Ashish P. Verma Stars Vidyut JammwalRukmini MaitraNeha Dhupia" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg3NzhlMjktODA2MS00YTJkLWEyYWMtNGYxMzYwYTViMWQwXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="INDIA", Sanak 2021 1h 56min  Director Kanishk Varma Writer Ashish P. Verma Stars Vidyut JammwalRukmini MaitraNeha Dhupia
+http://iptv12k.com:35461/movie/80201051217/424567/4105.mp4
+#EXTINF: -1 tvg-name="Unhinged 2020 R 1h 30min IMDb RATING YOUR RATING POPULARITY  Director Derrick Borte Writer Carl Ellsworth Stars Russell CroweCaren PistoriusGabriel Bateman" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Unhinged2020Poster.jpeg" group-title="INDIA", Unhinged 2020 R 1h 30min IMDb RATING YOUR RATING POPULARITY  Director Derrick Borte Writer Carl Ellsworth Stars Russell CroweCaren PistoriusGabriel Bateman
+http://iptv12k.com:35461/movie/80201051217/424567/4040.mkv
+#EXTINF: -1 tvg-name="Tribhanga 2021 TV-MA 1h 35min  Director Renuka Shahane Writer Renuka Shahane Stars KajolTanvi AzmiMithila Palkar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Tribhanga_film_poster.jpg/220px-Tribhanga_film_poster.jpg" group-title="INDIA", Tribhanga 2021 TV-MA 1h 35min  Director Renuka Shahane Writer Renuka Shahane Stars KajolTanvi AzmiMithila Palkar
+http://iptv12k.com:35461/movie/80201051217/424567/4038.mkv
+#EXTINF: -1 tvg-name="The White Tiger 2021 R 2h 5min Director Ramin Bahrani Writers Ramin Bahrani(written for the screen by)Aravind Adiga(based on the book by) Stars Adarsh GouravRajkummar RaoPriyanka Chopra Jonas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/The_White_Tiger_film_poster.jpg" group-title="INDIA", The White Tiger 2021 R 2h 5min Director Ramin Bahrani Writers Ramin Bahrani(written for the screen by)Aravind Adiga(based on the book by) Stars Adarsh GouravRajkummar RaoPriyanka Chopra Jo...
+http://iptv12k.com:35461/movie/80201051217/424567/4003.mkv
+#EXTINF: -1 tvg-name="Khuda Haafiz 2020 Khuda Haafiz 2020 TV-MA 2h 13min  Director Faruk Kabir Writer Faruk Kabir Stars Vidyut JammwalShivaleeka OberoiAnnu Kapoor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Khuda_Haafiz_film_poster.jpg" group-title="INDIA", Khuda Haafiz 2020 Khuda Haafiz 2020 TV-MA 2h 13min  Director Faruk Kabir Writer Faruk Kabir Stars Vidyut JammwalShivaleeka OberoiAnnu Kapoor
+http://iptv12k.com:35461/movie/80201051217/424567/3925.mkv
+#EXTINF: -1 tvg-name="IN : Asianet HD" tvg-logo="https://www.pngitem.com/pimgs/m/192-1929742_asianet-channel-hd-png-download.png" group-title="INDIA", IN : Asianet HD
+http://iptv12k.com:35461/80201051217/424567/1943
+#EXTINF: -1 tvg-name="[TW] ASIANET NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" group-title="INDIA", [TW] ASIANET NEWS
+http://iptv12k.com:35461/80201051217/424567/1234
+#EXTINF: -1 tvg-name="STAR VIJAY my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA", STAR VIJAY my
+http://iptv12k.com:35461/80201051217/424567/995
+#EXTINF: -1 tvg-name="Sun TV HD INDIA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg" group-title="INDIA", Sun TV HD INDIA
+http://iptv12k.com:35461/80201051217/424567/991
+#EXTINF: -1 tvg-name="Sun Music INDIA" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA", Sun Music INDIA
+http://iptv12k.com:35461/80201051217/424567/990
+#EXTINF: -1 tvg-name="Sony SetMAX INDIA" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="INDIA", Sony SetMAX INDIA
+http://iptv12k.com:35461/80201051217/424567/989
+#EXTINF: -1 tvg-name="Sony SAB INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="INDIA", Sony SAB INDIA
+http://iptv12k.com:35461/80201051217/424567/988
+#EXTINF: -1 tvg-name="Zee Cinema INDIA US" tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="INDIA", Zee Cinema INDIA US
+http://iptv12k.com:35461/80201051217/424567/987
+#EXTINF: -1 tvg-name="Zee TV HD INDIA" tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA", Zee TV HD INDIA
+http://iptv12k.com:35461/80201051217/424567/986
+#EXTINF: -1 tvg-name="Colors HD INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Colors_TV_Logo.jpg/640px-Colors_TV_Logo.jpg" group-title="INDIA", Colors HD INDIA
+http://iptv12k.com:35461/80201051217/424567/985
+#EXTINF: -1 tvg-name="ASTRO Colors Tamil INDIA" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png" group-title="INDIA", ASTRO Colors Tamil INDIA
+http://iptv12k.com:35461/80201051217/424567/984
+#EXTINF: -1 tvg-name="SG-COLORS INDIA" tvg-logo="https://i.loli.net/2021/10/04/TmXNR8vVZr9BiuD.jpg" group-title="INDIA", SG-COLORS INDIA
+http://iptv12k.com:35461/80201051217/424567/983
+#EXTINF: -1 tvg-name="SG-COLORS Tamil HD INDIA" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png" group-title="INDIA", SG-COLORS Tamil HD INDIA
+http://iptv12k.com:35461/80201051217/424567/982
+#EXTINF: -1 tvg-name="Colors Cineplex INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIA", Colors Cineplex INDIA
+http://iptv12k.com:35461/80201051217/424567/981
+#EXTINF: -1 tvg-name="POLIMER NEWSINDIA" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA", POLIMER NEWSINDIA
+http://iptv12k.com:35461/80201051217/424567/980
+#EXTINF: -1 tvg-id="RajTV.in" tvg-name="Raj TV INDIA" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA", Raj TV INDIA
+http://iptv12k.com:35461/80201051217/424567/979
+#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="Jaya Max INDIA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA", Jaya Max INDIA
+http://iptv12k.com:35461/80201051217/424567/978
+#EXTINF: -1 tvg-name="Jaya Plus INDIA" group-title="INDIA", Jaya Plus INDIA
+http://iptv12k.com:35461/80201051217/424567/977
+#EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="INDIA", ASTRO Adithya INDIA
+http://iptv12k.com:35461/80201051217/424567/976
+#EXTINF: -1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV INDIA" tvg-logo="http://www.cgtoday.com/news_images/chutti_logo_22_dec_10.jpg" group-title="INDIA", Chutti TV INDIA
+http://iptv12k.com:35461/80201051217/424567/975
+#EXTINF: -1 tvg-id="UTVMovies.in" tvg-name="UTV movies  INDIA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="INDIA", UTV movies  INDIA
+http://iptv12k.com:35461/80201051217/424567/974
+#EXTINF: -1 tvg-name="SG-Sony Entertainment Television INDIA sony set" tvg-logo="https://i.loli.net/2021/10/04/d2RFeA47wKluzkE.png" group-title="INDIA", SG-Sony Entertainment Television INDIA sony set
+http://iptv12k.com:35461/80201051217/424567/973
+#EXTINF: -1 tvg-name="SG-Zee Tamil my" tvg-logo="https://i.loli.net/2021/10/04/fxco9MlDu5gYKeF.jpg" group-title="INDIA", SG-Zee Tamil my
+http://iptv12k.com:35461/80201051217/424567/216
+#EXTINF: -1 tvg-name="YAARO (2022) TAMIL Tamil Subs Indo" tvg-logo="https://i.kfs.io/album/global/106156662,0v1/fit/500x500.jpg" group-title="INDIA", YAARO (2022) TAMIL Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6537.mp4
+#EXTINF: -1 tvg-name="Trikona (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBhYzdkOGYtNTI3NC00OTY2LWIwZDItN2MyMGI2MGJhYTQ2XkEyXkFqcGdeQXVyNDc4NDU5OTg@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Trikona (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8420.mkv
+#EXTINF: -1 tvg-name="Sher Shivraj (2022) Marathi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE1NGEzYjAtNWY3OC00NWE4LTgyNjMtZGY1MDA0YjNiMThiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg" group-title="INDIA", Sher Shivraj (2022) Marathi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8418.mp4
+#EXTINF: -1 tvg-name="Kinnerasani (2022) Telugu Subs Indo" tvg-logo="https://image.tmdb.org/t/p/w500/mKorqgV9F9dzTo3TT0fsV29RdM7.jpg" group-title="INDIA", Kinnerasani (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8417.mp4
+#EXTINF: -1 tvg-name="Jayamma Panchayathi (2022) Telugu Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jayamma-panchayathi-et00321507-04-05-2022-05-01-12.jpg" group-title="INDIA", Jayamma Panchayathi (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8416.mkv
+#EXTINF: -1 tvg-name="Avatara Purusha_ Part 1 (2022) Kannada Subs Indo" tvg-logo="https://static.toiimg.com/thumb/msid-91126182,width-219,height-317,imgsize-53072/91126182.jpg" group-title="INDIA", Avatara Purusha_ Part 1 (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8413.mkv
+#EXTINF: -1 tvg-name="Pathrosinte Padappukal (2022) Malayalam Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/pathrosinte-padappukal-et00324659-14-03-2022-01-36-02.jpg" group-title="INDIA", Pathrosinte Padappukal (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8393.mp4
+#EXTINF: -1 tvg-name="CBI 5 The Brain (2022) Malayalam Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/CBI_5_The_Brain_1.jpg/220px-CBI_5_The_Brain_1.jpg" group-title="INDIA", CBI 5 The Brain (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8390.mp4
+#EXTINF: -1 tvg-name="Ardh (2022) Hindi Subs Indo" tvg-logo="https://i.imgur.com/3xnkFlN.jpg" group-title="INDIA", Ardh (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8389.mp4
+#EXTINF: -1 tvg-name="Sarkaru Vaari Paata (2022) Telugu Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Sarkaru_Vaari_Paata.jpg" group-title="INDIA", Sarkaru Vaari Paata (2022) Telugu Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8382.mp4
+#EXTINF: -1 tvg-name="Attack_ Part 1 (2022) Hindi Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Attack_film_poster.jpg/220px-Attack_film_poster.jpg" group-title="INDIA", Attack_ Part 1 (2022) Hindi Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8376.mp4
+#EXTINF: -1 tvg-name="Twenty One Gms (2022) Malayalam Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/twenty-one-grams-et00324665-14-03-2022-04-07-48.jpg" group-title="INDIA", Twenty One Gms (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8265.mp4
+#EXTINF: -1 tvg-name="Red (2021) Telugu Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Red_2020_Poster.jpg/220px-Red_2020_Poster.jpg" group-title="INDIA", Red (2021) Telugu Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8260.mp4
+#EXTINF: -1 tvg-name="No Way Out (2022) Malayalam Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzczM2VjMGYtZjdmOS00MWE4LTkxNjgtYmIxMTBhMjdhN2ZlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", No Way Out (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8258.mp4
+#EXTINF: -1 tvg-name="Jayeshbhai Jordaar (2022) Hindi Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Jayeshbhai_Jordaar.jpg/220px-Jayeshbhai_Jordaar.jpg" group-title="INDIA", Jayeshbhai Jordaar (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8253.mp4
+#EXTINF: -1 tvg-name="Ini Oru Murai 2022" tvg-logo="https://c.saavncdn.com/053/Thirukoil-Darisanam-1988-500x500.jpg" group-title="INDIA", Ini Oru Murai 2022
+http://iptv12k.com:35461/movie/80201051217/424567/8251.mp4
+#EXTINF: -1 tvg-name="Hawala Rise Of A Gangster (2020) Kannada Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVmOTJmNmEtMjI2OS00MjhiLWI5MTgtZGUwNTYwZTdiYjhlXkEyXkFqcGdeQXVyMTIyMjIwMDAw._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Hawala Rise Of A Gangster (2020) Kannada Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8250.mp4
+#EXTINF: -1 tvg-name="Don (2022) Tamil Subs Malay" tvg-logo="https://tamilpedia.net/movies/uploads/large/don.jpg" group-title="INDIA", Don (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8249.mp4
+#EXTINF: -1 tvg-name="Chandramukhi (2022) Marathi Subs Indo" tvg-logo="http://popcornsg.s3.amazonaws.com/movies/650/9787-38152-Chandramjpg" group-title="INDIA", Chandramukhi (2022) Marathi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8248.mp4
+#EXTINF: -1 tvg-name="Body God (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmMDU1NDEtMWNhNS00NDkwLWE1ZTQtZTE3N2M5YjIxNWI5XkEyXkFqcGdeQXVyODY1NzgzMDQ@._V1_QL75_UX190_CR0,8,190,281_.jpg" group-title="INDIA", Body God (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8247.mp4
+#EXTINF: -1 tvg-name="Ayngaran (2022) Tamil Subs Indo" tvg-logo="http://popcornsg.s3.amazonaws.com/gallery/1653955559-ayngaran.jpg" group-title="INDIA", Ayngaran (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8246.mp4
+#EXTINF: -1 tvg-name="Attack 2022 2h 1m Director Lakshya Raj Anand Writers John Abraham(story)Lakshya Raj AnandSumit Batheja(dialogue) Stars Rakul Preet SinghJohn AbrahamJacqueline Fernandez" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZkODczYmEtNjU3YS00ZmI5LTg1M2YtMjUxNmJiZDcxZmZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="INDIA", Attack 2022 2h 1m Director Lakshya Raj Anand Writers John Abraham(story)Lakshya Raj AnandSumit Batheja(dialogue) Stars Rakul Preet SinghJohn AbrahamJacqueline Fernandez
+http://iptv12k.com:35461/movie/80201051217/424567/8236.mp4
+#EXTINF: -1 tvg-name="Jungle Cry (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBkYjQ2MjQtNGQ3My00OTk1LWIzZGMtMjIwMDZlNGMwYzA2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg" group-title="INDIA", Jungle Cry (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8229.mp4
+#EXTINF: -1 tvg-name="Koogle Kuttappa (2022) Tamil Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Koogle_Kuttappa_film_poster.jpg/220px-Koogle_Kuttappa_film_poster.jpg" group-title="INDIA", Koogle Kuttappa (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8222.mp4
+#EXTINF: -1 tvg-name="Yutha Satham (2022) Tamil Subs Indo" tvg-logo="https://www.tamil2lyrics.com/wp-content/uploads/2022/03/Yutha-Satham.jpg" group-title="INDIA", Yutha Satham (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8211.mp4
+#EXTINF: -1 tvg-name="Veerapandiyapuram (2022) Tamil Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/veerapandiyapuram-et00322377-17-02-2022-10-30-43.jpg" group-title="INDIA", Veerapandiyapuram (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8210.mp4
+#EXTINF: -1 tvg-name="Sarkar (2018) Tamil Subs Malay By Cocobutter" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MWY0NzYtNGI1Mi00OWU3LTg2NjctYzQwNzdhMTI3MjU5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="INDIA", Sarkar (2018) Tamil Subs Malay By Cocobutter
+http://iptv12k.com:35461/movie/80201051217/424567/8209.mp4
+#EXTINF: -1 tvg-name="Rocky (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ4MWU5NGQtMjM4OC00OGI5LTgwOTktMjMxMGJlY2I0ZWFkXkEyXkFqcGdeQXVyOTAyODE5ODg@._V1_.jpg" group-title="INDIA", Rocky (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8208.mp4
+#EXTINF: -1 tvg-name="Rhino (2021) Subs Indo" tvg-logo="https://moviesreview101.files.wordpress.com/2022/05/rhino_key_art-blue-finch-film-releasing.jpg" group-title="INDIA", Rhino (2021) Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8207.mp4
+#EXTINF: -1 tvg-name="Pothanur Thabal Nilayam (2022) Tamil Subs Indo" tvg-logo="https://i.ytimg.com/vi/HSR4vrtfv0g/maxresdefault.jpg" group-title="INDIA", Pothanur Thabal Nilayam (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8206.mp4
+#EXTINF: -1 tvg-name="Pen_Vilai_Verum_999_Rubai_Mattume_2022_Tamil_Subs_Indo" tvg-logo="https://i.ytimg.com/vi/Yemjpn04PJ8/maxresdefault.jpg" group-title="INDIA", Pen_Vilai_Verum_999_Rubai_Mattume_2022_Tamil_Subs_Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8205.mp4
+#EXTINF: -1 tvg-name="Payanigal Gavanikkavum (2022) Tamil Subs Indo" tvg-logo="https://www.newsbugz.com/wp-content/uploads/2022/04/PAYANIGAL-GAVANIKKAVUM-1.jpg" group-title="INDIA", Payanigal Gavanikkavum (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8204.mp4
+#EXTINF: -1 tvg-name="Oh My Dog (2022) Tamil Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Oh_My_Dog_film_poster.jpg" group-title="INDIA", Oh My Dog (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8203.mp4
+#EXTINF: -1 tvg-name="Naai Sekar (2022) Tamil Subs Malay" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/naaisekarreturns-20211008171701-20451.jpg" group-title="INDIA", Naai Sekar (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8201.mp4
+#EXTINF: -1 tvg-name="Valimai (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBmZTA3MWMtOTFkMy00MjI4LTk4ZjEtZmQ1YjI4MzJhMzA4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="INDIA", Valimai (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8200.mp4
+#EXTINF: -1 tvg-name="Muni (2007) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZkMmU0ZWYtNGE3My00YzhlLWE3ZjctMmM0NGY0NWVhZDM0L2ltYWdlXkEyXkFqcGdeQXVyNzAwNjgyMDU@._V1_.jpg" group-title="INDIA", Muni (2007) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8199.mp4
+#EXTINF: -1 tvg-name="Manmadha Leelai (2022) Tamil Subs Indo" tvg-logo="https://i.ytimg.com/vi/Hw5c_Fe2LW4/maxresdefault.jpg" group-title="INDIA", Manmadha Leelai (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8198.mp4
+#EXTINF: -1 tvg-name="Kanchana_ Muni 2 (2011) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjZmMyZTQtMjBhZS00NmE2LWJlYTItOTkzMjJiNzg5MTY3XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg" group-title="INDIA", Kanchana_ Muni 2 (2011) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8197.mp4
+#EXTINF: -1 tvg-name="Kanchana 2_ Muni 3 (2015) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhmMzVjNmMtMjI3Ni00ZTczLWExNWEtYTVkMzk5NzAzZDQ1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg" group-title="INDIA", Kanchana 2_ Muni 3 (2015) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8196.mp4
+#EXTINF: -1 tvg-name="Kaadan (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgyNmFhZWUtMzcwYy00M2EwLWEzYWMtZjdmYTZlNzEyZDM1XkEyXkFqcGdeQXVyMTE0NDk0MzM0._V1_.jpg" group-title="INDIA", Kaadan (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8195.mp4
+#EXTINF: -1 tvg-name="Idiot (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJjYThmYWQtMWUyMi00Njc1LTk2YTctMjNiYjE5MjIwYWRkXkEyXkFqcGdeQXVyNzQxOTkxNTM@._V1_.jpg" group-title="INDIA", Idiot (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8192.mp4
+#EXTINF: -1 tvg-name="Etharkkum Thunindhavan (2022) Tamil Subs Indo" tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/9275-0-Etharkkujpg" group-title="INDIA", Etharkkum Thunindhavan (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8190.mp4
+#EXTINF: -1 tvg-name="Enthiran (2010) BluRay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Enthiran_poster.jpg/220px-Enthiran_poster.jpg" group-title="INDIA", Enthiran (2010) BluRay
+http://iptv12k.com:35461/movie/80201051217/424567/8189.mp4
+#EXTINF: -1 tvg-name="ENTHIRAN_2_0_2019_TAMIL_Genre__Action,_Thriller,_Sci_Fi_Hardsub" tvg-logo="http://www.firstpost.com/wp-content/uploads/2016/11/crop-2.0-825.jpg" group-title="INDIA", _Sci_Fi_Hardsub
+http://iptv12k.com:35461/movie/80201051217/424567/8188.mp4
+#EXTINF: -1 tvg-name="Dear Sathya (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzk5YzM3YTMtZTEwYS00MWI3LTljMTYtMDA0ODA2OGNiMjA5XkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg" group-title="INDIA", Dear Sathya (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8187.mp4
+#EXTINF: -1 tvg-name="Beast (2022) [PreDVD] Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Beast_2022_Indian_poster.jpg" group-title="INDIA", Beast (2022) [PreDVD] Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/8185.mkv
+#EXTINF: -1 tvg-name="Beast (2022) Tamil Subs English" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZiZTRkMzgtNDhkZC00MzE0LWE4MzAtZDYwYzA1OTM2MDdkXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Beast (2022) Tamil Subs English
+http://iptv12k.com:35461/movie/80201051217/424567/8184.mkv
+#EXTINF: -1 tvg-name="Astakarmma (2022) Tamil Subs Indo" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/ashtakarma-20201212224321-19736.jpg" group-title="INDIA", Astakarmma (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8183.mp4
+#EXTINF: -1 tvg-name="Yaaro (2022) Tamil Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/yaaro-et00321742-02-02-2022-11-25-35.jpg" group-title="INDIA", Yaaro (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8182.mp4
+#EXTINF: -1 tvg-name="Writer (2022) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZlYzlmYTEtODFlNi00OGExLWExZmUtY2MxYWI5NzczYzZhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Writer (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8181.mp4
+#EXTINF: -1 tvg-name="Writer (2021) Tamil Subs Indo 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBiNDFhMDItNWY4Ny00ZjRhLTk3YWQtYzFhMDZhZWQwOWY2XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="INDIA", Writer (2021) Tamil Subs Indo 1
+http://iptv12k.com:35461/movie/80201051217/424567/8180.mkv
+#EXTINF: -1 tvg-name="Vanam (2021) Tamil Subs Malay" tvg-logo="https://i.ytimg.com/vi/58sZNr-pKUQ/maxresdefault.jpg" group-title="INDIA", Vanam (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8179.mp4
+#EXTINF: -1 tvg-name="Valiyor Silar (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzliNGY1OWEtMzhiNy00M2U0LTk2M2UtODVhM2JhMTA0Zjk4XkEyXkFqcGdeQXVyMTA4MDEwMTQw._V1_.jpg" group-title="INDIA", Valiyor Silar (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8178.mp4
+#EXTINF: -1 tvg-name="Theethum Nandrum (2021) Tamil Subs Malay" tvg-logo="https://static.toiimg.com/thumb/msid-81043446,width-219,height-317,imgsize-108848/81043446.jpg" group-title="INDIA", Theethum Nandrum (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8177.mp4
+#EXTINF: -1 tvg-name="Theerpugal Virkapadum (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E5YWZjYzktMjRjZC00YzIxLWJkZDEtMGY2NDUzYTBlMjZmXkEyXkFqcGdeQXVyMzMxMDUzNTk@._V1_.jpg" group-title="INDIA", Theerpugal Virkapadum (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8176.mkv
+#EXTINF: -1 tvg-name="Theal (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFmZWQ3YzYtY2E1Mi00OGQwLWI0NmEtODkxMjY5ZjBlZTBiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="INDIA", Theal (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8175.mp4
+#EXTINF: -1 tvg-name="Thalli Pogathey (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVkNTM3M2ItM2EyYi00NTA1LTgzNmMtMDUzZTgwNzE4YWNmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Thalli Pogathey (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8174.mp4
+#EXTINF: -1 tvg-name="Sila Nerangalil Sila Manidhargal (2022) Subs Indo" tvg-logo="https://i.ytimg.com/vi/OW-iZ-6GntA/maxresdefault.jpg" group-title="INDIA", Sila Nerangalil Sila Manidhargal (2022) Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8173.mp4
+#EXTINF: -1 tvg-name="Sangathalaivan (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQxZmE0MTAtMjIyYi00NzBiLWE5ZWMtYjZjZTBlYzIzNDcxXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Sangathalaivan (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8172.mkv
+#EXTINF: -1 tvg-name="Raajavamsam (2021) Tamil Subs Indo" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/192001-193000/192239.jpg" group-title="INDIA", Raajavamsam (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8171.mkv
+#EXTINF: -1 tvg-name="Paramapadham Vilayattu (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhhMTk4ZjMtZjgzYi00YWUzLWIyYTMtMTU3MzhmNzdhNGYwXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg" group-title="INDIA", Paramapadham Vilayattu (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8170.mkv
+#EXTINF: -1 tvg-name="Pandrikku Nandri Solli (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRmZDY2NjEtZDE0Mi00ZWVkLWEyMzUtZmNjMmMwOWYyM2VlXkEyXkFqcGdeQXVyNTUwNTE1MDg@._V1_.jpg" group-title="INDIA", Pandrikku Nandri Solli (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8169.mkv
+#EXTINF: -1 tvg-name="Oomai Sennaai (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhjNzA3NGMtMzNjOC00NGRlLWI1ODQtNGE1MDM1MGJkOGZmXkEyXkFqcGdeQXVyMTQ3NDM3MjU1._V1_UY1200_CR165,0,630,1200_AL_.jpg" group-title="INDIA", Oomai Sennaai (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8168.mp4
+#EXTINF: -1 tvg-name="Namma Oorukku Ennadhan Achu (2021) Tamil Subs Malay" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71gSyiEyscL._RI_.jpg" group-title="INDIA", Namma Oorukku Ennadhan Achu (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8167.mp4
+#EXTINF: -1 tvg-name="Mr. Peyii (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYwYWJjMmUtODk2Ni00ZTQ0LTlkNDItZDY0OWNmMGFmOTAzXkEyXkFqcGdeQXVyMTQ3MDYxNDM2._V1_.jpg" group-title="INDIA", Mr. Peyii (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8166.mp4
+#EXTINF: -1 tvg-name="Mahaan (2022) Tamil Subs Malay" tvg-logo="https://www.themoviedb.org/t/p/w500/rHcwUUy3gRVUEUepYOd7xkesiNf.jpg" group-title="INDIA", Mahaan (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8165.mp4
+#EXTINF: -1 tvg-name="Maaran (2022) Tamil Subs Indo" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/maaran-20210728110348-19172.jpg" group-title="INDIA", Maaran (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8164.mkv
+#EXTINF: -1 tvg-name="Kombu Vatcha Singamda (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFhZDMyYTUtMmI5Mi00YjgwLWJiNWQtNzJlMmJiMjQ4NjE2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UX140_CR0,6,140,207_.jpg" group-title="INDIA", Kombu Vatcha Singamda (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8163.mkv
+#EXTINF: -1 tvg-name="Kadaisi Vivasayi (2022) Tamil Subs Indo" tvg-logo="http://popcornsg.s3.amazonaws.com/gallery/1644451564-kadaisi-.jpg" group-title="INDIA", Kadaisi Vivasayi (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8162.mp4
+#EXTINF: -1 tvg-name="Irudhi Pakkam (2021) Tamil Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Irudhi_Pakkam.jpg/220px-Irudhi_Pakkam.jpg" group-title="INDIA", Irudhi Pakkam (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8161.mp4
+#EXTINF: -1 tvg-name="FIR (2022) Tamil Muxed Subs English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/FIR_2022_poster.jpg" group-title="INDIA", FIR (2022) Tamil Muxed Subs English
+http://iptv12k.com:35461/movie/80201051217/424567/8160.mkv
+#EXTINF: -1 tvg-name="Etharkkum Thunindhavan (2022) [PreDVD] Tamil" tvg-logo="https://media.elcinema.com/uploads/_315x420_02db4fa612b26a8422b90dfab36ac156d6bd81196e8e24d85fd8522056d6dab8.jpg" group-title="INDIA", Etharkkum Thunindhavan (2022) [PreDVD] Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/8159.mkv
+#EXTINF: -1 tvg-name="Enna Solla Pogirai (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y0ODBhYjctNzZiYi00ODIwLWJiMmYtM2ZlNjUwZDlkYjQ3XkEyXkFqcGdeQXVyMTQyOTU3OTMw._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Enna Solla Pogirai (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8158.mp4
+#EXTINF: -1 tvg-name="Carbon (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFhZDMyYTUtMmI5Mi00YjgwLWJiNWQtNzJlMmJiMjQ4NjE2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Carbon (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8157.mkv
+#EXTINF: -1 tvg-name="Calls (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE3ODljYmUtMjRmMy00NTRmLTk2MTEtMTU1YzRmYjc4YTFjXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg" group-title="INDIA", Calls (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8156.mkv
+#EXTINF: -1 tvg-name="Blood Money (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM3MzE4NjAtZjQ0MC00YmFmLThmMzctMGU2ODE1ZGQ0NjA5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Blood Money (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8155.mp4
+#EXTINF: -1 tvg-name="Bachelor (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ5YTc1NTYtOWZlNy00MWRiLWI5YTMtMTJkODg2ZDZjMTZmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="INDIA", Bachelor (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8154.mp4
+#EXTINF: -1 tvg-name="Atrangi Re Galatta Kalyanam(2021) Subs Indo" tvg-logo="https://www.galatta.com/assets/review/atrangi-re-movie-review-og.jpg" group-title="INDIA", Atrangi Re Galatta Kalyanam(2021) Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8153.mp4
+#EXTINF: -1 tvg-name="Anandham Vilayadum Veedu (2021) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFiZWJmYTAtYWIyOC00YzA1LWE4ODEtZTRhM2UxMjYzZDA5XkEyXkFqcGdeQXVyNDk0NzQ2NzU@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Anandham Vilayadum Veedu (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8152.mkv
+#EXTINF: -1 tvg-name="Alpha Adimai (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmMDlmYmYtNzRmYS00MjBkLThlYzAtMmNmZjY5MGZlOTRlXkEyXkFqcGdeQXVyMTIyMTE0NTk3._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Alpha Adimai (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8151.mkv
+#EXTINF: -1 tvg-name="AGP Schizophrenia (2022) Tamil Subs Indo" tvg-logo="https://www.newsintv.com/wp-content/uploads/2022/01/AGP-Schizophrenia-cast-budget-release-date.jpg" group-title="INDIA", AGP Schizophrenia (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8150.mp4
+#EXTINF: -1 tvg-name="4 Sorry (2021) Tamil Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/4-sorry-et00316869-29-10-2021-11-29-49.jpg" group-title="INDIA", 4 Sorry (2021) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8149.mp4
+#EXTINF: -1 tvg-name="3_33  (2021) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYyNGVhNWQtMDAxYS00ZDY5LWEzY2UtMTc3MjNhZjA4ZjI4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", 3_33  (2021) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8148.mp4
+#EXTINF: -1 tvg-name="Visithiran (2022) Tamil Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUzNjNjNjQtNTdhOC00YjlhLWJlMWItNTIxYzQ1MTUyZjRkXkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg" group-title="INDIA", Visithiran (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8133.mp4
+#EXTINF: -1 tvg-name="Runway 34 (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YzNjU4MTYtMzY5OS00ODg0LTkxMTUtNjg0YjRkYzI5ZWJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Runway 34 (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8126.mp4
+#EXTINF: -1 tvg-name="Katha Kanchiki Manam Intiki (2022) Telugu Subs Indo" tvg-logo="https://cdn.123telugu.com/content/wp-content/uploads/2022/04/KathaKanchikiManamIntiki-re.jpg" group-title="INDIA", Katha Kanchiki Manam Intiki (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8125.mp4
+#EXTINF: -1 tvg-name="Kaathuvaakula Rendu Kaadhal (2022) Tamil Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Kaathuvaakula_Rendu_Kaadhal_%282022_film%29_poster.jpg/220px-Kaathuvaakula_Rendu_Kaadhal_%282022_film%29_poster.jpg" group-title="INDIA", Kaathuvaakula Rendu Kaadhal (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8124.mp4
+#EXTINF: -1 tvg-name="Heropanti 2 (2022) Hindi Subs Indo" tvg-logo="https://pics.filmaffinity.com/Heropanti_2-590589678-mmed.jpg" group-title="INDIA", Heropanti 2 (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8123.mp4
+#EXTINF: -1 tvg-name="By Two Love (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZlNDc4MGMtYWQ1ZC00MzkyLWI4YjgtODc2M2RjNDM5MjU3XkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="INDIA", By Two Love (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8117.mp4
+#EXTINF: -1 tvg-name="Upacharapoorvam_Gunda_Jayan_2022_Malayalam_Subs_Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFiZmZhYjctNzZiNC00OGMyLWE0NDYtZjIwYTRkZWY3MThmXkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1_.jpg" group-title="INDIA", Upacharapoorvam_Gunda_Jayan_2022_Malayalam_Subs_Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8112.mp4
+#EXTINF: -1 tvg-name="Bhala Thandhanana (2022) Telugu Subs Indo" tvg-logo="https://cdn.gulte.com/wp-content/uploads/2022/05/IndianClicks_Disney_Hotstar_Bhala_Thandhanana_Movie_NA_Gulte_1200x900_05192022_1_2.jpg" group-title="INDIA", Bhala Thandhanana (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8101.mp4
+#EXTINF: -1 tvg-name="Aviyal (2022) Malayalam Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ5YzA2MzQtN2ZjMi00YjY3LTlhMWEtMWZhZjJjZmY4NGE2XkEyXkFqcGdeQXVyMTUxNDE1MjYy._V1_.jpg" group-title="INDIA", Aviyal (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8100.mp4
+#EXTINF: -1 tvg-name="Zee Thirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Zee_Thirai.jpg" group-title="INDIA", Zee Thirai
+http://iptv12k.com:35461/80201051217/424567/8072
+#EXTINF: -1 tvg-name="Zombivli (2022) Marathi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBiZjY4MDctNzIwMy00NWQyLTg0YTAtZDAyOTU3MDA1NjQ3XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg" group-title="INDIA", Zombivli (2022) Marathi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8065.mp4
+#EXTINF: -1 tvg-name="Sarkaru Vaari Paata (2022) Telugu Subs Indo" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/198001-199000/198254.jpg" group-title="INDIA", Sarkaru Vaari Paata (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8062.mp4
+#EXTINF: -1 tvg-name="Hostel (2022) Tamil Subs Indo" tvg-logo="https://tamilgun.asia/wp-content/uploads/2022/05/Hostel-2022-HQ-DVDScr-Tamil-Full-Movie-Watch-Online.jpg" group-title="INDIA", Hostel (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8056.mp4
+#EXTINF: -1 tvg-name="Kopi Pahit (2022) 2" tvg-logo="https://static.digit.in/OTT/v2/images/kopi-pahit-764555.jpg" group-title="INDIA", Kopi Pahit (2022) 2
+http://iptv12k.com:35461/movie/80201051217/424567/8049.mp4
+#EXTINF: -1 tvg-name="Jersey (2022) Hindi Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/jersey-et00118049-11-04-2022-12-53-49.jpg" group-title="INDIA", Jersey (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8048.mp4
+#EXTINF: -1 tvg-name="Acharya (2022) Telugu Subs Indo" tvg-logo="https://images.fandango.com/ImageRenderer/400/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/227580/ACHARYA-poster-05.jpg" group-title="INDIA", Acharya (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8045.mp4
+#EXTINF: -1 tvg-name="12th Man (2022) Malayalam Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk5NjNlYTMtN2E1YS00MTk3LWI2NjgtOWU3NmI2ZDgxMTEwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UY281_CR24,0,190,281_.jpg" group-title="INDIA", 12th Man (2022) Malayalam Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8043.mp4
+#EXTINF: -1 tvg-name="Son Of India (2022) Telugu Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Son_Of_India.jpg" group-title="INDIA", Son Of India (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8034.mp4
+#EXTINF: -1 tvg-name="Ruposh (2022) Urdu [Pakistani] Subs Indo" tvg-logo="https://moviewatchonline.com.pk/wp-content/uploads/2022/01/ruposh-2022-urdu-movie-720p-hdrip-881mb-download-1.jpg" group-title="INDIA", Ruposh (2022) Urdu [Pakistani] Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/8033.mp4
+#EXTINF: -1 tvg-name="ORUTHEE (2022) MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM2NTZmY2EtYmU3NC00OGJjLTkwYjEtNDNjNDBkNzU0YmRjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", ORUTHEE (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/8021.mp4
+#EXTINF: -1 tvg-name="365 Days_ This Day (2022) Subs Malay" tvg-logo="https://images.moviefit.me/t/o/728845-365-days-this-day.jpg" group-title="INDIA", 365 Days_ This Day (2022) Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/8015.mp4
+#EXTINF: -1 tvg-name="THE KASHMIR FILES (2022) HINDI" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUxYjA0NDYtM2UwNS00MzgyLTkxZTktNTFiZGU3MzIxNTI2XkEyXkFqcGdeQXVyOTE2NDU1NDM@._V1_.jpg" group-title="INDIA", THE KASHMIR FILES (2022) HINDI
+http://iptv12k.com:35461/movie/80201051217/424567/8001.mp4
+#EXTINF: -1 tvg-name="Puzhu (2022) Malayalam Subs Malay" tvg-logo="https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2022/5/6/puzhu-new.jpg" group-title="INDIA", Puzhu (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7999.mp4
+#EXTINF: -1 tvg-name="KOORMAN (2022) TAMIL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5MmE3NTMtZTcyMS00YTdmLTk0OWYtYzAzYTc0OGExNmU1XkEyXkFqcGdeQXVyNjc3OTEwNjk@._V1_.jpg" group-title="INDIA", KOORMAN (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/7996.mp4
+#EXTINF: -1 tvg-name="KALLAN D'SOUZA (2022) MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTliYjJhYTMtOTZlMi00NmYxLThmYmEtODU1YTdkNjViNTU5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", KALLAN D'SOUZA (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/7995.mp4
+#EXTINF: -1 tvg-name="KALLAN (2022) TAMIL" tvg-logo="https://isaimini.pw/assets/movies/poster/movie_poster_117.jpg" group-title="INDIA", KALLAN (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/7994.mp4
+#EXTINF: -1 tvg-name="Thar (2022) Hindi Subs Indo" tvg-logo="https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/04/12/254303-new-36.jpg" group-title="INDIA", Thar (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7840.mp4
+#EXTINF: -1 tvg-name="Saani Kaayidham (2022) Tamil Subs Malay" tvg-logo="https://www.bigenter.info/wp-content/uploads/2022/05/Saani-Kaayidham-Movie-Download.jpg" group-title="INDIA", Saani Kaayidham (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7838.mp4
+#EXTINF: -1 tvg-name="RRR (2022) Telugu [Hindi Dub] Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyNDNkMzMtNWVjOC00ZTdjLTg1YTAtODMzMjMzZjJlNzEzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="INDIA", RRR (2022) Telugu [Hindi Dub] Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7837.mp4
+#EXTINF: -1 tvg-name="Our Father 2022 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjYzI3MWItODYxYS00ZmNmLWEyN2YtNDQ1NjhjNTcwYzc4XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Our Father 2022 720p
+http://iptv12k.com:35461/movie/80201051217/424567/7836.mp4
+#EXTINF: -1 tvg-name="Man Of The Match (2022) Kannada Subs Indo" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/manofthematch-20220503063025-20935.jpg" group-title="INDIA", Man Of The Match (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7835.mp4
+#EXTINF: -1 tvg-name="KGF Chapter 2 Tamil_Dub_Subs_Malay" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg" group-title="INDIA", KGF Chapter 2 Tamil_Dub_Subs_Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7834.mp4
+#EXTINF: -1 tvg-name="Jhund (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxYzU4YmQtYmVkOC00Y2RkLTkwZmMtYjQ4NzczZTI5MjczXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_.jpg" group-title="INDIA", Jhund (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7833.mp4
+#EXTINF: -1 tvg-name="Fourwalls (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ1MTMzOTItNDFmMC00NTRkLTk4OTItM2Q2N2Q3OGYwNjBkXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg" group-title="INDIA", Fourwalls (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7832.mp4
+#EXTINF: -1 tvg-name="Beast (2022) Tamil Subs Indo" tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/beast-2022/large_beast-poster.jpg" group-title="INDIA", Beast (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7828.mp4
+#EXTINF: -1 tvg-name="Thar 2022 TV-MA 1h 48m Director Raj Singh Chaudhary Writers Raj Singh Chaudhary(screenplay &amp; dialogue)Anurag Kashyap(dialogue) Stars Anil KapoorHarshvardhan KapoorFatima Sana Shaikh" tvg-logo="https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/udl5mtiskljqflwr_1649520698.jpeg" group-title="INDIA", Thar 2022 TV-MA 1h 48m Director Raj Singh Chaudhary Writers Raj Singh Chaudhary(screenplay &amp; dialogue)Anurag Kashyap(dialogue) Stars Anil KapoorHarshvardhan KapoorFatima Sana Shaikh
+http://iptv12k.com:35461/movie/80201051217/424567/7823.mkv
+#EXTINF: -1 tvg-name="Veyil (2022) Malayalam Subs Indo2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0YzRlNTAtODRlYy00ODdkLWE4OTEtZmQxOTE0MTA4NTIyXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="INDIA", Veyil (2022) Malayalam Subs Indo2
+http://iptv12k.com:35461/movie/80201051217/424567/7094.mp4
+#EXTINF: -1 tvg-name="Selfie (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q2NjMyNzYtZjIxNS00Njg2LThlODItZWZlMjU0YmJlODEzXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Selfie (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7093.mp4
+#EXTINF: -1 tvg-name="Kuttram Kuttrame (2022) Tamil Subs Malay" tvg-logo="https://moviesdamob.co/Poster/Tamil/Movie/Kuttram-Kuttrame-2022.jpg" group-title="INDIA", Kuttram Kuttrame (2022) Tamil Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7091.mp4
+#EXTINF: -1 tvg-name="Haterz (2022) Punjabi Subs Indo" tvg-logo="https://i.ytimg.com/vi/zUmTyBli2_Y/maxresdefault.jpg" group-title="INDIA", Haterz (2022) Punjabi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7088.mp4
+#EXTINF: -1 tvg-name="Bloody Mary (2022) Telugu Subs Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Bloody_Mary_2022_poster.jpeg" group-title="INDIA", Bloody Mary (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7086.mp4
+#EXTINF: -1 tvg-name="Bachchhan Paandey (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFlY2EwODktZDA5YS00NmU1LWJhYzQtYmUyZmZjYjcwMzY0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_UY1200_CR101,0,630,1200_AL_.jpg" group-title="INDIA", Bachchhan Paandey (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7085.mp4
+#EXTINF: -1 tvg-name="Yaksha_Ruthless_Operations_2022_KOREAN_720p_NF_WEBRip_x264_malaysub" group-title="INDIA", Yaksha_Ruthless_Operations_2022_KOREAN_720p_NF_WEBRip_x264_malaysub
+http://iptv12k.com:35461/movie/80201051217/424567/7061.mp4
+#EXTINF: -1 tvg-name="Taanakkaran (2022) Tamil Subs Indo" tvg-logo="https://img.youtube.com/vi/NwgAsAE5Wwg/0.jpg" group-title="INDIA", Taanakkaran (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7060.mp4
+#EXTINF: -1 tvg-name="Stand Up Rahul (2022) Telugu Subs Indo" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/standup-rahul-et00312672-15-03-2022-06-02-42.jpg" group-title="INDIA", Stand Up Rahul (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7059.mp4
+#EXTINF: -1 tvg-name="Old Monk (2022) Kannada Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBhYTc5NDQtNDhiNi00Yzk3LTg3ZDQtZDdlZjk3ZWZiNDA5XkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Old Monk (2022) Kannada Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7058.mp4
+#EXTINF: -1 tvg-name="Night Drive (2022) Malayalam Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYyOTc0ZWEtODgwYy00M2NlLTgwMTEtNDJmODcyNjViMzQ0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg" group-title="INDIA", Night Drive (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/7057.mp4
+#EXTINF: -1 tvg-name="How I Fell in Love with a Gangster (2022) idian indo sub" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RiZGJkZjQtYTYyZi00ZTQ2LTg3MTUtZTk5OGQ5NjEyMzYzXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UX1000_.jpg" group-title="INDIA", How I Fell in Love with a Gangster (2022) idian indo sub
+http://iptv12k.com:35461/movie/80201051217/424567/7056.mp4
+#EXTINF: -1 tvg-name="Dasvi (2022) Hindi Subs Indo" group-title="INDIA", Dasvi (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/7054.mp4
+#EXTINF: -1 tvg-name="ETHARKKUM THUNINDHAVAN (2022) TAMIL indo Director Silver Chung Stars Nia AtashaAyez Shaukat Fonseka FaridPekin Ibrahim" tvg-logo="https://i.ytimg.com/vi/cKrz-kWoaSI/maxresdefault.jpg" group-title="INDIA", ETHARKKUM THUNINDHAVAN (2022) TAMIL indo Director Silver Chung Stars Nia AtashaAyez Shaukat Fonseka FaridPekin Ibrahim
+http://iptv12k.com:35461/movie/80201051217/424567/6898.mkv
+#EXTINF: -1 tvg-name="YUTHA SATHAM (2022) TAMIL" tvg-logo="https://i.ytimg.com/vi/MhfZ-JbhGM8/maxresdefault.jpg" group-title="INDIA", YUTHA SATHAM (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/6807.mp4
+#EXTINF: -1 tvg-name="RRR (2022) Telugu Tamil" tvg-logo="https://filmdaily.co/wp-content/uploads/2022/01/rrr-lede.jpg" group-title="INDIA", RRR (2022) Telugu Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/6778.mkv
+#EXTINF: -1 tvg-name="RADHE SHYAM (2022) TELUGU" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/radheshyam-20200710104229-18715.jpg" group-title="INDIA", RADHE SHYAM (2022) TELUGU
+http://iptv12k.com:35461/movie/80201051217/424567/6777.mkv
+#EXTINF: -1 tvg-name="BHEESHMA PARVAM (2022) MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Bheeshma.Parvam.jpg" group-title="INDIA", BHEESHMA PARVAM (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6775.mp4
+#EXTINF: -1 tvg-name="Sharmaji Namkeen (2022) Hindi Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2MxNjVlNjMtOGExMi00NWRjLThhYzQtNDY4OWZkMzcwNjhiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Sharmaji Namkeen (2022) Hindi Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6774.mp4
+#EXTINF: -1 tvg-name="Pada (2022) Malayalam Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhM2E2YWItNjgxZC00OWRiLWEwNWYtOWE5ZWU0YjQxYTFlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Pada (2022) Malayalam Subs Malay
+http://iptv12k.com:35461/movie/80201051217/424567/6699.mp4
+#EXTINF: -1 tvg-name="Sathyam Mathrame Bodhippikkoo 2022 2h 6m Malayalam_Subs_Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTczMjM5NGMtYTM1MS00YTMwLThlNDEtMWZmMTc5ODRhNzcyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", Sathyam Mathrame Bodhippikkoo 2022 2h 6m Malayalam_Subs_Malay
+http://iptv12k.com:35461/movie/80201051217/424567/6612.mp4
+#EXTINF: -1 tvg-name="Udumb (2021) Malayalam Subs Indo inida" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRmNGEyOGQtMDRlNC00Yjk4LTg0ZDMtNzVlMDg1N2M1ODlmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg" group-title="INDIA", Udumb (2021) Malayalam Subs Indo inida
+http://iptv12k.com:35461/movie/80201051217/424567/6606.mkv
+#EXTINF: -1 tvg-name="Bheemla Nayak (2022) Telugu Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNjMWJiMmQtOWY2OS00YzQ2LWFjZjEtNDVkMTE2ZTNkYTZkXkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_.jpg" group-title="INDIA", Bheemla Nayak (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6604.mp4
+#EXTINF: -1 tvg-name="Achcham Madam Naanam Payirppu (2022) Tamil Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QxMmY0YTItMzcwOS00MjczLWIzNWMtNDg5N2JiMzhiMGMxXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg" group-title="INDIA", Achcham Madam Naanam Payirppu (2022) Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6603.mkv
+#EXTINF: -1 tvg-name="Super Machi (2022) Telugu Subs Indo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwZjhmMWUtMGNiYS00YzM1LTg0NzYtNjI2YTI1MzVjNWU3XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Super Machi (2022) Telugu Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6585.mp4
+#EXTINF: -1 tvg-name="AANA (2021) KANNADA" tvg-logo="https://i.ytimg.com/vi/f67BcTgKu9k/maxresdefault.jpg" group-title="INDIA", AANA (2021) KANNADA
+http://iptv12k.com:35461/movie/80201051217/424567/6546.mkv
+#EXTINF: -1 tvg-name="PSIKOPAT (2022) MALAY" tvg-logo="data:image/jpeg;base64,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" group-title="INDIA", PSIKOPAT (2022) MALAY
+http://iptv12k.com:35461/movie/80201051217/424567/6543.mp4
+#EXTINF: -1 tvg-name="Garis Waktu 2022 Indonesian" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwZGEyYmMtYTY0Yi00YTRlLWI5YzAtN2Q3ZjkxYjllNWQyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="INDIA", Garis Waktu 2022 Indonesian
+http://iptv12k.com:35461/movie/80201051217/424567/6542.mp4
+#EXTINF: -1 tvg-name="VIDHI [THE VERDICT] (2021) MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2MzYWVjMTUtNDU4Yy00ZDk2LTkxMTYtNWQyMGIwNjkxNWM0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="INDIA", VIDHI [THE VERDICT] (2021) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6535.mkv
+#EXTINF: -1 tvg-name="THE BUNKER GAME [BUNKIER STRACHU] (2022) ENGLISH" group-title="INDIA", THE BUNKER GAME [BUNKIER STRACHU] (2022) ENGLISH
+http://iptv12k.com:35461/movie/80201051217/424567/6531.mkv
+#EXTINF: -1 tvg-name="SEBASTIAN P.C. 524 (2022) TELUGU" tvg-logo="https://i2.extraimage.info/pix/2022/03/07/ce0f9914db8d30ac0317d8e5e46f14b5.jpg" group-title="INDIA", SEBASTIAN P.C. 524 (2022) TELUGU
+http://iptv12k.com:35461/movie/80201051217/424567/6529.mp4
+#EXTINF: -1 tvg-name="SALUTE (2022) MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Salute_Malayalam_Poster.jpg/220px-Salute_Malayalam_Poster.jpg" group-title="INDIA", SALUTE (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6528.mp4
+#EXTINF: -1 tvg-name="NENU LENI NA PREMA KATHA (2021) TELUGU" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkyYjUzYjAtZmMxZi00NGY3LTllZGEtOGQ1OTllYzYwYjMwXkEyXkFqcGdeQXVyMTM2NDUxNzM3._V1_.jpg" group-title="INDIA", NENU LENI NA PREMA KATHA (2021) TELUGU
+http://iptv12k.com:35461/movie/80201051217/424567/6525.mkv
+#EXTINF: -1 tvg-name="NAAI SEKAR (2022) TAMIL" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU0YmRhZDktOWY2My00MTk5LTlhZjQtZjU4MWE0MjZjN2JhXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="INDIA", NAAI SEKAR (2022) TAMIL
+http://iptv12k.com:35461/movie/80201051217/424567/6524.mkv
+#EXTINF: -1 tvg-name="LOVE MOCKTAIL 2 (2022) KANNADA" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/lovemocktail2-20210622121159-19358.jpg" group-title="INDIA", LOVE MOCKTAIL 2 (2022) KANNADA
+http://iptv12k.com:35461/movie/80201051217/424567/6522.mp4
+#EXTINF: -1 tvg-name="LALITHAM SUNDARAM (2022) MALAYALAM" group-title="INDIA", LALITHAM SUNDARAM (2022) MALAYALAM
+http://iptv12k.com:35461/movie/80201051217/424567/6521.mkv
+#EXTINF: -1 tvg-name="JALSA (2022) HINDI" tvg-logo="https://i.ytimg.com/vi/T8GaE3fi3OU/maxresdefault.jpg" group-title="INDIA", JALSA (2022) HINDI
+http://iptv12k.com:35461/movie/80201051217/424567/6520.mp4
+#EXTINF: -1 tvg-name="Star vijay IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA", Star vijay IN
+http://iptv12k.com:35461/80201051217/424567/6151
+#EXTINF: -1 tvg-id="StarBharat.in" tvg-name="STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="INDIA", STAR BHARAT HD
+http://iptv12k.com:35461/80201051217/424567/5216
+#EXTINF: -1 tvg-name="SUN TV MY2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA", SUN TV MY2
+http://iptv12k.com:35461/80201051217/424567/5059
+#EXTINF: -1 tvg-name="Shyam Singha Roy 2022 2h 35m Director Rahul Sankrityan Writer Satyadev Janga(original story) Stars NaniSai PallaviKrithi Shetty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Shyam_singa_roy_poster.jpg/220px-Shyam_singa_roy_poster.jpg" group-title="INDIA", Shyam Singha Roy 2022 2h 35m Director Rahul Sankrityan Writer Satyadev Janga(original story) Stars NaniSai PallaviKrithi Shetty
+http://iptv12k.com:35461/movie/80201051217/424567/4846.mkv
+#EXTINF: -1 tvg-name="Plan Panni Pannanum 2021 2h 14m" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Plan_Panni_Pannanum_Poster.jpeg/220px-Plan_Panni_Pannanum_Poster.jpeg" group-title="INDIA", Plan Panni Pannanum 2021 2h 14m
+http://iptv12k.com:35461/movie/80201051217/424567/4834.mkv
+#EXTINF: -1 tvg-name="ʀᴀᴊᴀᴠᴀᴍsᴀᴍ 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Borrder_film.jpg" group-title="INDIA", ʀᴀᴊᴀᴠᴀᴍsᴀᴍ 2021
+http://iptv12k.com:35461/movie/80201051217/424567/4833.mkv
+#EXTINF: -1 tvg-name="Vanam 2021 2h 4m Director Srikantan Anand Writers Srikantan Anand(screenplay)Issac Basil(screenplay)Gnanakaravel(lyricist) Stars Azhagam PerumalVela RamamoorthyAnu Sithara" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Vanam_2021_film_poster.jpg/220px-Vanam_2021_film_poster.jpg" group-title="INDIA", Vanam 2021 2h 4m Director Srikantan Anand Writers Srikantan Anand(screenplay)Issac Basil(screenplay)Gnanakaravel(lyricist) Stars Azhagam PerumalVela RamamoorthyAnu Sithara
+http://iptv12k.com:35461/movie/80201051217/424567/4832.mkv
+#EXTINF: -1 tvg-name="Thalli Pogathey 2021 2h 3m  Director R. Kannan Stars Atharvaa MuraliAnupama ParameswaranAmitash Pradhan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVkNTM3M2ItM2EyYi00NTA1LTgzNmMtMDUzZTgwNzE4YWNmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="INDIA", Thalli Pogathey 2021 2h 3m  Director R. Kannan Stars Atharvaa MuraliAnupama ParameswaranAmitash Pradhan
+http://iptv12k.com:35461/movie/80201051217/424567/4831.mkv
+#EXTINF: -1 tvg-name="Murungaikai Chips 2021 2h 20m ESub Director Sreejar Stars Yogi BabuBhagyarajShanthnu Bhagyaraj" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ4MTI2ZjItODdhMC00Y2RjLWIxNjktYmE3ZWE5ZjBlNDRmXkEyXkFqcGdeQXVyMTIzMTMxNzc4._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Murungaikai Chips 2021 2h 20m ESub Director Sreejar Stars Yogi BabuBhagyarajShanthnu Bhagyaraj
+http://iptv12k.com:35461/movie/80201051217/424567/4830.mkv
+#EXTINF: -1 tvg-name="Moonu Muppathi Moonu (2021) Tamil  ESub 3:33 2021 2h 13m Director Nambikkai Chandru Writer Nambikkai Chandru Stars Mime GopiSandy MasterGautham Vasudev Menon" tvg-logo="https://i.ytimg.com/vi/2foT-H2Pbdk/maxresdefault.jpg" group-title="INDIA", Moonu Muppathi Moonu (2021) Tamil  ESub 3:33 2021 2h 13m Director Nambikkai Chandru Writer Nambikkai Chandru Stars Mime GopiSandy MasterGautham Vasudev Menon
+http://iptv12k.com:35461/movie/80201051217/424567/4829.mkv
+#EXTINF: -1 tvg-name="Minnal Murali 2021 TV-14 2h 38m  Director Basil Joseph Writers Arun AnirudhanJustin Mathew Stars Tovino ThomasGuru SomasundaramAju Varghese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Minnal_Murali.jpg" group-title="INDIA", Minnal Murali 2021 TV-14 2h 38m  Director Basil Joseph Writers Arun AnirudhanJustin Mathew Stars Tovino ThomasGuru SomasundaramAju Varghese
+http://iptv12k.com:35461/movie/80201051217/424567/4828.mkv
+#EXTINF: -1 tvg-name="MemesTamizh Pushpa The Rise (2021) Tamil" tvg-logo="https://i.ytimg.com/vi/SD_nCk2YtjQ/maxresdefault.jpg" group-title="INDIA", MemesTamizh Pushpa The Rise (2021) Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/4827.mkv
+#EXTINF: -1 tvg-name="MemesTamizh Bachelor (2021) Tamil" group-title="INDIA", MemesTamizh Bachelor (2021) Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/4826.mkv
+#EXTINF: -1 tvg-name="Maanaadu 2021 PG-13 2h 27m ESub Maanaadu 2021 PG-13 2h 27m" tvg-logo="https://static.toiimg.com/thumb/msid-73322306,width-219,height-317,imgsize-76910/73322306.jpg" group-title="INDIA", Maanaadu 2021 PG-13 2h 27m ESub Maanaadu 2021 PG-13 2h 27m
+http://iptv12k.com:35461/movie/80201051217/424567/4825.mkv
+#EXTINF: -1 tvg-name="Anti Indian 2021 2h 20m Anti_Indian_2021_Tamil" tvg-logo="https://static.toiimg.com/thumb/msid-88166012,width-219,height-317,imgsize-15040/88166012.jpg" group-title="INDIA", Anti Indian 2021 2h 20m Anti_Indian_2021_Tamil
+http://iptv12k.com:35461/movie/80201051217/424567/4823.mkv
+#EXTINF: -1 tvg-name="Raaz 3: The Third Dimension 2012 R 2h 19m Malay_Hardsub_Director Vikram Bhatt Writer Shagufta Rafique Stars Bipasha BasuEmraan HashmiEsha Gupta" tvg-logo="https://media1.fdncms.com/clevescene/imager/raaz-3-the-third-dimension/u/zoom/3050478/139782h1.jpg" group-title="INDIA", Raaz 3: The Third Dimension 2012 R 2h 19m Malay_Hardsub_Director Vikram Bhatt Writer Shagufta Rafique Stars Bipasha BasuEmraan HashmiEsha Gupta
+http://iptv12k.com:35461/movie/80201051217/424567/4574.mp4
+#EXTINF: -1 tvg-name="6Raaz (2002) Hindi Bluray Malay Hardsub Director Vikram Bhatt Writers Mahesh BhattGirish Dhamija(dialogue) Stars Dino MoreaBipasha BasuMalini Sharma" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Raaz_2002_film.jpg" group-title="INDIA", 6Raaz (2002) Hindi Bluray Malay Hardsub Director Vikram Bhatt Writers Mahesh BhattGirish Dhamija(dialogue) Stars Dino MoreaBipasha BasuMalini Sharma
+http://iptv12k.com:35461/movie/80201051217/424567/4572.mp4
+#EXTINF: -1 tvg-name="Kalank 2019 Not Rated 2h 46m Malay_Hardsub_Director Abhishek Varman Writers Shibani Bathija(story)Hussain Dalal(dialogue)Abhishek Varman(screenplay) Stars Varun DhawanAlia BhattMadhuri Dixit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Kalank_Poster.jpg" group-title="INDIA", Kalank 2019 Not Rated 2h 46m Malay_Hardsub_Director Abhishek Varman Writers Shibani Bathija(story)Hussain Dalal(dialogue)Abhishek Varman(screenplay) Stars Varun DhawanAlia BhattMadhuri Dix...
+http://iptv12k.com:35461/movie/80201051217/424567/4568.mp4
+#EXTINF: -1 tvg-name="Ittefaq 2017 Not Rated 1h 45m Malay_Hardsub_Director Abhay Chopra Writers Abhay ChopraShreyas JainNikhil Mehrotra Stars Sidharth MalhotraSonakshi SinhaAkshaye Khanna" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Ittefaq_%282017%29.jpg" group-title="INDIA", Ittefaq 2017 Not Rated 1h 45m Malay_Hardsub_Director Abhay Chopra Writers Abhay ChopraShreyas JainNikhil Mehrotra Stars Sidharth MalhotraSonakshi SinhaAkshaye Khanna
+http://iptv12k.com:35461/movie/80201051217/424567/4566.mp4
+#EXTINF: -1 tvg-name="Doctor 2021 2h 28m Malay_Hardsub_Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/doctor-20200217110951-19018.jpg" group-title="INDIA", Doctor 2021 2h 28m Malay_Hardsub_Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan
+http://iptv12k.com:35461/movie/80201051217/424567/4564.mp4
+#EXTINF: -1 tvg-name="Dhamaka 2021 TV-14 1h 43m Malay_Hardsub_Director Ram Madhvani Writers Ram MadhvaniPuneet Sharma Stars Kartik AaryanMohammed MansoorMrunal Thakur" tvg-logo="https://www.letsott.com/assets/uploads/posts/DhaamaakOTT-min.jpg" group-title="INDIA", Dhamaka 2021 TV-14 1h 43m Malay_Hardsub_Director Ram Madhvani Writers Ram MadhvaniPuneet Sharma Stars Kartik AaryanMohammed MansoorMrunal Thakur
+http://iptv12k.com:35461/movie/80201051217/424567/4563.mp4
+#EXTINF: -1 tvg-name="Laabam 2021 2h 24m tamil  农夫起革命-米尔语中字 Directors S.P. JhananathanAalayamani Writers Aalayamani(screenplay)S.P. Jhananathan(dialogue) Stars Vijay SethupathiShruti HaasanJagapathi Babu" tvg-logo="https://pbs.twimg.com/media/EuWiBnJVEAQKNmB.jpg" group-title="INDIA", Laabam 2021 2h 24m tamil  农夫起革命-米尔语中字 Directors S.P. JhananathanAalayamani Writers Aalayamani(screenplay)S.P. Jhananathan(dialogue) Stars Vijay SethupathiShruti HaasanJagapathi B...
+http://iptv12k.com:35461/movie/80201051217/424567/4192.mp4
+#EXTINF: -1 tvg-name="Soorarai Pottru 2020 TV-MA 2h 33m Malay_Hardsub_@CeritaSarikataMelayu" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjYmM0ZWEtNTFjNi00MWZjLTk3OTItMmFjMDAzZWU1ZDVjXkEyXkFqcGdeQXVyMTI2Mzk1ODg0._V1_FMjpg_UX1000_.jpg" group-title="INDIA", Soorarai Pottru 2020 TV-MA 2h 33m Malay_Hardsub_@CeritaSarikataMelayu
+http://iptv12k.com:35461/movie/80201051217/424567/4169.mp4
+#EXTINF: -1 tvg-name="Doctor (2021) Tamil Malay Hardsub Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/doctor-20200217110951-19018.jpg" group-title="INDIA", Doctor (2021) Tamil Malay Hardsub Director Nelson Dilipkumar Writer Nelson Dilipkumar Stars SivakarthikeyanVinay RaiPriyanka Arulmohan
+http://iptv12k.com:35461/movie/80201051217/424567/4167.mp4
+#EXTINF: -1 tvg-name="Jai Bhim 2021 2h 44m Director T.J. Gnanavel Writer T.J. Gnanavel Stars SuriyaLijo Mol JoseManikandan" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/jaibhim-20210723171210-19609.jpg" group-title="INDIA", Jai Bhim 2021 2h 44m Director T.J. Gnanavel Writer T.J. Gnanavel Stars SuriyaLijo Mol JoseManikandan
+http://iptv12k.com:35461/movie/80201051217/424567/4164.mp4
+#EXTINF: -1 tvg-name="Meenakshi Sundareshwar 2021 TV-14 2h 20m Vivek Soni Writers Vivek SoniAarsh Vora Stars Sukhesh AroraPurnendu BhattacharyaKomal Chhabria" tvg-logo="https://i.ytimg.com/vi/yJQqmcHmiDM/maxresdefault.jpg" group-title="INDIA", Meenakshi Sundareshwar 2021 TV-14 2h 20m Vivek Soni Writers Vivek SoniAarsh Vora Stars Sukhesh AroraPurnendu BhattacharyaKomal Chhabria
+http://iptv12k.com:35461/movie/80201051217/424567/4143.mkv
+#EXTINF: -1 tvg-name="Sanak 2021 1h 56min  Director Kanishk Varma Writer Ashish P. Verma Stars Vidyut JammwalRukmini MaitraNeha Dhupia" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg3NzhlMjktODA2MS00YTJkLWEyYWMtNGYxMzYwYTViMWQwXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="INDIA", Sanak 2021 1h 56min  Director Kanishk Varma Writer Ashish P. Verma Stars Vidyut JammwalRukmini MaitraNeha Dhupia
+http://iptv12k.com:35461/movie/80201051217/424567/4105.mp4
+#EXTINF: -1 tvg-name="Unhinged 2020 R 1h 30min IMDb RATING YOUR RATING POPULARITY  Director Derrick Borte Writer Carl Ellsworth Stars Russell CroweCaren PistoriusGabriel Bateman" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Unhinged2020Poster.jpeg" group-title="INDIA", Unhinged 2020 R 1h 30min IMDb RATING YOUR RATING POPULARITY  Director Derrick Borte Writer Carl Ellsworth Stars Russell CroweCaren PistoriusGabriel Bateman
+http://iptv12k.com:35461/movie/80201051217/424567/4040.mkv
+#EXTINF: -1 tvg-name="Tribhanga 2021 TV-MA 1h 35min  Director Renuka Shahane Writer Renuka Shahane Stars KajolTanvi AzmiMithila Palkar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Tribhanga_film_poster.jpg/220px-Tribhanga_film_poster.jpg" group-title="INDIA", Tribhanga 2021 TV-MA 1h 35min  Director Renuka Shahane Writer Renuka Shahane Stars KajolTanvi AzmiMithila Palkar
+http://iptv12k.com:35461/movie/80201051217/424567/4038.mkv
+#EXTINF: -1 tvg-name="The White Tiger 2021 R 2h 5min Director Ramin Bahrani Writers Ramin Bahrani(written for the screen by)Aravind Adiga(based on the book by) Stars Adarsh GouravRajkummar RaoPriyanka Chopra Jonas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/The_White_Tiger_film_poster.jpg" group-title="INDIA", The White Tiger 2021 R 2h 5min Director Ramin Bahrani Writers Ramin Bahrani(written for the screen by)Aravind Adiga(based on the book by) Stars Adarsh GouravRajkummar RaoPriyanka Chopra Jo...
+http://iptv12k.com:35461/movie/80201051217/424567/4003.mkv
+#EXTINF: -1 tvg-name="Khuda Haafiz 2020 Khuda Haafiz 2020 TV-MA 2h 13min  Director Faruk Kabir Writer Faruk Kabir Stars Vidyut JammwalShivaleeka OberoiAnnu Kapoor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Khuda_Haafiz_film_poster.jpg" group-title="INDIA", Khuda Haafiz 2020 Khuda Haafiz 2020 TV-MA 2h 13min  Director Faruk Kabir Writer Faruk Kabir Stars Vidyut JammwalShivaleeka OberoiAnnu Kapoor
+http://iptv12k.com:35461/movie/80201051217/424567/3925.mkv
+#EXTINF: -1 tvg-name="IN : Asianet HD" tvg-logo="https://www.pngitem.com/pimgs/m/192-1929742_asianet-channel-hd-png-download.png" group-title="INDIA", IN : Asianet HD
+http://iptv12k.com:35461/80201051217/424567/1943
+#EXTINF: -1 tvg-name="[TW] ASIANET NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" group-title="INDIA", [TW] ASIANET NEWS
+http://iptv12k.com:35461/80201051217/424567/1234
+#EXTINF: -1 tvg-name="STAR VIJAY my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA", STAR VIJAY my
+http://iptv12k.com:35461/80201051217/424567/995
+#EXTINF: -1 tvg-name="Sun TV HD INDIA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg" group-title="INDIA", Sun TV HD INDIA
+http://iptv12k.com:35461/80201051217/424567/991
+#EXTINF: -1 tvg-name="Sun Music INDIA" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA", Sun Music INDIA
+http://iptv12k.com:35461/80201051217/424567/990
+#EXTINF: -1 tvg-name="Sony SetMAX INDIA" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="INDIA", Sony SetMAX INDIA
+http://iptv12k.com:35461/80201051217/424567/989
+#EXTINF: -1 tvg-name="Sony SAB INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="INDIA", Sony SAB INDIA
+http://iptv12k.com:35461/80201051217/424567/988
+#EXTINF: -1 tvg-name="Zee Cinema INDIA US" tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="INDIA", Zee Cinema INDIA US
+http://iptv12k.com:35461/80201051217/424567/987
+#EXTINF: -1 tvg-name="Zee TV HD INDIA" tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA", Zee TV HD INDIA
+http://iptv12k.com:35461/80201051217/424567/986
+#EXTINF: -1 tvg-name="Colors HD INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Colors_TV_Logo.jpg/640px-Colors_TV_Logo.jpg" group-title="INDIA", Colors HD INDIA
+http://iptv12k.com:35461/80201051217/424567/985
+#EXTINF: -1 tvg-name="ASTRO Colors Tamil INDIA" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png" group-title="INDIA", ASTRO Colors Tamil INDIA
+http://iptv12k.com:35461/80201051217/424567/984
+#EXTINF: -1 tvg-name="SG-COLORS INDIA" tvg-logo="https://i.loli.net/2021/10/04/TmXNR8vVZr9BiuD.jpg" group-title="INDIA", SG-COLORS INDIA
+http://iptv12k.com:35461/80201051217/424567/983
+#EXTINF: -1 tvg-name="SG-COLORS Tamil HD INDIA" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png" group-title="INDIA", SG-COLORS Tamil HD INDIA
+http://iptv12k.com:35461/80201051217/424567/982
+#EXTINF: -1 tvg-name="Colors Cineplex INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIA", Colors Cineplex INDIA
+http://iptv12k.com:35461/80201051217/424567/981
+#EXTINF: -1 tvg-name="POLIMER NEWSINDIA" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA", POLIMER NEWSINDIA
+http://iptv12k.com:35461/80201051217/424567/980
+#EXTINF: -1 tvg-id="RajTV.in" tvg-name="Raj TV INDIA" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA", Raj TV INDIA
+http://iptv12k.com:35461/80201051217/424567/979
+#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="Jaya Max INDIA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA", Jaya Max INDIA
+http://iptv12k.com:35461/80201051217/424567/978
+#EXTINF: -1 tvg-name="Jaya Plus INDIA" group-title="INDIA", Jaya Plus INDIA
+http://iptv12k.com:35461/80201051217/424567/977
+#EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="INDIA", ASTRO Adithya INDIA
+http://iptv12k.com:35461/80201051217/424567/976
+#EXTINF: -1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV INDIA" tvg-logo="http://www.cgtoday.com/news_images/chutti_logo_22_dec_10.jpg" group-title="INDIA", Chutti TV INDIA
+http://iptv12k.com:35461/80201051217/424567/975
+#EXTINF: -1 tvg-id="UTVMovies.in" tvg-name="UTV movies  INDIA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="INDIA", UTV movies  INDIA
+http://iptv12k.com:35461/80201051217/424567/974
+#EXTINF: -1 tvg-name="SG-Sony Entertainment Television INDIA sony set" tvg-logo="https://i.loli.net/2021/10/04/d2RFeA47wKluzkE.png" group-title="INDIA", SG-Sony Entertainment Television INDIA sony set
+http://iptv12k.com:35461/80201051217/424567/973
+#EXTINF: -1 tvg-name="SG-Zee Tamil my" tvg-logo="https://i.loli.net/2021/10/04/fxco9MlDu5gYKeF.jpg" group-title="INDIA", SG-Zee Tamil my
+http://iptv12k.com:35461/80201051217/424567/216
+#EXTINF: -1 tvg-name="YAARO (2022) TAMIL Tamil Subs Indo" tvg-logo="https://i.kfs.io/album/global/106156662,0v1/fit/500x500.jpg" group-title="INDIA", YAARO (2022) TAMIL Tamil Subs Indo
+http://iptv12k.com:35461/movie/80201051217/424567/6537.mp4
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS IN2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS IN2
+http://iptv12k.com:35461/80201051217/424567/4285
+#EXTINF: -1 tvg-name="IN: Isaiaruvi IN2" tvg-logo="https://nettv4u.com/uploads/07-07-2020/kuthu-pattu.jpg" group-title="INDIA TAMIL", IN: Isaiaruvi IN2
+http://iptv12k.com:35461/80201051217/424567/4284
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX IN2" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX IN2
+http://iptv12k.com:35461/80201051217/424567/4283
+#EXTINF: -1 tvg-name="IN: JAYA PLUS IN2" tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-jaya-plus-9853.jpg" group-title="INDIA TAMIL", IN: JAYA PLUS IN2
+http://iptv12k.com:35461/80201051217/424567/4282
+#EXTINF: -1 tvg-name="IN: Sathiyam TV IN2" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/sathiyan-2.png" group-title="INDIA TAMIL", IN: Sathiyam TV IN2
+http://iptv12k.com:35461/80201051217/424567/4281
+#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV IN2" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV IN2
+http://iptv12k.com:35461/80201051217/424567/4280
+#EXTINF: -1 tvg-name="IN: CAPTAIN TV IN2" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN: CAPTAIN TV IN2
+http://iptv12k.com:35461/80201051217/424567/4279
+#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR IN2" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR IN2
+http://iptv12k.com:35461/80201051217/424567/4278
+#EXTINF: -1 tvg-name="Mega TV IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mega_TV_India_Logo.jpg/1200px-Mega_TV_India_Logo.jpg" group-title="INDIA TAMIL", Mega TV IN2
+http://iptv12k.com:35461/80201051217/424567/4277
+#EXTINF: -1 tvg-name="Raj News Kannada IN2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-news-kannada-logo-300x300.jpg" group-title="INDIA TAMIL", Raj News Kannada IN2
+http://iptv12k.com:35461/80201051217/424567/4275
+#EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
+http://iptv12k.com:35461/80201051217/424567/4274
+#EXTINF: -1 tvg-id="SunTV.in" tvg-name="IN:  Tamil: Sun tv HD Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA TAMIL", IN:  Tamil: Sun tv HD Tamil
+http://iptv12k.com:35461/80201051217/424567/1863
+#EXTINF: -1 tvg-name="IN: Star Vijay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN: Star Vijay
+http://iptv12k.com:35461/80201051217/424567/1862
+#EXTINF: -1 tvg-name="IN : Tamil | VIJAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN : Tamil | VIJAY HD
+http://iptv12k.com:35461/80201051217/424567/1861
+#EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | ADITYA TV
+http://iptv12k.com:35461/80201051217/424567/1860
+#EXTINF: -1 tvg-name="IN : Tamil | CAPTAIN NEWS" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN : Tamil | CAPTAIN NEWS
+http://iptv12k.com:35461/80201051217/424567/1859
+#EXTINF: -1 tvg-name="IN : Tamil | DD PODHIGAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="INDIA TAMIL", IN : Tamil | DD PODHIGAI
+http://iptv12k.com:35461/80201051217/424567/1858
+#EXTINF: -1 tvg-name="IN : Tamil | EET TV" tvg-logo="https://eettv.com/wp-content/uploads/2020/02/logo-5.png" group-title="INDIA TAMIL", IN : Tamil | EET TV
+http://iptv12k.com:35461/80201051217/424567/1857
+#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="IN : Tamil | JAYA MAX USA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MAX USA
+http://iptv12k.com:35461/80201051217/424567/1855
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA MOVIES" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-movies-final.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MOVIES
+http://iptv12k.com:35461/80201051217/424567/1854
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Jaya-plus.png" group-title="INDIA TAMIL", IN : Tamil | JAYA PLUS
+http://iptv12k.com:35461/80201051217/424567/1853
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" group-title="INDIA TAMIL", IN : Tamil | JAYA TV
+http://iptv12k.com:35461/80201051217/424567/1852
+#EXTINF: -1 tvg-name="IN : Tamil | KTV US" tvg-logo="https://img1.wsimg.com/isteam/ip/5e5fca93-5352-4a39-bcdf-8b817712c45f/005%20Youtube%20Profile%20logo-new3.png" group-title="INDIA TAMIL", IN : Tamil | KTV US
+http://iptv12k.com:35461/80201051217/424567/1850
+#EXTINF: -1 tvg-name="IN : Tamil | NEWS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | NEWS 7
+http://iptv12k.com:35461/80201051217/424567/1849
+#EXTINF: -1 tvg-name="IN : Tamil | POLIMER NEWS" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA TAMIL", IN : Tamil | POLIMER NEWS
+http://iptv12k.com:35461/80201051217/424567/1848
+#EXTINF: -1 tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL", IN : Tamil | POLIMER TV
+http://iptv12k.com:35461/80201051217/424567/1847
+#EXTINF: -1 tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHIYA THALAIMURAI
+http://iptv12k.com:35461/80201051217/424567/1846
+#EXTINF: -1 tvg-name="IN : Tamil | PUTHUYUGAM TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHUYUGAM TV
+http://iptv12k.com:35461/80201051217/424567/1845
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS
+http://iptv12k.com:35461/80201051217/424567/1844
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS US
+http://iptv12k.com:35461/80201051217/424567/1843
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX
+http://iptv12k.com:35461/80201051217/424567/1842
+#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV
+http://iptv12k.com:35461/80201051217/424567/1841
+#EXTINF: -1 tvg-name="IN : Tamil | STAR VIJAY india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA TAMIL", IN : Tamil | STAR VIJAY india
+http://iptv12k.com:35461/80201051217/424567/1839
+#EXTINF: -1 tvg-name="IN : Tamil | SUN LIFE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png" group-title="INDIA TAMIL", IN : Tamil | SUN LIFE
+http://iptv12k.com:35461/80201051217/424567/1838
+#EXTINF: -1 tvg-name="IN : Tamil | SUN MUSIC" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN MUSIC
+http://iptv12k.com:35461/80201051217/424567/1837
+#EXTINF: -1 tvg-name="IN : Tamil | SUN NEWS" tvg-logo="https://img.favpng.com/6/25/2/television-channel-captain-news-tamil-sun-tv-png-favpng-rA1S4974KsWGL517TbzXajGq0.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN NEWS
+http://iptv12k.com:35461/80201051217/424567/1836
+#EXTINF: -1 tvg-name="IN : Tamil | VASANTH TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/vasanth-TV.png" group-title="INDIA TAMIL", IN : Tamil | VASANTH TV
+http://iptv12k.com:35461/80201051217/424567/1835
+#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR
+http://iptv12k.com:35461/80201051217/424567/1834
+#EXTINF: -1 tvg-name="IN : Tamil | WIN TV" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Win_Television_Logo.png" group-title="INDIA TAMIL", IN : Tamil | WIN TV
+http://iptv12k.com:35461/80201051217/424567/1833
+#EXTINF: -1 tvg-name="IN: GTV tamil" tvg-logo="https://s3.amazonaws.com/uk-tm/UK00002656643.jpg" group-title="INDIA TAMIL", IN: GTV tamil
+http://iptv12k.com:35461/80201051217/424567/1830
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS IN2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS IN2
+http://iptv12k.com:35461/80201051217/424567/4285
+#EXTINF: -1 tvg-name="IN: Isaiaruvi IN2" tvg-logo="https://nettv4u.com/uploads/07-07-2020/kuthu-pattu.jpg" group-title="INDIA TAMIL", IN: Isaiaruvi IN2
+http://iptv12k.com:35461/80201051217/424567/4284
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX IN2" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX IN2
+http://iptv12k.com:35461/80201051217/424567/4283
+#EXTINF: -1 tvg-name="IN: JAYA PLUS IN2" tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-jaya-plus-9853.jpg" group-title="INDIA TAMIL", IN: JAYA PLUS IN2
+http://iptv12k.com:35461/80201051217/424567/4282
+#EXTINF: -1 tvg-name="IN: Sathiyam TV IN2" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/sathiyan-2.png" group-title="INDIA TAMIL", IN: Sathiyam TV IN2
+http://iptv12k.com:35461/80201051217/424567/4281
+#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV IN2" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV IN2
+http://iptv12k.com:35461/80201051217/424567/4280
+#EXTINF: -1 tvg-name="IN: CAPTAIN TV IN2" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN: CAPTAIN TV IN2
+http://iptv12k.com:35461/80201051217/424567/4279
+#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR IN2" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR IN2
+http://iptv12k.com:35461/80201051217/424567/4278
+#EXTINF: -1 tvg-name="Mega TV IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mega_TV_India_Logo.jpg/1200px-Mega_TV_India_Logo.jpg" group-title="INDIA TAMIL", Mega TV IN2
+http://iptv12k.com:35461/80201051217/424567/4277
+#EXTINF: -1 tvg-name="Raj News Kannada IN2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-news-kannada-logo-300x300.jpg" group-title="INDIA TAMIL", Raj News Kannada IN2
+http://iptv12k.com:35461/80201051217/424567/4275
+#EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
+http://iptv12k.com:35461/80201051217/424567/4274
+#EXTINF: -1 tvg-id="SunTV.in" tvg-name="IN:  Tamil: Sun tv HD Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA TAMIL", IN:  Tamil: Sun tv HD Tamil
+http://iptv12k.com:35461/80201051217/424567/1863
+#EXTINF: -1 tvg-name="IN: Star Vijay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN: Star Vijay
+http://iptv12k.com:35461/80201051217/424567/1862
+#EXTINF: -1 tvg-name="IN : Tamil | VIJAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN : Tamil | VIJAY HD
+http://iptv12k.com:35461/80201051217/424567/1861
+#EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | ADITYA TV
+http://iptv12k.com:35461/80201051217/424567/1860
+#EXTINF: -1 tvg-name="IN : Tamil | CAPTAIN NEWS" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN : Tamil | CAPTAIN NEWS
+http://iptv12k.com:35461/80201051217/424567/1859
+#EXTINF: -1 tvg-name="IN : Tamil | DD PODHIGAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="INDIA TAMIL", IN : Tamil | DD PODHIGAI
+http://iptv12k.com:35461/80201051217/424567/1858
+#EXTINF: -1 tvg-name="IN : Tamil | EET TV" tvg-logo="https://eettv.com/wp-content/uploads/2020/02/logo-5.png" group-title="INDIA TAMIL", IN : Tamil | EET TV
+http://iptv12k.com:35461/80201051217/424567/1857
+#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="IN : Tamil | JAYA MAX USA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MAX USA
+http://iptv12k.com:35461/80201051217/424567/1855
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA MOVIES" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-movies-final.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MOVIES
+http://iptv12k.com:35461/80201051217/424567/1854
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Jaya-plus.png" group-title="INDIA TAMIL", IN : Tamil | JAYA PLUS
+http://iptv12k.com:35461/80201051217/424567/1853
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" group-title="INDIA TAMIL", IN : Tamil | JAYA TV
+http://iptv12k.com:35461/80201051217/424567/1852
+#EXTINF: -1 tvg-name="IN : Tamil | KTV US" tvg-logo="https://img1.wsimg.com/isteam/ip/5e5fca93-5352-4a39-bcdf-8b817712c45f/005%20Youtube%20Profile%20logo-new3.png" group-title="Indian", IN : Tamil | KTV US
+http://iptv12k.com:35461/80201051217/424567/1850
+#EXTINF: -1 tvg-name="IN : Tamil | NEWS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | NEWS 7
+http://iptv12k.com:35461/80201051217/424567/1849
+#EXTINF: -1 tvg-name="IN : Tamil | POLIMER NEWS" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA TAMIL", IN : Tamil | POLIMER NEWS
+http://iptv12k.com:35461/80201051217/424567/1848
+#EXTINF: -1 tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL", IN : Tamil | POLIMER TV
+http://iptv12k.com:35461/80201051217/424567/1847
+#EXTINF: -1 tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHIYA THALAIMURAI
+http://iptv12k.com:35461/80201051217/424567/1846
+#EXTINF: -1 tvg-name="IN : Tamil | PUTHUYUGAM TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHUYUGAM TV
+http://iptv12k.com:35461/80201051217/424567/1845
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS
+http://iptv12k.com:35461/80201051217/424567/1844
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS US
+http://iptv12k.com:35461/80201051217/424567/1843
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX
+http://iptv12k.com:35461/80201051217/424567/1842
+#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV
+http://iptv12k.com:35461/80201051217/424567/1841
+#EXTINF: -1 tvg-name="IN : Tamil | STAR VIJAY India" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA TAMIL", IN : Tamil | STAR VIJAY india
+http://iptv12k.com:35461/80201051217/424567/1839
+#EXTINF: -1 tvg-name="IN : Tamil | SUN LIFE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png" group-title="INDIA TAMIL", IN : Tamil | SUN LIFE
+http://iptv12k.com:35461/80201051217/424567/1838
+#EXTINF: -1 tvg-name="IN : Tamil | SUN MUSIC" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN MUSIC
+http://iptv12k.com:35461/80201051217/424567/1837
+#EXTINF: -1 tvg-name="IN : Tamil | SUN NEWS" tvg-logo="https://img.favpng.com/6/25/2/television-channel-captain-news-tamil-sun-tv-png-favpng-rA1S4974KsWGL517TbzXajGq0.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN NEWS
+http://iptv12k.com:35461/80201051217/424567/1836
+#EXTINF: -1 tvg-name="IN : Tamil | VASANTH TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/vasanth-TV.png" group-title="INDIA TAMIL", IN : Tamil | VASANTH TV
+http://iptv12k.com:35461/80201051217/424567/1835
+#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR
+http://iptv12k.com:35461/80201051217/424567/1834
+#EXTINF: -1 tvg-name="IN : Tamil | WIN TV" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Win_Television_Logo.png" group-title="INDIA TAMIL", IN : Tamil | WIN TV
+http://iptv12k.com:35461/80201051217/424567/1833
+#EXTINF: -1 tvg-name="IN: GTV tamil" tvg-logo="https://s3.amazonaws.com/uk-tm/UK00002656643.jpg" group-title="INDIA TAMIL", IN: GTV tamil
+http://iptv12k.com:35461/80201051217/424567/1830
+
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SiapaTutupLampu.png",Siapa Tutup Lampu?
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
