@@ -267,7 +267,7 @@ https://ktiptv.cf:443/7605/7605/26029
 #EXTINF: -1 tvg-name="[IN] Sun TV HD" group-title="India", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 https://ktiptv.cf:443/7605/7605/540594
 
-#EXTINF: -1 tvg-name="[IN] KTV HD" group-title=" [VIP] India", [IN] KTV HD
+#EXTINF: -1 tvg-name="[IN] KTV HD" group-title="Indian" ,TV KTV HD
 https://ktiptv.cf:443/7605/7605/540674
 
 #EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL",IN : Tamil | POLIMER TV
@@ -482,6 +482,57 @@ http://sonyiptv.net:8080/775543/775543/45469
 
 #EXTINF: -1 tvg-name="NETFLIX MOVIES" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX MOVIES
 http://stariptv.org:8080/live/nour2020/123456/107035.m3u8
+
+#EXTINF: -1 tvg-name="NETFLIX ACTION" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266042
+
+#EXTINF: -1 tvg-name="NETFLIX BOLLYOOD FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266041
+
+#EXTINF: -1 tvg-name="NETFLIX BOX OFFICE FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266040
+
+#EXTINF: -1 tvg-name="NETFLIX DRAMA FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266039
+
+#EXTINF: -1 tvg-name="NETFLIX HORROR FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266038
+
+#EXTINF: -1 tvg-name="NETFLIX KIDS FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266037
+
+#EXTINF: -1 tvg-name="NETFLIX THRILLER FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266036
+
+#EXTINF: -1 tvg-name="NETFLIX MOVIES FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266035
+
+#EXTINF:-1,AR: Netflix Comedy FHD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266034
+
+#EXTINF:-1,AR: Netflix BabylonBerlin HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265904
+
+#EXTINF: -1 tvg-name="NETFLIX James Bond 007" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265903
+
+#EXTINF: -1 tvg-name="NETFLIX Fast And Furious 2HD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265902
+
+#EXTINF:-1,AR: Netflix Lord Of The Rings HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265901
+
+#EXTINF:-1,AR: Netflix Mission Impossible HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265900
+
+#EXTINF:-1,AR: Netflix The Hobbit HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265899
+
+#EXTINF:-1,AR: Netflix Family HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265898
+
+#EXTINF: -1 tvg-name="NETFLIX Fast And Furious HD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX Fast And Furious HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265897
 
 #EXTINF: -1 tvg-name="NETFLIX SCI-FI" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX SCI-FI
 http://sonyiptv.net:8080/775543/775543/45470
@@ -974,7 +1025,13 @@ http://iptv12k.com:35461/80201051217/424567/2348
 http://iptv12k.com:35461/80201051217/424567/2346
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Sports",UK: SKY SPORTS CRICKET HD
-http://iptv12k.com:35461/80201051217/424567/2344
+http://iptv12k.com:35461/80201051217/424567/
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Moto GP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_MotoGP_-_Logo_2018.svg/1280px-Sky_Sport_MotoGP_-_Logo_2018.svg.png" group-title="Sports",UK: SKY SPORTS MOTOGP FHD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/3253
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Moto GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_MotoGP_-_Logo_2018.svg/1280px-Sky_Sport_MotoGP_-_Logo_2018.svg.png" group-title="Sports",UK: SKY SPORTS MOTOGP HD
+http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/9128
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="Sports",UK: SKY SPORTS GOLF HD
 http://iptv12k.com:35461/80201051217/424567/2342
