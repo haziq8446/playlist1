@@ -38,6 +38,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 #KODIPhttps:http://axcestv.vip:8080/FreeSG/axcestv/453
 
 #EXTINF: -1 tvg-id="116" tvg-name="Astro Sensasi" tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg" group-title="Astro", Astro Sensasi
@@ -46,12 +47,12 @@ https://ktiptv.cf:443/7605/7605/656644
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-http://axcestv.vip:8080/FreeSG/axcestv/454
+#KODIPhttps:http://axcestv.vip:8080/FreeSG/axcestv/453
 
 #EXTINF: -1 tvg-id="AstroRia.my" tvg-name="Astro Ria [B]" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png"group-title="ASTRO", 104 Astro Ria [B]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-http://axcestv.vip:8080/FreeSG/axcestv/454
+#KODIPhttps:http://axcestv.vip:8080/FreeSG/axcestv/453
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -70,7 +71,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9OjAKHVr-PMdkTXYxOxeB2U=a9TB/dash-wv/jitp-linearwm/2402/default_ott.mpd
+http://axcestv.vip:8080/FreeSG/axcestv/456
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809",107 Astro Warna (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -234,7 +235,7 @@ https://ktiptv.cf:443/7605/7605/25959
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2310
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
-#EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",5 KTV HD
+#EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD
 http://quality-restream.com:8080/live/Vladisergeevic/b5f1343def/36442.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717" group-title="Indian", KTV HD IN
@@ -256,10 +257,7 @@ http://stariptv.org:8080/nour2020/123456/99337
 http://sonyiptv.net:8080/775543/775543/6079
 
 #EXTINF:-1 tvg-id="KTVHD [B]" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",5 KTV HD
-http://quality-restream.com:8080/live/Vladisergeevic/b5f1343def/36442.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717" group-title="indian" KTV HD 
-http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/5560
+http://b1g.one:80/live/4/4/161881.m3u8
 
 #EXTINF: -1 tvg-id="KTV HD "tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/640x360_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg" group-title="Indian", [MY] KTV HD
 https://ktiptv.cf:443/7605/7605/26029
@@ -483,62 +481,140 @@ http://sonyiptv.net:8080/775543/775543/45469
 #EXTINF: -1 tvg-name="NETFLIX MOVIES" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX MOVIES
 http://stariptv.org:8080/live/nour2020/123456/107035.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX ACTION" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ACTION 1 HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ACTION 1 HD
+http://b1g.one:80/live/4/4/94567.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX BOLLYOOD FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD1
+http://b1g.one:80/live/4/4/175474.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX BOX OFFICE FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD2" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD2
+http://b1g.one:80/live/4/4/175475.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX DRAMA FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD3" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD3
+http://b1g.one:80/live/4/4/175476.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX HORROR FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD4" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD4
+http://b1g.one:80/live/4/4/175477.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX KIDS FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD5" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD5
+http://b1g.one:80/live/4/4/175478.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX THRILLER FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD6" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD6
+http://b1g.one:80/live/4/4/175479.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX MOVIES FHD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD7" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD7
+http://b1g.one:80/live/4/4/175480.m3u8
 
-#EXTINF:-1,AR: Netflix Comedy FHD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/266034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD8" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD8
+http://b1g.one:80/live/4/4/175481.m3u8
 
-#EXTINF:-1,AR: Netflix BabylonBerlin HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265904
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD9" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD9
+http://b1g.one:80/live/4/4/175482.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX James Bond 007" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265903
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD10" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD10
+http://b1g.one:80/live/4/4/175483.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX Fast And Furious 2HD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX ACTION
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265902
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD1
+http://b1g.one:80/live/4/4/175484.m3u8
 
-#EXTINF:-1,AR: Netflix Lord Of The Rings HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD2" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD2
+http://b1g.one:80/live/4/4/175485.m3u8
 
-#EXTINF:-1,AR: Netflix Mission Impossible HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD3" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD3
+http://b1g.one:80/live/4/4/175486.m3u8
 
-#EXTINF:-1,AR: Netflix The Hobbit HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD4" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD4
+http://b1g.one:80/live/4/4/175487.m3u8
 
-#EXTINF:-1,AR: Netflix Family HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD5" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD5
+http://b1g.one:80/live/4/4/175488.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX Fast And Furious HD" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX Fast And Furious HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/265897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD6" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD6
+http://b1g.one:80/live/4/4/175489.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX SCI-FI" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX SCI-FI
-http://sonyiptv.net:8080/775543/775543/45470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD7" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD7
+http://b1g.one:80/live/4/4/175490.m3u8
 
-#EXTINF: -1 tvg-name="NETFLIX THRILLER" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX THRILLER
-http://sonyiptv.net:8080/775543/775543/45471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD8" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD8
+http://b1g.one:80/live/4/4/175491.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD9" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD9
+http://b1g.one:80/live/4/4/175492.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD10" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD10
+http://b1g.one:80/live/4/4/175493.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ARABIC 1 HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ARABIC 1 HD
+http://b1g.one:80/live/4/4/94561.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ARABIC 2 HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ARABIC 2 HD
+http://b1g.one:80/live/4/4/94562.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX BOX OFFICE HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX BOX OFFICE HD
+http://b1g.one:80/live/4/4/94572.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX COMEDY HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX COMEDY HD
+http://b1g.one:80/live/4/4/94571.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD1
+http://b1g.one:80/live/4/4/175494.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD2" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD2
+http://b1g.one:80/live/4/4/175495.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD3" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD3
+http://b1g.one:80/live/4/4/175496.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD4" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD4
+http://b1g.one:80/live/4/4/175497.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD5" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD5
+http://b1g.one:80/live/4/4/175498.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD6" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD6
+http://b1g.one:80/live/4/4/175499.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD7" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD7
+http://b1g.one:80/live/4/4/175500.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD8" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD8
+http://b1g.one:80/live/4/4/175501.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD9" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD9
+http://b1g.one:80/live/4/4/175502.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD10" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD10
+http://b1g.one:80/live/4/4/175503.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Crime HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Crime HD1
+http://b1g.one:80/live/4/4/175504.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX DISCOVERY HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX DISCOVERY HD
+http://b1g.one:80/live/4/4/94566.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX DRAMA HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX DRAMA HD
+http://b1g.one:80/live/4/4/94570.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ENGLISH SERIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ENGLISH SERIES HD
+http://b1g.one:80/live/4/4/94560.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX HORROR HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX HORROR HD
+http://b1g.one:80/live/4/4/94569.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX MOVIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX MOVIES HD
+http://b1g.one:80/live/4/4/94575.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX PLAYS HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX PLAYS HD
+http://b1g.one:80/live/4/4/94568.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX SERIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX SERIES HD
+http://b1g.one:80/live/4/4/94576.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX THRILLER HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX THRILLER HD
+http://b1g.one:80/live/4/4/94577.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX TURKEY SERIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX TURKEY SERIES HD
+http://b1g.one:80/live/4/4/94563.m3u8
 
 #EXTINF: -1 tvg-id="SONY PIX HD" tvg-name="SONY Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", SONY Pix
 http://axcestv.vip:8080/FreeSG/axcestv/514
@@ -1007,46 +1083,46 @@ http://iptv12k.com:35461/80201051217/424567/1631
 http://iptv12k.com:35461/80201051217/424567/3385
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport 1 SD" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="Sports",UK: Sky Sport 1 SD
-http://iptv12k.com:35461/80201051217/424567/2352
+https://ktiptv.cf:443/7605/7605/869599
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/2000px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="Sports",UK: Sky Sport Arena HD
-http://iptv12k.com:35461/80201051217/424567/2351
+https://ktiptv.cf:443/7605/7605/869597
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",UK: Sky Sport F1 HD
-http://iptv12k.com:35461/80201051217/424567/2350
+http://b1g.one:80/live/4/4/35803.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/1280px-Sky_Sport_Football_HD_-_Logo_2018.svg.png" group-title="Sports",UK: Sky Sport Football HD
-http://iptv12k.com:35461/80201051217/424567/2349
+https://ktiptv.cf:443/7605/7605/869600
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News(a)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmqGYxOCPQpcS39TMDmFc93yEh2Pcd4BxfE8-ILog7k-1L3wA" group-title="Sports",UK: Sky Sports News(a)
-http://iptv12k.com:35461/80201051217/424567/2348
+https://ktiptv.cf:443/7605/7605/869593
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK.png" group-title="Sports",UK: SKY SPORTS ACTION HD
-http://iptv12k.com:35461/80201051217/424567/2346
+https://ktiptv.cf:443/7605/7605/869596
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Sports",UK: SKY SPORTS CRICKET HD
-http://iptv12k.com:35461/80201051217/424567/
+https://ktiptv.cf:443/7605/7605/869598
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Moto GP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_MotoGP_-_Logo_2018.svg/1280px-Sky_Sport_MotoGP_-_Logo_2018.svg.png" group-title="Sports",UK: SKY SPORTS MOTOGP FHD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/3253
+https://ktiptv.cf:443/7605/7605/869615
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Moto GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_MotoGP_-_Logo_2018.svg/1280px-Sky_Sport_MotoGP_-_Logo_2018.svg.png" group-title="Sports",UK: SKY SPORTS MOTOGP HD
 http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/9128
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="Sports",UK: SKY SPORTS GOLF HD
-http://iptv12k.com:35461/80201051217/424567/2342
+https://ktiptv.cf:443/7605/7605/869601
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="Sports",UK: SKY SPORTS MAIN EVENT
-http://iptv12k.com:35461/80201051217/424567/2341
+https://ktiptv.cf:443/7605/7605/869611
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="Sports",UK: SKY SPORTS MAIN EVENT HD
-http://iptv12k.com:35461/80201051217/424567/2340
+https://ktiptv.cf:443/7605/7605/869611
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.moddingway.com/screenshots/files/226106/big.jpg" group-title="Sports",UK: SKY SPORTS PREMIER LEAGUE HD
-http://iptv12k.com:35461/80201051217/424567/2337
+https://ktiptv.cf:443/7605/7605/869594
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Two" tvg-logo="https://trello-attachments.s3.amazonaws.com/5995a5da548fe8c14624d367/5d400361d48ff25b56be9640/2d51416c01b43f276716253be0cd1526/image.png" group-title="Sports",UK: Sky Two
-http://iptv12k.com:35461/80201051217/424567/2335
+http://ip201051217/424567/2337tv12k.com:35461/80201051217/424567/2335
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/733/259/png-transparent-fox-sports-1-fox-sports-2-fox-sports-networks-fox-material-television-blue-animals.png" group-title="Sports",Fox Sports 1
 http://iptv12k.com:35461/80201051217/424567/650
@@ -3913,215 +3989,6 @@ http://iptv12k.com:35461/movie/80201051217/424567/4038.mkv
 http://iptv12k.com:35461/movie/80201051217/424567/4003.mkv
 #EXTINF: -1 tvg-name="Khuda Haafiz 2020 Khuda Haafiz 2020 TV-MA 2h 13min  Director Faruk Kabir Writer Faruk Kabir Stars Vidyut JammwalShivaleeka OberoiAnnu Kapoor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Khuda_Haafiz_film_poster.jpg" group-title="INDIA", Khuda Haafiz 2020 Khuda Haafiz 2020 TV-MA 2h 13min  Director Faruk Kabir Writer Faruk Kabir Stars Vidyut JammwalShivaleeka OberoiAnnu Kapoor
 http://iptv12k.com:35461/movie/80201051217/424567/3925.mkv
-#EXTINF: -1 tvg-name="IN : Asianet HD" tvg-logo="https://www.pngitem.com/pimgs/m/192-1929742_asianet-channel-hd-png-download.png" group-title="INDIA", IN : Asianet HD
-http://iptv12k.com:35461/80201051217/424567/1943
-#EXTINF: -1 tvg-name="[TW] ASIANET NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" group-title="INDIA", [TW] ASIANET NEWS
-http://iptv12k.com:35461/80201051217/424567/1234
-#EXTINF: -1 tvg-name="STAR VIJAY my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA", STAR VIJAY my
-http://iptv12k.com:35461/80201051217/424567/995
-#EXTINF: -1 tvg-name="Sun TV HD INDIA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg" group-title="INDIA", Sun TV HD INDIA
-http://iptv12k.com:35461/80201051217/424567/991
-#EXTINF: -1 tvg-name="Sun Music INDIA" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA", Sun Music INDIA
-http://iptv12k.com:35461/80201051217/424567/990
-#EXTINF: -1 tvg-name="Sony SetMAX INDIA" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="INDIA", Sony SetMAX INDIA
-http://iptv12k.com:35461/80201051217/424567/989
-#EXTINF: -1 tvg-name="Sony SAB INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="INDIA", Sony SAB INDIA
-http://iptv12k.com:35461/80201051217/424567/988
-#EXTINF: -1 tvg-name="Zee Cinema INDIA US" tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="INDIA", Zee Cinema INDIA US
-http://iptv12k.com:35461/80201051217/424567/987
-#EXTINF: -1 tvg-name="Zee TV HD INDIA" tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA", Zee TV HD INDIA
-http://iptv12k.com:35461/80201051217/424567/986
-#EXTINF: -1 tvg-name="Colors HD INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Colors_TV_Logo.jpg/640px-Colors_TV_Logo.jpg" group-title="INDIA", Colors HD INDIA
-http://iptv12k.com:35461/80201051217/424567/985
-#EXTINF: -1 tvg-name="ASTRO Colors Tamil INDIA" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png" group-title="INDIA", ASTRO Colors Tamil INDIA
-http://iptv12k.com:35461/80201051217/424567/984
-#EXTINF: -1 tvg-name="SG-COLORS INDIA" tvg-logo="https://i.loli.net/2021/10/04/TmXNR8vVZr9BiuD.jpg" group-title="INDIA", SG-COLORS INDIA
-http://iptv12k.com:35461/80201051217/424567/983
-#EXTINF: -1 tvg-name="SG-COLORS Tamil HD INDIA" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07190114/ccolors-tamil.png" group-title="INDIA", SG-COLORS Tamil HD INDIA
-http://iptv12k.com:35461/80201051217/424567/982
-#EXTINF: -1 tvg-name="Colors Cineplex INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIA", Colors Cineplex INDIA
-http://iptv12k.com:35461/80201051217/424567/981
-#EXTINF: -1 tvg-name="POLIMER NEWSINDIA" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA", POLIMER NEWSINDIA
-http://iptv12k.com:35461/80201051217/424567/980
-#EXTINF: -1 tvg-id="RajTV.in" tvg-name="Raj TV INDIA" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA", Raj TV INDIA
-http://iptv12k.com:35461/80201051217/424567/979
-#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="Jaya Max INDIA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA", Jaya Max INDIA
-http://iptv12k.com:35461/80201051217/424567/978
-#EXTINF: -1 tvg-name="Jaya Plus INDIA" group-title="INDIA", Jaya Plus INDIA
-http://iptv12k.com:35461/80201051217/424567/977
-#EXTINF: -1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="INDIA", ASTRO Adithya INDIA
-http://iptv12k.com:35461/80201051217/424567/976
-#EXTINF: -1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV INDIA" tvg-logo="http://www.cgtoday.com/news_images/chutti_logo_22_dec_10.jpg" group-title="INDIA", Chutti TV INDIA
-http://iptv12k.com:35461/80201051217/424567/975
-#EXTINF: -1 tvg-id="UTVMovies.in" tvg-name="UTV movies  INDIA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="INDIA", UTV movies  INDIA
-http://iptv12k.com:35461/80201051217/424567/974
-#EXTINF: -1 tvg-name="SG-Sony Entertainment Television INDIA sony set" tvg-logo="https://i.loli.net/2021/10/04/d2RFeA47wKluzkE.png" group-title="INDIA", SG-Sony Entertainment Television INDIA sony set
-http://iptv12k.com:35461/80201051217/424567/973
-#EXTINF: -1 tvg-name="SG-Zee Tamil my" tvg-logo="https://i.loli.net/2021/10/04/fxco9MlDu5gYKeF.jpg" group-title="INDIA", SG-Zee Tamil my
-http://iptv12k.com:35461/80201051217/424567/216
-#EXTINF: -1 tvg-name="YAARO (2022) TAMIL Tamil Subs Indo" tvg-logo="https://i.kfs.io/album/global/106156662,0v1/fit/500x500.jpg" group-title="INDIA", YAARO (2022) TAMIL Tamil Subs Indo
-http://iptv12k.com:35461/movie/80201051217/424567/6537.mp4
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS IN2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS IN2
-http://iptv12k.com:35461/80201051217/424567/4285
-#EXTINF: -1 tvg-name="IN: Isaiaruvi IN2" tvg-logo="https://nettv4u.com/uploads/07-07-2020/kuthu-pattu.jpg" group-title="INDIA TAMIL", IN: Isaiaruvi IN2
-http://iptv12k.com:35461/80201051217/424567/4284
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX IN2" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX IN2
-http://iptv12k.com:35461/80201051217/424567/4283
-#EXTINF: -1 tvg-name="IN: JAYA PLUS IN2" tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-jaya-plus-9853.jpg" group-title="INDIA TAMIL", IN: JAYA PLUS IN2
-http://iptv12k.com:35461/80201051217/424567/4282
-#EXTINF: -1 tvg-name="IN: Sathiyam TV IN2" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/sathiyan-2.png" group-title="INDIA TAMIL", IN: Sathiyam TV IN2
-http://iptv12k.com:35461/80201051217/424567/4281
-#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV IN2" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV IN2
-http://iptv12k.com:35461/80201051217/424567/4280
-#EXTINF: -1 tvg-name="IN: CAPTAIN TV IN2" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN: CAPTAIN TV IN2
-http://iptv12k.com:35461/80201051217/424567/4279
-#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR IN2" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR IN2
-http://iptv12k.com:35461/80201051217/424567/4278
-#EXTINF: -1 tvg-name="Mega TV IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mega_TV_India_Logo.jpg/1200px-Mega_TV_India_Logo.jpg" group-title="INDIA TAMIL", Mega TV IN2
-http://iptv12k.com:35461/80201051217/424567/4277
-#EXTINF: -1 tvg-name="Raj News Kannada IN2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-news-kannada-logo-300x300.jpg" group-title="INDIA TAMIL", Raj News Kannada IN2
-http://iptv12k.com:35461/80201051217/424567/4275
-#EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
-http://iptv12k.com:35461/80201051217/424567/4274
-#EXTINF: -1 tvg-id="SunTV.in" tvg-name="IN:  Tamil: Sun tv HD Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA TAMIL", IN:  Tamil: Sun tv HD Tamil
-http://iptv12k.com:35461/80201051217/424567/1863
-#EXTINF: -1 tvg-name="IN: Star Vijay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN: Star Vijay
-http://iptv12k.com:35461/80201051217/424567/1862
-#EXTINF: -1 tvg-name="IN : Tamil | VIJAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN : Tamil | VIJAY HD
-http://iptv12k.com:35461/80201051217/424567/1861
-#EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | ADITYA TV
-http://iptv12k.com:35461/80201051217/424567/1860
-#EXTINF: -1 tvg-name="IN : Tamil | CAPTAIN NEWS" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN : Tamil | CAPTAIN NEWS
-http://iptv12k.com:35461/80201051217/424567/1859
-#EXTINF: -1 tvg-name="IN : Tamil | DD PODHIGAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="INDIA TAMIL", IN : Tamil | DD PODHIGAI
-http://iptv12k.com:35461/80201051217/424567/1858
-#EXTINF: -1 tvg-name="IN : Tamil | EET TV" tvg-logo="https://eettv.com/wp-content/uploads/2020/02/logo-5.png" group-title="INDIA TAMIL", IN : Tamil | EET TV
-http://iptv12k.com:35461/80201051217/424567/1857
-#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="IN : Tamil | JAYA MAX USA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MAX USA
-http://iptv12k.com:35461/80201051217/424567/1855
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA MOVIES" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-movies-final.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MOVIES
-http://iptv12k.com:35461/80201051217/424567/1854
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Jaya-plus.png" group-title="INDIA TAMIL", IN : Tamil | JAYA PLUS
-http://iptv12k.com:35461/80201051217/424567/1853
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" group-title="INDIA TAMIL", IN : Tamil | JAYA TV
-http://iptv12k.com:35461/80201051217/424567/1852
-#EXTINF: -1 tvg-name="IN : Tamil | KTV US" tvg-logo="https://img1.wsimg.com/isteam/ip/5e5fca93-5352-4a39-bcdf-8b817712c45f/005%20Youtube%20Profile%20logo-new3.png" group-title="INDIA TAMIL", IN : Tamil | KTV US
-http://iptv12k.com:35461/80201051217/424567/1850
-#EXTINF: -1 tvg-name="IN : Tamil | NEWS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | NEWS 7
-http://iptv12k.com:35461/80201051217/424567/1849
-#EXTINF: -1 tvg-name="IN : Tamil | POLIMER NEWS" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA TAMIL", IN : Tamil | POLIMER NEWS
-http://iptv12k.com:35461/80201051217/424567/1848
-#EXTINF: -1 tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL", IN : Tamil | POLIMER TV
-http://iptv12k.com:35461/80201051217/424567/1847
-#EXTINF: -1 tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHIYA THALAIMURAI
-http://iptv12k.com:35461/80201051217/424567/1846
-#EXTINF: -1 tvg-name="IN : Tamil | PUTHUYUGAM TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHUYUGAM TV
-http://iptv12k.com:35461/80201051217/424567/1845
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS
-http://iptv12k.com:35461/80201051217/424567/1844
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS US
-http://iptv12k.com:35461/80201051217/424567/1843
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX
-http://iptv12k.com:35461/80201051217/424567/1842
-#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV
-http://iptv12k.com:35461/80201051217/424567/1841
-#EXTINF: -1 tvg-name="IN : Tamil | STAR VIJAY india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA TAMIL", IN : Tamil | STAR VIJAY india
-http://iptv12k.com:35461/80201051217/424567/1839
-#EXTINF: -1 tvg-name="IN : Tamil | SUN LIFE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png" group-title="INDIA TAMIL", IN : Tamil | SUN LIFE
-http://iptv12k.com:35461/80201051217/424567/1838
-#EXTINF: -1 tvg-name="IN : Tamil | SUN MUSIC" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN MUSIC
-http://iptv12k.com:35461/80201051217/424567/1837
-#EXTINF: -1 tvg-name="IN : Tamil | SUN NEWS" tvg-logo="https://img.favpng.com/6/25/2/television-channel-captain-news-tamil-sun-tv-png-favpng-rA1S4974KsWGL517TbzXajGq0.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN NEWS
-http://iptv12k.com:35461/80201051217/424567/1836
-#EXTINF: -1 tvg-name="IN : Tamil | VASANTH TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/vasanth-TV.png" group-title="INDIA TAMIL", IN : Tamil | VASANTH TV
-http://iptv12k.com:35461/80201051217/424567/1835
-#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR
-http://iptv12k.com:35461/80201051217/424567/1834
-#EXTINF: -1 tvg-name="IN : Tamil | WIN TV" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Win_Television_Logo.png" group-title="INDIA TAMIL", IN : Tamil | WIN TV
-http://iptv12k.com:35461/80201051217/424567/1833
-#EXTINF: -1 tvg-name="IN: GTV tamil" tvg-logo="https://s3.amazonaws.com/uk-tm/UK00002656643.jpg" group-title="INDIA TAMIL", IN: GTV tamil
-http://iptv12k.com:35461/80201051217/424567/1830
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS IN2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS IN2
-http://iptv12k.com:35461/80201051217/424567/4285
-#EXTINF: -1 tvg-name="IN: Isaiaruvi IN2" tvg-logo="https://nettv4u.com/uploads/07-07-2020/kuthu-pattu.jpg" group-title="INDIA TAMIL", IN: Isaiaruvi IN2
-http://iptv12k.com:35461/80201051217/424567/4284
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX IN2" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX IN2
-http://iptv12k.com:35461/80201051217/424567/4283
-#EXTINF: -1 tvg-name="IN: JAYA PLUS IN2" tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-jaya-plus-9853.jpg" group-title="INDIA TAMIL", IN: JAYA PLUS IN2
-http://iptv12k.com:35461/80201051217/424567/4282
-#EXTINF: -1 tvg-name="IN: Sathiyam TV IN2" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/sathiyan-2.png" group-title="INDIA TAMIL", IN: Sathiyam TV IN2
-http://iptv12k.com:35461/80201051217/424567/4281
-#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV IN2" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV IN2
-http://iptv12k.com:35461/80201051217/424567/4280
-#EXTINF: -1 tvg-name="IN: CAPTAIN TV IN2" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN: CAPTAIN TV IN2
-http://iptv12k.com:35461/80201051217/424567/4279
-#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR IN2" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR IN2
-http://iptv12k.com:35461/80201051217/424567/4278
-#EXTINF: -1 tvg-name="Mega TV IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mega_TV_India_Logo.jpg/1200px-Mega_TV_India_Logo.jpg" group-title="INDIA TAMIL", Mega TV IN2
-http://iptv12k.com:35461/80201051217/424567/4277
-#EXTINF: -1 tvg-name="Raj News Kannada IN2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-news-kannada-logo-300x300.jpg" group-title="INDIA TAMIL", Raj News Kannada IN2
-http://iptv12k.com:35461/80201051217/424567/4275
-#EXTINF: -1 tvg-name="ZEE Tamil HD IN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="INDIA TAMIL", ZEE Tamil HD IN2
-http://iptv12k.com:35461/80201051217/424567/4274
-#EXTINF: -1 tvg-id="SunTV.in" tvg-name="IN:  Tamil: Sun tv HD Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="INDIA TAMIL", IN:  Tamil: Sun tv HD Tamil
-http://iptv12k.com:35461/80201051217/424567/1863
-#EXTINF: -1 tvg-name="IN: Star Vijay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN: Star Vijay
-http://iptv12k.com:35461/80201051217/424567/1862
-#EXTINF: -1 tvg-name="IN : Tamil | VIJAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="INDIA TAMIL", IN : Tamil | VIJAY HD
-http://iptv12k.com:35461/80201051217/424567/1861
-#EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | ADITYA TV
-http://iptv12k.com:35461/80201051217/424567/1860
-#EXTINF: -1 tvg-name="IN : Tamil | CAPTAIN NEWS" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" group-title="INDIA TAMIL", IN : Tamil | CAPTAIN NEWS
-http://iptv12k.com:35461/80201051217/424567/1859
-#EXTINF: -1 tvg-name="IN : Tamil | DD PODHIGAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="INDIA TAMIL", IN : Tamil | DD PODHIGAI
-http://iptv12k.com:35461/80201051217/424567/1858
-#EXTINF: -1 tvg-name="IN : Tamil | EET TV" tvg-logo="https://eettv.com/wp-content/uploads/2020/02/logo-5.png" group-title="INDIA TAMIL", IN : Tamil | EET TV
-http://iptv12k.com:35461/80201051217/424567/1857
-#EXTINF: -1 tvg-id="JayaMax.in" tvg-name="IN : Tamil | JAYA MAX USA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MAX USA
-http://iptv12k.com:35461/80201051217/424567/1855
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA MOVIES" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-movies-final.jpg" group-title="INDIA TAMIL", IN : Tamil | JAYA MOVIES
-http://iptv12k.com:35461/80201051217/424567/1854
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Jaya-plus.png" group-title="INDIA TAMIL", IN : Tamil | JAYA PLUS
-http://iptv12k.com:35461/80201051217/424567/1853
-#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" group-title="INDIA TAMIL", IN : Tamil | JAYA TV
-http://iptv12k.com:35461/80201051217/424567/1852
-#EXTINF: -1 tvg-name="IN : Tamil | KTV US" tvg-logo="https://img1.wsimg.com/isteam/ip/5e5fca93-5352-4a39-bcdf-8b817712c45f/005%20Youtube%20Profile%20logo-new3.png" group-title="Indian", IN : Tamil | KTV US
-http://iptv12k.com:35461/80201051217/424567/1850
-#EXTINF: -1 tvg-name="IN : Tamil | NEWS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | NEWS 7
-http://iptv12k.com:35461/80201051217/424567/1849
-#EXTINF: -1 tvg-name="IN : Tamil | POLIMER NEWS" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="INDIA TAMIL", IN : Tamil | POLIMER NEWS
-http://iptv12k.com:35461/80201051217/424567/1848
-#EXTINF: -1 tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL", IN : Tamil | POLIMER TV
-http://iptv12k.com:35461/80201051217/424567/1847
-#EXTINF: -1 tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHIYA THALAIMURAI
-http://iptv12k.com:35461/80201051217/424567/1846
-#EXTINF: -1 tvg-name="IN : Tamil | PUTHUYUGAM TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="INDIA TAMIL", IN : Tamil | PUTHUYUGAM TV
-http://iptv12k.com:35461/80201051217/424567/1845
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS
-http://iptv12k.com:35461/80201051217/424567/1844
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="INDIA TAMIL", IN : Tamil | RAJ DIGITAL PLUS US
-http://iptv12k.com:35461/80201051217/424567/1843
-#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX" tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="INDIA TAMIL", IN : Tamil | RAJ MUSIX
-http://iptv12k.com:35461/80201051217/424567/1842
-#EXTINF: -1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="INDIA TAMIL", IN : Tamil | RAJ TV
-http://iptv12k.com:35461/80201051217/424567/1841
-#EXTINF: -1 tvg-name="IN : Tamil | STAR VIJAY India" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="INDIA TAMIL", IN : Tamil | STAR VIJAY india
-http://iptv12k.com:35461/80201051217/424567/1839
-#EXTINF: -1 tvg-name="IN : Tamil | SUN LIFE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4525a16126755.562a5bb068cba.png" group-title="INDIA TAMIL", IN : Tamil | SUN LIFE
-http://iptv12k.com:35461/80201051217/424567/1838
-#EXTINF: -1 tvg-name="IN : Tamil | SUN MUSIC" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN MUSIC
-http://iptv12k.com:35461/80201051217/424567/1837
-#EXTINF: -1 tvg-name="IN : Tamil | SUN NEWS" tvg-logo="https://img.favpng.com/6/25/2/television-channel-captain-news-tamil-sun-tv-png-favpng-rA1S4974KsWGL517TbzXajGq0.jpg" group-title="INDIA TAMIL", IN : Tamil | SUN NEWS
-http://iptv12k.com:35461/80201051217/424567/1836
-#EXTINF: -1 tvg-name="IN : Tamil | VASANTH TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/vasanth-TV.png" group-title="INDIA TAMIL", IN : Tamil | VASANTH TV
-http://iptv12k.com:35461/80201051217/424567/1835
-#EXTINF: -1 tvg-name="IN : Tamil | VENDHAR" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="INDIA TAMIL", IN : Tamil | VENDHAR
-http://iptv12k.com:35461/80201051217/424567/1834
-#EXTINF: -1 tvg-name="IN : Tamil | WIN TV" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Win_Television_Logo.png" group-title="INDIA TAMIL", IN : Tamil | WIN TV
-http://iptv12k.com:35461/80201051217/424567/1833
-#EXTINF: -1 tvg-name="IN: GTV tamil" tvg-logo="https://s3.amazonaws.com/uk-tm/UK00002656643.jpg" group-title="INDIA TAMIL", IN: GTV tamil
-http://iptv12k.com:35461/80201051217/424567/1830
-
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SiapaTutupLampu.png",Siapa Tutup Lampu?
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
