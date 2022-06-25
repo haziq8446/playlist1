@@ -39,7 +39,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-#KODIPhttps:http://axcestv.vip:8080/FreeSG/axcestv/453
+https:http://axcestv.vip:8080/FreeSG/axcestv/453
 
 #EXTINF: -1 tvg-id="116" tvg-name="Astro Sensasi" tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg" group-title="Astro", Astro Sensasi
 https://ktiptv.cf:443/7605/7605/656644
@@ -47,7 +47,7 @@ https://ktiptv.cf:443/7605/7605/656644
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-#KODIPhttps:http://axcestv.vip:8080/FreeSG/axcestv/453
+https:http://axcestv.vip:8080/FreeSG/axcestv/453
 
 #EXTINF: -1 tvg-id="AstroRia.my" tvg-name="Astro Ria [B]" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png"group-title="ASTRO", 104 Astro Ria [B]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -268,9 +268,6 @@ https://ktiptv.cf:443/7605/7605/540594
 #EXTINF: -1 tvg-name="[IN] KTV HD" group-title="Indian" ,TV KTV HD
 https://ktiptv.cf:443/7605/7605/540674
 
-#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="INDIA TAMIL",IN : Tamil | POLIMER TV
-http://iptv12k.com:35461/80201051217/424567/1847
-
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5011
@@ -481,143 +478,9 @@ http://sonyiptv.net:8080/775543/775543/45469
 #EXTINF: -1 tvg-name="NETFLIX MOVIES" group-title="Movies" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="NETFLIX-LIVE", NETFLIX MOVIES
 http://stariptv.org:8080/live/nour2020/123456/107035.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ACTION 1 HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ACTION 1 HD
-http://b1g.one:80/live/4/4/94567.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD1
-http://b1g.one:80/live/4/4/175474.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD2" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD2
-http://b1g.one:80/live/4/4/175475.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD3" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD3
-http://b1g.one:80/live/4/4/175476.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD4" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD4
-http://b1g.one:80/live/4/4/175477.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD5" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD5
-http://b1g.one:80/live/4/4/175478.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD6" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD6
-http://b1g.one:80/live/4/4/175479.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD7" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD7
-http://b1g.one:80/live/4/4/175480.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD8" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD8
-http://b1g.one:80/live/4/4/175481.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD9" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD9
-http://b1g.one:80/live/4/4/175482.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Action HD10" tvg-logo="" group-title="CineMania 24/7",Netflix Action HD10
-http://b1g.one:80/live/4/4/175483.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD1
-http://b1g.one:80/live/4/4/175484.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD2" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD2
-http://b1g.one:80/live/4/4/175485.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD3" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD3
-http://b1g.one:80/live/4/4/175486.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD4" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD4
-http://b1g.one:80/live/4/4/175487.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD5" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD5
-http://b1g.one:80/live/4/4/175488.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD6" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD6
-http://b1g.one:80/live/4/4/175489.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD7" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD7
-http://b1g.one:80/live/4/4/175490.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD8" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD8
-http://b1g.one:80/live/4/4/175491.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD9" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD9
-http://b1g.one:80/live/4/4/175492.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Animation HD10" tvg-logo="" group-title="CineMania 24/7",Netflix Animation HD10
-http://b1g.one:80/live/4/4/175493.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ARABIC 1 HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ARABIC 1 HD
-http://b1g.one:80/live/4/4/94561.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ARABIC 2 HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ARABIC 2 HD
-http://b1g.one:80/live/4/4/94562.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX BOX OFFICE HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX BOX OFFICE HD
-http://b1g.one:80/live/4/4/94572.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX COMEDY HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX COMEDY HD
-http://b1g.one:80/live/4/4/94571.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD1
-http://b1g.one:80/live/4/4/175494.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD2" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD2
-http://b1g.one:80/live/4/4/175495.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD3" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD3
-http://b1g.one:80/live/4/4/175496.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD4" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD4
-http://b1g.one:80/live/4/4/175497.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD5" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD5
-http://b1g.one:80/live/4/4/175498.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD6" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD6
-http://b1g.one:80/live/4/4/175499.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD7" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD7
-http://b1g.one:80/live/4/4/175500.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD8" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD8
-http://b1g.one:80/live/4/4/175501.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD9" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD9
-http://b1g.one:80/live/4/4/175502.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Comedy HD10" tvg-logo="" group-title="CineMania 24/7",Netflix Comedy HD10
-http://b1g.one:80/live/4/4/175503.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Netflix Crime HD1" tvg-logo="" group-title="CineMania 24/7",Netflix Crime HD1
-http://b1g.one:80/live/4/4/175504.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX DISCOVERY HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX DISCOVERY HD
-http://b1g.one:80/live/4/4/94566.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX DRAMA HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX DRAMA HD
-http://b1g.one:80/live/4/4/94570.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX ENGLISH SERIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX ENGLISH SERIES HD
-http://b1g.one:80/live/4/4/94560.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX HORROR HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX HORROR HD
-http://b1g.one:80/live/4/4/94569.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX MOVIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX MOVIES HD
-http://b1g.one:80/live/4/4/94575.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX PLAYS HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX PLAYS HD
-http://b1g.one:80/live/4/4/94568.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX SERIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX SERIES HD
-http://b1g.one:80/live/4/4/94576.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX THRILLER HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX THRILLER HD
-http://b1g.one:80/live/4/4/94577.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NETFLIX TURKEY SERIES HD" tvg-logo="" group-title="CineMania 24/7",NETFLIX TURKEY SERIES HD
-http://b1g.one:80/live/4/4/94563.m3u8
 
 #EXTINF: -1 tvg-id="SONY PIX HD" tvg-name="SONY Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", SONY Pix
-http://axcestv.vip:8080/FreeSG/axcestv/514
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF: -1 tvg-id="Movies Now HD" tvg-name="Movies NOW" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="MOVIES", Movies NOW
 http://axcestv.vip:8080/FreeSG/axcestv/649
@@ -1077,10 +940,10 @@ http://iptv12k.com:35461/80201051217/424567/3388
 http://iptv12k.com:35461/80201051217/424567/3387
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506 " tvg-logo="https://media.info/i/lf/0/1489225082/6553.png" group-title="Sports",don Fox Sports 506 
-http://iptv12k.com:35461/80201051217/424567/1631
+http://iptvtree.net:8080/live/rhaddaoui90/58b4b54325/280194.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[AU] Fox Sports 507 AU" tvg-logo="https://icdb.tv/images/3f7c952ca7c01ee0173f4f4713a7d0cc.jpg" group-title="Sports",[AU] Fox Sports 507 AU
-http://iptv12k.com:35461/80201051217/424567/3385
+http://iptvtree.net:8080/live/rhaddaoui90/58b4b54325/269.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport 1 SD" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="Sports",UK: Sky Sport 1 SD
 https://ktiptv.cf:443/7605/7605/869599
@@ -1107,10 +970,10 @@ https://ktiptv.cf:443/7605/7605/869598
 https://ktiptv.cf:443/7605/7605/869615
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Moto GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_MotoGP_-_Logo_2018.svg/1280px-Sky_Sport_MotoGP_-_Logo_2018.svg.png" group-title="Sports",UK: SKY SPORTS MOTOGP HD
-http://anonymoustv.club:80/q5CbKmjb22/X9UF6p9za6/9128
+http://iptvtree.net:8080/live/rhaddaoui90/58b4b54325/279033.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/golf-channel-logo-vector.png" group-title="Sports",UK: SKY SPORTS GOLF HD
-https://ktiptv.cf:443/7605/7605/869601
+http://iptvtree.net:8080/live/rhaddaoui90/58b4b54325/279033.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="Sports",UK: SKY SPORTS MAIN EVENT
 https://ktiptv.cf:443/7605/7605/869611
