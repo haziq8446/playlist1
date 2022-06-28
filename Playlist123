@@ -251,11 +251,9 @@ http://sonyiptv.net:8080/775543/775543/6079
 #EXTINF:-1 tvg-id="KTVHD [Backup]" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717",5 KTV HD
 http://live.geoiptv.org:8880/live/86869915/919108446769/587336.ts
 
-#EXTINF: -1 tvg-name="Sun TV HD" group-title="India", tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
+#EXTINF:-1 tvg-id="" tvg-name=" Tamil: SUN TV (4K)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" group-title="Indian", SUN TV (4K)
 http://live.geoiptv.org:8880/live/86869915/919108446769/586757.ts
 
-#EXTINF: -1 tvg-name="KTV HD" group-title="Indian" ,KTV HD
-http://live.geoiptv.org:8880/live/86869915/919108446769/179322.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" EET TV" tvg-logo="http://tvstar.live:8880/channels_icon/11033795111.png" group-title="Indian",IN-Tamil: EET TV HD 
 http://live.geoiptv.org:8880/live/86869915/919108446769/324785.ts
