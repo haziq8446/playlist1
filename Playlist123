@@ -231,16 +231,19 @@ https://ktiptv.cf:443/7605/7605/25959
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 #EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD
-http://live.geoiptv.org:8880/live/86869915/919108446769/586756.ts
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/36442
 
 #EXTINF: -1 tvg-name="IN:Yupp Thirai" group-title="indian" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/0a24c3c8c10b6a7074bb7ddd3d8a288f.png" group-title="Indian", IN:Yupp Thirai
-http://axcestv.vip:8080/FreeSG/axcestv/588
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/287042
 
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/3.jpg" group-title="Indian", Zee Cinema HD
-http://live.geoiptv.org:8880/live/86869915/919108446769/326061.ts
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/1350
 
 #EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/02/zee-tv-vector-logo.png" group-title="Indian", Zee TV IN
 http://mytv.fun:8080/795ynr2jxp/iiu63qg8zu/4000
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="Indian", Zee Action
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/1353
 
 #EXTINF:-1 tvg-id="Andpicture HD Backup"group-title="Movies" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/XUReNE27.png",512 Andpicture HD
 http://stariptv.org:8080/nour2020/123456/99337
@@ -249,13 +252,13 @@ http://stariptv.org:8080/nour2020/123456/99337
 http://sonyiptv.net:8080/775543/775543/6079
 
 #EXTINF:-1 tvg-id="KTVHD [Backup]" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD (Backup)
-http://starshare.live:8080/live/usman007/usman007/160.m3u8
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/36442
 
-#EXTINF:-1 tvg-id="" tvg-name=" Tamil: SUN TV (4K)" tvg-logo="http://tvstar.live:8880/channels_icon/63849402651.png" group-title="Indian",IN-Tamil: SUN TV (4K)
-http://live.geoiptv.org:8880/live/86869915/919108446769/586757.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Tamil: SUN TV " tvg-logo="http://tvstar.live:8880/channels_icon/63849402651.png" group-title="Indian",IN-Tamil: SUN TV HD
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/76969
 
 #EXTINF:-1 tvg-id="" tvg-name=" EET TV" tvg-logo="http://tvstar.live:8880/channels_icon/11033795111.png" group-title="Indian",IN-Tamil: EET TV HD 
-http://live.geoiptv.org:8880/live/86869915/919108446769/324785.ts
+http://iptvtree.net:8080/rhaddaoui90/58b4b54325/51818
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: Polimer TV" tvg-logo="http://tvstar.live:8880/jio_icon/53796819771.png" group-title="Indian",IN-Tamil: Polimer TV HD
 http://live.geoiptv.org:8880/live/86869915/919108446769/587791.ts
