@@ -29,30 +29,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3 Unifi
-http://axcestv.vip:8080/FreeSG/axcestv/436
+http://syok.tv:2082/azahar/azahar/5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (Backup)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-https:http://axcestv.vip:8080/FreeSG/axcestv/453
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
+#EXTINF:-1 tvg-id="104" tvg-name="MY: Astro Ria " tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="Astro",MY: Astro Ria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https:http://axcestv.vip:8080/FreeSG/axcestv/453
+http://syok.tv:2082/azahar/azahar/18
 
-#EXTINF: -1 tvg-id="AstroRia.my" tvg-name="Astro Ria [B]" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png"group-title="ASTRO", 104 Astro Ria [B]
+#EXTINF:-1 tvg-id="104" tvg-name="MY: Astro Ria " tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="Astro",MY: Astro Ria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-#KODIPhttps:http://axcestv.vip:8080/FreeSG/axcestv/453
+http://syok.tv:2082/azahar/azahar/19
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+http://syok.tv:2082/azahar/azahar/20
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
@@ -60,29 +58,29 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/25
+http://syok.tv:2082/azahar/azahar/25
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-http://axcestv.vip:8080/FreeSG/axcestv/456
+http://syok.tv:2082/azahar/azahar/22
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809",107 Astro Warna (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-http://axcestv.vip:8080/FreeSG/axcestv/456
+http://syok.tv:2082/azahar/azahar/22
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-http://axcestv.vip:8080/FreeSG/axcestv/459
+http://syok.tv:2082/azahar/azahar/26
 # https://live.astradamy.com/astro/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-http://axcestv.vip:8080/FreeSG/axcestv/459
+http://syok.tv:2082/azahar/azahar/26
 
 #EXTINF: -1 tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTAXXFZ9XJmhyflx8q0oUMIRWugHWx1xdDGMWtaNQ=s900-c-k-c0x00ffffff-no-rj" group-title="ASTRO FIRST", Astro First- Jaga-Jaga Senariounion
 http://axcestv.vip:8080/FreeSG/axcestv/486
@@ -231,10 +229,10 @@ https://ktiptv.cf:443/7605/7605/25959
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 #EXTINF:-1 tvg-id="KTVHD" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/36442
+http://syok.tv:2082/azahar/azahar/3910
 
 #EXTINF: -1 tvg-name="IN:Yupp Thirai" group-title="indian" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/0a24c3c8c10b6a7074bb7ddd3d8a288f.png" group-title="Indian", IN:Yupp Thirai
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/287042
+http://syok.tv:2082/azahar/azahar/37
 
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/3.jpg" group-title="Indian", Zee Cinema HD
 http://iptvtree.net:8080/rhaddaoui90/58b4b54325/1350
@@ -252,13 +250,13 @@ http://stariptv.org:8080/nour2020/123456/99337
 http://sonyiptv.net:8080/775543/775543/6079
 
 #EXTINF:-1 tvg-id="KTVHD [Backup]" group-title="indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/K_TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20180317144717", KTV HD (Backup)
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/36442
+http://syok.tv:2082/azahar/azahar/3910
 
-#EXTINF:-1 tvg-id="" tvg-name=" Tamil: SUN TV " tvg-logo="http://tvstar.live:8880/channels_icon/63849402651.png" group-title="Indian",IN-Tamil: SUN TV HD
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/76969
+#EXTINF:-1 tvg-id="" tvg-name=" Tamil: SUN TV " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" group-title="Indian",IN-Tamil: SUN TV HD
+http://syok.tv:2082/azahar/azahar/84
 
 #EXTINF:-1 tvg-id="" tvg-name=" EET TV" tvg-logo="http://tvstar.live:8880/channels_icon/11033795111.png" group-title="Indian",IN-Tamil: EET TV HD 
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/51818
+http://syok.tv:2082/azahar/azahar/3691
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: Polimer TV" tvg-logo="http://tvstar.live:8880/jio_icon/53796819771.png" group-title="Indian",IN-Tamil: Polimer TV HD
 http://live.geoiptv.org:8880/live/86869915/919108446769/587791.ts
@@ -495,13 +493,13 @@ http://live.geoiptv.org:8880/live/86869915/919108446769/586721.ts
 http://live.geoiptv.org:8880/live/86869915/919108446769/586718.ts
 
 #EXTINF: -1 tvg-id="STAR Movies" tvg-name="Star Movies HD " tvg-logo="https://toppng.com//public/uploads/preview/star-movies-logo-vector-11573968606tmevrxokfl.jpg" group-title="MOVIES", Star Movies
-http://starshare.live:8080/live/usman007/usman007/979.m3u8
+http://syok.tv:2082/azahar/azahar/116
 
 #EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="MOVIES", Star Movie Select
-http://starshare.live:8080/live/usman007/usman007/218.m3u8
+http://syok.tv:2082/azahar/azahar/1551
 
-#EXTINF: -1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://www.kindpng.com/imgv/iJxmhbx_cinemax-logo-png-transparent-png/" group-title="MOVIES", Cinemax
-http://axcestv.vip:8080/FreeSG/axcestv/507
+#EXTINF: -1 tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="MOVIES", Cinemax
+http://syok.tv:2082/azahar/azahar/192
 
 #EXTINF: -1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://archive.org/download/page-my-movies/page-my-movies.png" group-title="MOVIES", MyCinema Asia
 http://axcestv.vip:8080/FreeSG/axcestv/508
@@ -516,7 +514,7 @@ http://axcestv.vip:8080/FreeSG/axcestv/517
 http://axcestv.vip:8080/FreeSG/axcestv/518
 
 #EXTINF: -1 tvg-name="IMC" tvg-logo="https://images.useetv.com/tvposter/imc.png" group-title="MOVIES", IMC
-http://axcestv.vip:8080/FreeSG/axcestv/522
+http://syok.tv:2082/azahar/azahar/187
 
 #EXTINF: -1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://images.useetv.com/tvposter/flik.png" group-title="MOVIES", Flik
 http://axcestv.vip:8080/FreeSG/axcestv/523
@@ -848,7 +846,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-http://axcestv.vip:8080/FreeSG/axcestv/595
+http://syok.tv:2082/azahar/azahar/124
 # https://live.astradamy.com/astro/s1/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=" Fox Sports 501 AU" tvg-logo="https://media.info/i/lf/0/1489224113/6550.png" group-title="Sports", Fox Sports 501 AU
@@ -929,40 +927,40 @@ http://live.geoiptv.org:8880/live/86869915/919108446769/134270.ts
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",811 Astro SuperSport HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-http://axcestv.vip:8080/FreeSG/axcestv/594
+http://syok.tv:2082/azahar/azahar/124
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport2.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-http://axcestv.vip:8080/FreeSG/axcestv/597
+http://syok.tv:2082/azahar/azahar/125
 # https://live.astradamy.com/astro/s2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport2.png",812 Astro SuperSport 2 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-http://axcestv.vip:8080/FreeSG/axcestv/596
+http://syok.tv:2082/azahar/azahar/125
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-http://axcestv.vip:8080/FreeSG/axcestv/599
+http://syok.tv:2082/azahar/azahar/126
 # https://live.astradamy.com/astro/s3/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport.png",813 Astro SuperSport 3 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-http://axcestv.vip:8080/FreeSG/axcestv/598
+http://syok.tv:2082/azahar/azahar/126
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport4.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-http://axcestv.vip:8080/FreeSG/axcestv/601
+http://syok.tv:2082/azahar/azahar/127
 # https://live.astradamy.com/astro/s4/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport4.png",814 Astro SuperSport 4 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-http://axcestv.vip:8080/FreeSG/axcestv/600
+http://syok.tv:2082/azahar/azahar/127
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1285,6 +1283,9 @@ https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/c89479eb-ad03-52ec-9
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/olympic-dream.png",Dekatnya Cinta
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/8c9c1852-cf4b-565f-90df-f8e958a4ae47/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Don (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30TKQqrYQV3ri4PdSvEeqSbbnIC.jpg" group-title="TAMIL",Don (2022)
+http://syok.tv:2082/movie/azahar/azahar/11786.mp4
 
 #EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.astradamy.com/images/Venom-Let-There-Be-Carnage.png" type="movie",Venom: Let There Be Carnage
 https://onedrive-aqfad.vercel.app/api?path=/VOD/Venom.Let.There.Be.Carnage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
