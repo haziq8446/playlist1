@@ -1266,15 +1266,15 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="Upin Ipin Edisi Ramadan" group-title="Astro First" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Upin Ipin Edisi Ramadan Raya" tvg-logo="https://i.ytimg.com/vi/kURzDPw-K8c/maxresdefault.jpg" group-title="Astro First Movie",Upin Ipin Edisi Ramadan Raya
-http://iptv12k.com:35461/movie/80201051217/424567/8036.mp4
-
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama.jpg",Penunggang Agama
 https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true&type=file.mp4
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama-2-poster.jpg",Penunggang Agama 2
 # https://www76.sbcdnvideo.com/hls/tysxfzqbb666j6cdabebhxs7fzodsk4q4rnp3rotaa66nhupduxkxltnfpaq/index-v1-a1.m3u8
 https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",Doctor_Strange_in_the_Multiverse_of_Madness
+https://ww1.123moviesfree.net/movie/doctor-strange-in-the-multiverse-of-madness-1630853347/watching.html
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/olympic-dream.png",Olympic Dream
 https://onedrive.astradamy.com/api?path=/Movies/Olympic.Dream.2021.1080p.WEB-DL-ms.en.zh-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
