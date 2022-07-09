@@ -1309,8 +1309,11 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Last-Man-Down.png",Last Man Down
 https://onedrive-aqfad.vercel.app/api?path=/VOD/Last.Man.Down.2021.720p.BRRip-OMG.mp4&raw=true&type=file.mp4
 
-#EXTINF:-1 group-title="Marvel_Studios'_Doctor_Strange_in_the_Multiverse_of_Madness_Official" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+#EXTINF:-1 group-title="Marvel""Marvel_Studios'_Doctor_Strange_in_the_Multiverse_of_Madness_Official" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",JURASSIC WORLD DOMINION (2022) HC WEB MALAYSUB
 https://ww1.123moviesfree.net/movie/doctor-strange-in-the-multiverse-of-madness-1630853347/watching.html
+
+#EXTINF:-1 group-title="Marvel""JURASSIC WORLD DOMINION (2022) HC WEB MALAYSUB" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+https://cloudvideo.tv/xl7dhkotk68l
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SiapaTutupLampu.png",Siapa Tutup Lampu?
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
